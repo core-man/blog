@@ -43,7 +43,7 @@ slug: backup
 #### 1.3 File management
 
 - [文件管理与备份](https://blog.seisman.info/file-organization) (Seisman)
-- [文件备份]({{< ref "/note/Work/backup/index.md" >}})
+- [文件备份](https://core-man.github.io/blog/post/backup/)
 
 
 #### 1.4 Computer languages
@@ -144,7 +144,7 @@ slug: backup
     - [Parameter Estimation and Inverse Problems](/datas/book/inversion/Parameter estimation and inverse problems 2nd Edition.pdf): A textbook for basic inversion theory
     - [Global Optimization Methods in Geophysical Inversion](/datas/book/inversion/Global Optimization Methods in Geophysical Inversion-2013.pdf): A textbook focusing on global optimization methods in geophysics, e.g., Monte-Carlo methods
     - [Data and models: engeneering, science and business](/datas/book/inversion/Data and models-engeneering science and business.pdf) A lecture for data and models
-- [Some learning resources]({{< ref "/link/learning.md" >}})
+- `Some learning resources`
 
 
 ### 3. Seismological Software Basis
@@ -169,18 +169,18 @@ slug: backup
     - Synthetics
         - [fk](http://www.eas.slu.edu/People/LZhu/home.html): Calculate synthetic seismograms in layered isotropic models, using frequency-wavenumber method | [Chinese introduction](https://blog.seisman.info/fk-notes) | [Intall fk](https://blog.seisman.info/fk-install)
         - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
-- [More softwares]({{< ref "/link/codes.md" >}})
+- `More softwares`
 
 ### 4. Reading and Writing Basis
 
-- [How to Read and Write]({{< ref "/note/Work/paper-reading-writing/reading-writing-notes.md" >}})
+- `How to Read and Write`
 
 
 ### 5. Useful links
 
 - [Seisman](https://seisman.info): a very useful and famous website to learn seismology | [Seisman's blog](http://blog.seisman.info)
 - [MSU Wei's Group Seismic Training](https://sites.google.com/msu.edu/wei-seismic-training/)
-- [Database links]({{< ref "/link/database.md" >}})
+- `Database links`
 
 
 ### Revision history
