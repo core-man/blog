@@ -6,7 +6,7 @@ author: core-man
 draft: false
 tags: ["Linux", "编程", "地震学基础"]
 categories: ["Linux", "编程", "地震学基础"]
-slug: backup
+slug: intro-material-seismology
 ---
 
 ### 1. Computer Basis
