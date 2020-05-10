@@ -154,11 +154,9 @@ slug: intro-material-seismology
 - Seismic data downloading
     - [SOD](http://www.seis.sc.edu/sod): [Chinese introduction](https://blog.seisman.info/sod-notes) | [recipes](https://github.com/seisman/SODrecipes)
     - [Hinet](https://github.com/seisman/HinetPy): Download continuous waveform data from Hi-net and F-net | [Hinet note](https://blog.seisman.info/hinet/)
-
 - Seismic data processing
     - [SAC](https://seisman.github.io/SAC_Docs_zh)
     - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
-
 - Understanding seismic data
     - [Seismic data format](https://blog.seisman.info/seismic-data-formats/)
     - [Instrument response](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94/)
@@ -172,10 +170,8 @@ slug: intro-material-seismology
 
 - Traveltime
     - [Taup](https://www.seis.sc.edu/taup): [Chinese introduction](https://blog.seisman.info/tags/TauP)
-
 - Amplitude
     - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
-
 - Synthetics
     - [fk](http://www.eas.slu.edu/People/LZhu/home.html): Calculate synthetic seismograms in layered isotropic models, using frequency-wavenumber method | [Chinese introduction](https://blog.seisman.info/fk-notes) | [Intall fk](https://blog.seisman.info/fk-install)
     - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
