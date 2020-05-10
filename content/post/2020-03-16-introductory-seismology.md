@@ -34,9 +34,9 @@ slug: intro-material-seismology
     - [Documentation of the GNU Project](https://www.gnu.org/doc/doc.en.html)
 
 
-### Operating system guide
+### Operating system
 
-- Linux: [Free Linux Distributions](http://www.ee.surrey.ac.uk/Teaching/Unix/links.html) | [Centos7](https://blog.seisman.info/centos7-setup)
+- Linux: [Free Linux Distributions](http://www.ee.surrey.ac.uk/Teaching/Unix/links.html) | [CentOS 7](https://blog.seisman.info/centos7-setup)
 - [MacOS](https://blog.seisman.info/macOS)
 
 
@@ -134,39 +134,52 @@ slug: intro-material-seismology
 
 ## Seismological Basis
 
-- Seismology
-    - [Introduction to Seismology](https://www.cambridge.org/sg/academic/subjects/earth-and-environmental-science/solid-earth-geophysics/introduction-seismology-3rd-edition?format=HB&isbn=9781316635742): A textbook for undergraduate
-    - [An Introduction to Seismology, Earthquakes and Earth Structure](https://www.wiley.com/en-us/An+Introduction+to+Seismology%2C+Earthquakes%2C+and+Earth+Structure-p-9780865420786): A textbook for undergraduate & graduate
-    - [Modern Global Seismology](https://www.elsevier.com/books/modern-global-seismology/lay/978-0-12-732870-6): A textbook for graduate
-    - [Quantitative Seismology: Theory and Methods](https://www.ldeo.columbia.edu/~richards/Aki_Richards.html): A textbook for graduate (difficulty)
-- Geophysical inversion
-    - [Inverse Problem Theory and Methods for Model Parameter Estimation](https://www.cambridge.org/gb/academic/subjects/statistics-probability/statistics-physical-sciences-and-engineering/inverse-problem-theory-and-methods-model-parameter-estimation?format=PB&isbn=9780898715729): A textbook for basic inversion theory
-    - [Parameter Estimation and Inverse Problems](https://www.sciencedirect.com/book/9780128046517/parameter-estimation-and-inverse-problems): A textbook for basic inversion theory
-    - [Global Optimization Methods in Geophysical Inversion](https://www.cambridge.org/core/books/global-optimization-methods-in-geophysical-inversion/C2B23286E6BCC2177117431CB568101C): A textbook focusing on global optimization methods in geophysics, e.g., Monte-Carlo methods
+### Seismology
+
+- [Introduction to Seismology](https://www.cambridge.org/sg/academic/subjects/earth-and-environmental-science/solid-earth-geophysics/introduction-seismology-3rd-edition?format=HB&isbn=9781316635742): A textbook for undergraduate
+- [An Introduction to Seismology, Earthquakes and Earth Structure](https://www.wiley.com/en-us/An+Introduction+to+Seismology%2C+Earthquakes%2C+and+Earth+Structure-p-9780865420786): A textbook for undergraduate & graduate
+- [Modern Global Seismology](https://www.elsevier.com/books/modern-global-seismology/lay/978-0-12-732870-6): A textbook for graduate
+- [Quantitative Seismology: Theory and Methods](https://www.ldeo.columbia.edu/~richards/Aki_Richards.html): A textbook for graduate (difficulty)
+
+### Geophysical inversion
+
+- [Inverse Problem Theory and Methods for Model Parameter Estimation](https://www.cambridge.org/gb/academic/subjects/statistics-probability/statistics-physical-sciences-and-engineering/inverse-problem-theory-and-methods-model-parameter-estimation?format=PB&isbn=9780898715729): A textbook for basic inversion theory
+- [Parameter Estimation and Inverse Problems](https://www.sciencedirect.com/book/9780128046517/parameter-estimation-and-inverse-problems): A textbook for basic inversion theory
+- [Global Optimization Methods in Geophysical Inversion](https://www.cambridge.org/core/books/global-optimization-methods-in-geophysical-inversion/C2B23286E6BCC2177117431CB568101C): A textbook focusing on global optimization methods in geophysics, e.g., Monte-Carlo methods
 
 
 ## Seismological Software
 
-- Seismic data
-    - Seismic data downloading
-        - [SOD](http://www.seis.sc.edu/sod): [Chinese introduction](https://blog.seisman.info/sod-notes) | [recipes](https://github.com/seisman/SODrecipes)
-        - [Hinet](https://github.com/seisman/HinetPy): Download continuous waveform data from Hi-net and F-net | [Hinet note](https://blog.seisman.info/hinet/)
-    - Seismic data processing
-        - [SAC](https://seisman.github.io/SAC_Docs_zh)
-        - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
-    - Understanding seismic data
-        - [Seismic data format](https://blog.seisman.info/seismic-data-formats/)
-        - [Instrument response](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94/)
-- Plotting
-    - [GMT](https://www.generic-mapping-tools.org): [GMT中文社区](https://gmt-china.org) | [pssac for GMT4](https://blog.seisman.info/tags/pssac) | [pssac2 for GMT4 and GMT5](https://blog.seisman.info/tags/pssac2)
-- Forward calculation
-    - Traveltime
-        - [Taup](https://www.seis.sc.edu/taup): [Chinese introduction](https://blog.seisman.info/tags/TauP)
-    - Amplitude
-        - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
-    - Synthetics
-        - [fk](http://www.eas.slu.edu/People/LZhu/home.html): Calculate synthetic seismograms in layered isotropic models, using frequency-wavenumber method | [Chinese introduction](https://blog.seisman.info/fk-notes) | [Intall fk](https://blog.seisman.info/fk-install)
-        - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
+### Seismic data
+
+- Seismic data downloading
+    - [SOD](http://www.seis.sc.edu/sod): [Chinese introduction](https://blog.seisman.info/sod-notes) | [recipes](https://github.com/seisman/SODrecipes)
+    - [Hinet](https://github.com/seisman/HinetPy): Download continuous waveform data from Hi-net and F-net | [Hinet note](https://blog.seisman.info/hinet/)
+
+- Seismic data processing
+    - [SAC](https://seisman.github.io/SAC_Docs_zh)
+    - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
+
+- Understanding seismic data
+    - [Seismic data format](https://blog.seisman.info/seismic-data-formats/)
+    - [Instrument response](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94/)
+
+### Plotting
+
+- [GMT](https://www.generic-mapping-tools.org): [GMT中文社区](https://gmt-china.org) | [pssac for GMT4](https://blog.seisman.info/tags/pssac) | [pssac2 for GMT4 and GMT5](https://blog.seisman.info/tags/pssac2)
+
+
+### Forward calculation
+
+- Traveltime
+    - [Taup](https://www.seis.sc.edu/taup): [Chinese introduction](https://blog.seisman.info/tags/TauP)
+
+- Amplitude
+    - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
+
+- Synthetics
+    - [fk](http://www.eas.slu.edu/People/LZhu/home.html): Calculate synthetic seismograms in layered isotropic models, using frequency-wavenumber method | [Chinese introduction](https://blog.seisman.info/fk-notes) | [Intall fk](https://blog.seisman.info/fk-install)
+    - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 
 
 ## References
