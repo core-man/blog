@@ -1,7 +1,7 @@
 ---
 title: "地震学初步入门材料推荐"
-date: 2020-03-16T01:30:00
-lastmod: 2020-03-16T01:30:00
+date: 2020-03-16
+lastmod: 2020-03-16
 author: core-man
 draft: false
 tags: ["Linux", "编程", "地震学基础"]
