@@ -11,6 +11,12 @@ slug: intro-material-seismology
 
 ## Computer
 
+### Operating system
+
+- Linux: [Free Linux Distributions](http://www.ee.surrey.ac.uk/Teaching/Unix/links.html) | [CentOS 7](https://blog.seisman.info/centos7-setup)
+- [MacOS](https://blog.seisman.info/macOS)
+
+
 ### Linux
 
 - Linux basis
@@ -32,12 +38,6 @@ slug: intro-material-seismology
             - [GNU Bash](https://www.gnu.org/software/bash/): Bash is an acronym for Bourne-again shell | [GNU Bash manual](https://www.gnu.org/software/bash/manual)
             - [GNU wget](https://www.gnu.org/software/wget/): [GNU wget manual](https://www.gnu.org/software/wget/manual/)
     - [Documentation of the GNU Project](https://www.gnu.org/doc/doc.en.html)
-
-
-### Operating system
-
-- Linux: [Free Linux Distributions](http://www.ee.surrey.ac.uk/Teaching/Unix/links.html) | [CentOS 7](https://blog.seisman.info/centos7-setup)
-- [MacOS](https://blog.seisman.info/macOS)
 
 
 ### File management
@@ -80,25 +80,9 @@ slug: intro-material-seismology
     - Shell
         - [GNU Bash manual](https://www.gnu.org/software/bash/manual) | [Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
         - [中文手册](http://shouce.jb51.net/shell/index.html) | [Shell 教程](http://www.runoob.com/linux/linux-shell.html)
-- Markup language
+- Markup languages
     - Markdown: [Markdown manual](https://www.markdownguide.org) | [Markdown 语法介绍](https://help.coding.net/docs/project/basis/markdown.html#pageTitle)
     - LaTeX: [A short introduction to LATEX 2e](https://www.ctan.org/tex-archive/info/lshort) ([English](https://www.ctan.org/tex-archive/info/lshort/english) & [Chinese](https://www.ctan.org/tex-archive/info/lshort/chinese)) | [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction) | [LaTeX quick reference](http://www.icl.utk.edu/~mgates3/docs/latex.pdf) (Mark Gates)
-- Parallel Computing
-    - Compiled languages: C/C++ and Fortran
-        - [OpenMP](https://www.openmp.org/): Open MultiProcessing
-            - [Lawrence Livermore National Laboratory OpenMP tutorial](https://computing.llnl.gov/tutorials/openMP) | [中国科大超算中心 OpenMP 资料](http://scc.ustc.edu.cn/zlsc/cxyy/200910/t20091014_13081.html) | Intel [Fortran](https://software.intel.com/en-us/fortran-compiler-developer-guide-and-reference-openmp-support) & [C/C++](https://software.intel.com/en-us/cpp-compiler-developer-guide-and-reference-openmp-support) OpenMP support
-            - [OpenMP 并行编程简介](http://vra.github.io/2016/06/17/openmp-begin/) | [OpenMP 入门教程](https://www.cnblogs.com/ospider/p/5265975.html)
-        - MPI: Message Passing Interface | [MPI Forum](https://www.mpi-forum.org/)
-            - Implementations of MPI standard: [MPICH](http://www.mpich.org/) ([Documentation](http://www.mpich.org/documentation/guides/)) | [Open MPI](https://www.open-mpi.org/) ([Documentation](https://www.open-mpi.org/doc/)) | [Intel MPI](https://software.intel.com/en-us/mpi-library)
-            - Manual: [Lawrence Livermore National Laboratory MPI tutorial](https://computing.llnl.gov/tutorials/mpi/) | [中国科大超算中心 MPI 资料](http://scc.ustc.edu.cn/zlsc/cxyy/200910/t20091014_13082.html) | [MPI quick reference](http://www.icl.utk.edu/~mgates3/docs/mpi.html) (Mark Gates)
-    - Scripting languages: Python, MATLAB, and Perl
-        - [Python parallel computing](https://wiki.python.org/moin/ParallelProcessing): [Parallel processing in Python -- A practical guide with examples](https://www.machinelearningplus.com/python/parallel-processing-python/)
-        - [MATLAB parallel computing](https://ww2.mathworks.cn/solutions/parallel-computing.html): [Parallel Server manual](https://ww2.mathworks.cn/help/matlab-parallel-server/index.html) | [Parallel computing toolbox manual](https://ww2.mathworks.cn/help/parallel-computing/index.html)
-        - Perl: [Perl 的多线程应用](https://www.digglife.net/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/) | [threads](https://perldoc.perl.org/threads.html) (perldoc) & [threads](https://metacpan.org/pod/threads) (cpan)| [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager)
-    - Learning resources
-        - [Intel software](https://software.intel.com/en-us/all-dev-areas): [Data center](https://software.intel.com/en-us/data-center)
-        - [Lawrence Livermore National Laboratory training materials](https://hpc.llnl.gov/training/tutorials)
-        - [中国科大超算中心资料](http://scc.ustc.edu.cn/zlsc/)
 
 
 ### Programming
@@ -118,7 +102,22 @@ slug: intro-material-seismology
     - [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 - Computation
     - [Introduction to Computing](https://igpppublic.ucsd.edu/~shearer/COMP233) (Peter Shearer): [Filenames, globbing, greping, and regexp](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.unix_files.pdf) | [Unix Shell Scripts](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.scripts.pdf) | [sed](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.sed.pdf) | [awk](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.awk.pdf)
-
+- Parallel Computing
+    - Compiled languages: C/C++ and Fortran
+        - [OpenMP](https://www.openmp.org/): Open MultiProcessing
+            - [Lawrence Livermore National Laboratory OpenMP tutorial](https://computing.llnl.gov/tutorials/openMP) | [中国科大超算中心 OpenMP 资料](http://scc.ustc.edu.cn/zlsc/cxyy/200910/t20091014_13081.html) | Intel [Fortran](https://software.intel.com/en-us/fortran-compiler-developer-guide-and-reference-openmp-support) & [C/C++](https://software.intel.com/en-us/cpp-compiler-developer-guide-and-reference-openmp-support) OpenMP support
+            - [OpenMP 并行编程简介](http://vra.github.io/2016/06/17/openmp-begin/) | [OpenMP 入门教程](https://www.cnblogs.com/ospider/p/5265975.html)
+        - MPI: Message Passing Interface | [MPI Forum](https://www.mpi-forum.org/)
+            - Implementations of MPI standard: [MPICH](http://www.mpich.org/) ([Documentation](http://www.mpich.org/documentation/guides/)) | [Open MPI](https://www.open-mpi.org/) ([Documentation](https://www.open-mpi.org/doc/)) | [Intel MPI](https://software.intel.com/en-us/mpi-library)
+            - Manual: [Lawrence Livermore National Laboratory MPI tutorial](https://computing.llnl.gov/tutorials/mpi/) | [中国科大超算中心 MPI 资料](http://scc.ustc.edu.cn/zlsc/cxyy/200910/t20091014_13082.html) | [MPI quick reference](http://www.icl.utk.edu/~mgates3/docs/mpi.html) (Mark Gates)
+    - Scripting languages: Python, MATLAB, and Perl
+        - [Python parallel computing](https://wiki.python.org/moin/ParallelProcessing): [Parallel processing in Python -- A practical guide with examples](https://www.machinelearningplus.com/python/parallel-processing-python/)
+        - [MATLAB parallel computing](https://ww2.mathworks.cn/solutions/parallel-computing.html): [Parallel Server manual](https://ww2.mathworks.cn/help/matlab-parallel-server/index.html) | [Parallel computing toolbox manual](https://ww2.mathworks.cn/help/parallel-computing/index.html)
+        - Perl: [Perl 的多线程应用](https://www.digglife.net/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/) | [threads](https://perldoc.perl.org/threads.html) (perldoc) & [threads](https://metacpan.org/pod/threads) (cpan)| [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager)
+    - Learning resources
+        - [Intel software](https://software.intel.com/en-us/all-dev-areas): [Data center](https://software.intel.com/en-us/data-center)
+        - [Lawrence Livermore National Laboratory training materials](https://hpc.llnl.gov/training/tutorials)
+        - [中国科大超算中心资料](http://scc.ustc.edu.cn/zlsc/)
 
 
 ### Editors
