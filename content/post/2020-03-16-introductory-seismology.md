@@ -1,7 +1,7 @@
 ---
 title: "地震学初步入门材料推荐"
-date: 2020-03-16T01:30:00+08:00
-lastmod: 2020-03-16T01:30:00+08:00
+date: 2020-03-16T01:30:00
+lastmod: 2020-03-16T01:30:00
 author: core-man
 draft: false
 tags: ["Linux", "编程", "地震学基础"]
@@ -179,5 +179,5 @@ slug: intro-material-seismology
 ### Revision history
 
 - 2020-02-18: more links are added
-- 2019-07-24: initial draft, referring to Seisman's [地震学入门简易指南](https://blog.seisman.info/simple-guide-to-seismology)
+- 2019-07-24: initial draft referring to [地震学入门简易指南](https://blog.seisman.info/simple-guide-to-seismology)
 
