@@ -9,7 +9,7 @@ categories: ["Linux", "编程", "地震学基础"]
 slug: intro-material-seismology
 ---
 
-## Computer Basis
+## Computer
 
 ### Linux
 
@@ -103,7 +103,7 @@ slug: intro-material-seismology
 
 ### Programming
 
-- Programming basic
+- Programming basis
     - Coding
         - [GNU coding standards](https://www.gnu.org/prep/standards/): [GCC coding conventions](https://gcc.gnu.org/codingconventions.html) (C/C++) | [GCC C++ coding conventions](https://gcc.gnu.org/wiki/CppConventions)
         - [Programming notes](https://www.ntu.edu.sg/home/ehchua/programming/) by [Chua Hock Chuan](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EHCHUA)
@@ -145,7 +145,7 @@ slug: intro-material-seismology
     - [Global Optimization Methods in Geophysical Inversion](https://www.cambridge.org/core/books/global-optimization-methods-in-geophysical-inversion/C2B23286E6BCC2177117431CB568101C): A textbook focusing on global optimization methods in geophysics, e.g., Monte-Carlo methods
 
 
-## Seismological Software Basis
+## Seismological Software
 
 - Seismic data
     - Seismic data downloading
