@@ -188,7 +188,7 @@ slug: intro-material-seismology
 - [MSU Wei's Group Seismic Training](https://sites.google.com/msu.edu/wei-seismic-training/)
 
 
-### Revision history
+## Revision history
 
 - 2020-02-18: more links are added
 - 2019-07-24: initial draft referring to [地震学入门简易指南](https://blog.seisman.info/simple-guide-to-seismology)
