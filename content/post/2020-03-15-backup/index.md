@@ -139,13 +139,13 @@ Windows下进行备份，移动硬盘的文件系统格式可以是`NTFS`或`exF
 
 插上移动硬盘，然后打开Mac的`Disk Utility`:
 
-![Disk Utility 1](https://core-man.github.io/blog/images/2020031503.png)
+![Disk Utility 1](MAC-partition-1.png)
 
 将3.8T的空间格式化 (`Partition`) 成`Mac OS Extended (Journaled)`格式：
 
-![Disk Utility 2](https://core-man.github.io/blog/images/2020031504.png)
+![Disk Utility 2](MAC-partition-2.png)
 
-![Disk Utility 3](https://core-man.github.io/blog/images/2020031505.png)
+![Disk Utility 3](MAC-partition-3.png)
 
 修改分区Name，选择一个自己喜欢名字。同时也可以增加其他格式的分区。
 
