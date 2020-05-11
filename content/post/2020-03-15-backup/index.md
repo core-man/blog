@@ -109,22 +109,18 @@ $ sudo umount /dev/sdc2
 $ sudo mkfs.ext4 /dev/sdc2
 ```
 
-最后利用`rsync`命令对重要的文件、脚本、数据等进行备份了。第一次备份会比较慢，但是第二次由于只更新电脑中改动过的文件，会比较快。可以写一个备份脚本，这里有一个perl脚本[backup.pl](https://core-man.github.io/blog/downloads/backup.pl)可以参考。
+最后利用`rsync`命令对重要的文件、脚本、数据等进行备份了。第一次备份会比较慢，但是第二次由于只更新电脑中改动过的文件，会比较快。可以写一个备份脚本，这里有一个perl脚本[backup.pl](backup.pl)可以参考。
 
 
 ### Windows
 
-Windows下进行备份，移动硬盘的文件系统格式可以是`NTFS`或`exFAT`。备份跟Linux很类似，使用DOS的`robocopy`命令进行同步。这里有一个[backup.txt](https://core-man.github.io/blog/downloads/backup.txt)文件可以参考，将后缀txt给成bat，就变成了bat脚本，双击bat脚本就直接运行了。需要查看txt原文件，将参数按照自己的实际情况进行修改。
+Windows下进行备份，移动硬盘的文件系统格式可以是`NTFS`或`exFAT`。备份跟Linux很类似，使用DOS的`robocopy`命令进行同步。这里有一个[backup.txt](backup.txt)文件可以参考，将后缀txt给成bat，就变成了bat脚本，双击bat脚本就直接运行了。需要查看txt原文件，将参数按照自己的实际情况进行修改。
 
 如果备份脚本里有中文，则文件需要另存为成ANSI编码格式，而不是UTF-8格式：
 
-![save as](https://core-man.github.io/blog/images/2020031501.png)
+![save as](ANSI-1.png)
 
-![save as](/images/2020031501.png)
-
-![save as](images/2020031501.png)
-
-![ANSI](https://core-man.github.io/blog/images/2020031502.png)
+![ANSI](ANSI-2.png)
 
 
 ### Mac
