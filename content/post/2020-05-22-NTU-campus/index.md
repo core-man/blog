@@ -21,8 +21,8 @@ NTU校区大致是个平行西边形，东面是住宅区，教学区在西面�
 - [NTU Campus Map](http://maps.ntu.edu.sg/maps)
 - 微信公众号: `南洋理工小助手`
 - NTU 3D Map:
-    ![NTU campus 3D 1](NTU-campus-3D-1.jpg)
-    ![NTU campus 3D 2](NTU-campus-3D-2.jpg)
+    ![NTU campus 3D 1](NTU-campus-3D-1.png)
+    ![NTU campus 3D 2](NTU-campus-3D-2.png)
 
 
 
@@ -78,7 +78,7 @@ NTU校区大致是个平行西边形，东面是住宅区，教学区在西面�
 ## NTU 食堂
 
 - [NTU食堂简介](https://mp.weixin.qq.com/s/euMQlN9zJfBCE1CHLs2S0g)
-    ![NUT canteen](ntu-canteen.png)
+    ![NUT canteen](NTU-canteens.png)
 - 推荐
     - `Quad`的拉面不错。
     - `Can 9`的Jiu Li Xiang炒菜不错。
