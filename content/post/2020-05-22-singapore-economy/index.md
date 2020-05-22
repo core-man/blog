@@ -1,5 +1,5 @@
 ---
-title: "新加坡个人经济管理"
+title: "留新个人经济管理"
 date: 2020-05-22
 lastmod: 2020-05-22
 author: core-man
@@ -14,7 +14,7 @@ slug: singapore-economy
 
 ### 银行账户和储蓄卡
 
-学校会要求提供一个银行账号用于财务结算，如果第一月没有办理银行账户，工资会以支票的形式发放。学校里有OCBC(Oversea-Chinese Banking Corporation)和DBS的取款机，分别在North Spine和South Spine。OCBC在North Spine有个银行柜台，DBS的柜台在[JP(Jurong Point Shopping Centre)](https://goo.gl/maps/iCzbzntbhcazS9K4A)。不过办理银行账户，需要新加坡身份证，住址证明等材料。住址证明就是写有你具体住址的官网文件，比如水电费单，手机账单等。学校一般不会帮大家开住址证明，而大家刚到新加坡，也没有自己的房子，没有水电费单。如果没有办理手机业务，也没有手机账单，如果购买了Postpaid Card可能会有账单（有待考察）。一个确定可行的方式就是租房住址证明，可以问房东帮忙办理(貌似要在网站上登记一下，交点钱。不过貌似只适用于组屋。)，或者找楼管开学生宿舍证明。如果以上方式都不可行的话，还可以通过交租房的印花税(Stamp Duty)拿到，请参考[Stamp duty for proterty](../2020-05-20-stampduty/index.md)。最新消息：貌似在入职的时候，NTU人力资源部的工作人员会问你更新住址，给你打印一份印有MoM的证明，请参考[留新之前的准备: 入职报到](2020-05-22-singapore-preparation/index.md)。带着要求的文件到银行柜台开户就可以了，同时会有一张储蓄卡。
+学校会要求提供一个银行账号用于财务结算，如果第一月没有办理银行账户，工资会以支票的形式发放。学校里有OCBC(Oversea-Chinese Banking Corporation)和DBS的取款机，分别在North Spine和South Spine。OCBC在North Spine有个银行柜台，DBS的柜台在[JP](https://goo.gl/maps/iCzbzntbhcazS9K4A) (Jurong Point Shopping Centre)。不过办理银行账户，需要新加坡身份证、住址证明等材料。住址证明就是写有你具体住址的官网文件，比如水电费单、手机账单等。学校一般不会帮大家开住址证明，而大家刚到新加坡，也没有自己的房子，没有水、电费单。如果没有办理手机业务，也没有手机账单，如果购买了Postpaid Card会有账单。一个确定可行的方式就是租房住址证明，可以问房东帮忙办理(貌似要在网站上登记一下，交点钱。不过貌似只适用于组屋)，或找楼管开学生宿舍证明。如果以上方式都不可行的话，还可以通过交租房印花税(Stamp Duty)获得，具体见下文。在入职的时候，NTU人力资源部的工作人员会问你更新住址，给你打印一份印有MoM的证明，请参考[留新之前的准备: 入职报到](../2020-05-22-singapore-preparation/index.md)。带着要求的文件到银行柜台开户就可以了，同时会有一张储蓄卡。
 
 ### 信用卡
 
@@ -112,6 +112,17 @@ FlexBen选择示例:
 
 ### 报税和缴税
 NTU员工只需要确认IRAS帮我们计算的税单是否正确就可以了，不需要自己计算报税。确认之后过一段时间，会收到正式的账单和具体缴税方式。可以选择直接银行转账、GIRO等方式。
+
+
+## [Stamp duty for property](https://www.iras.gov.sg/IRASHome/Other-Taxes/Stamp-Duty-for-Property)
+
+- Refer to ***e-Stamping and Where to e-Stamp Documents*** in **Learning the Basics** to find where to pay the stamp duty. If you would like to pay at the Service Bureaus, you have to complete the requisition form. A template of Form E3AA can be found [here](form-E3AA.pdf).
+
+- Refer to ***Renting a Property*** in **Working Out Your Stamp Duty** to calculate how much you have to pay the stamp duty.
+
+- Refer to ***How to Pay Stamp Duty*** in **Paying Your Stamp Duty** to find how to pay the stamp duty and the fees required for the e-Stampting. For the **Service Bureaus**, I don't know how to complete `data entry of the details in your requisition form` myself, which will cost S$20 more than the **partial service**.
+
+- A template of room rent agreement can be found [here](room-rental-agreement.docx), which is not required by the staff at **Service Bureaus** when I went to pay the stamp duty.
 
 
 

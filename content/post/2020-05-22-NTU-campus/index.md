@@ -6,13 +6,13 @@ author: core-man
 draft: false
 tags: ["NTU"]
 categories: ["新加坡"]
-slug: ntucampus
+slug: ntu-campus
 ---
 
 
 ## NTU 校区
 
-NTU校区大致是个平行西边形，东面是住宅区，教学区在西面。National Institute Education在西北角，NTU主要教学区则在西和西南，分别为North Spine和South Spine。两个Spine的中间是Nanyang Auditorium和Administration Building。每个Spine有4个block，block之间或周围也有一些教学楼。School of Physical and Mathematical Sciences在学校西南角，South Spine南面School of Art，Design and Media在校区中间。Student Service Centre在Block 3 & 4东面，是学校的最高点。
+NTU校区大致是个平行西边形，东面是住宅区，教学区在西面。National Institute Education在西北角，NTU主要教学区则在西和西南，分别为North Spine和South Spine。两个Spine的中间是Nanyang Auditorium和Administration Building。每个Spine有4个block，block之间或周围也有一些教学楼。School of Physical and Mathematical Sciences在学校西南角，South Spine南面；School of Art，Design and Media在校区中间；Student Service Centre在Block 3 & 4东面，是学校的最高点。
 
 
 ### NTU Campus Map:
@@ -21,11 +21,8 @@ NTU校区大致是个平行西边形，东面是住宅区，教学区在西面�
 - [NTU Campus Map](http://maps.ntu.edu.sg/maps)
 - 微信公众号: `南洋理工小助手`
 - NTU 3D Map:
-
-    ![NTU campus 3D 1](NTU-campus-3D-1.png)
-
     ![NTU campus 3D 2](NTU-campus-3D-2.png)
-
+    ![NTU campus 3D 1](NTU-campus-3D-1.png)
 
 
 ### NTU 景点
@@ -38,12 +35,10 @@ NTU校区大致是个平行西边形，东面是住宅区，教学区在西面�
 ## NTU 校区交通
 
 - [NTU Transportation](http://www.ntu.edu.sg/has/Transportation/Pages/GettingAroundNTU.aspx)
-- 微信公众号: 南洋理工小助手
-- 微信小程序：NTU校车、新加坡公交
+- 微信公众号: `南洋理工小助手`
+- 微信小程序：`NTU校车`、`新加坡公交`
 
 ### Shuttle Bus Routes
-
-- [Internal Shuttle Bus Service Map](https://baseride.com/maps/public/ntu)
 
 - Regular Bus Routes
     - [Campus Loop-Blue (CL-B)](http://www.ntu.edu.sg/has/Transportation/Pages/CL-B.aspx)
