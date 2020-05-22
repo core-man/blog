@@ -52,14 +52,14 @@ slug: singapore-economy
 
 ## FlexBen@NTU
 
-NTU为faculty、staff和student提供了医疗保险，有关student的医保请参考[新加坡生活一站式启动 一 4. 新加坡生活信息汇总]({{<ref "/note/Singapore/singapore-start/Singapore-info-collection.md">}}) -> `NTU学生保险`。
+NTU为faculty、staff和student提供了医疗保险，有关student的医保请参考[新加坡生活一站式启动 一 4. 新加坡生活信息汇总](../2020-05-22-singapore-info-collection/index.md) -> `NTU学生保险`。
 
 Faculty和staff的医疗保险服务是[FlexBen@NTU](https://flexben.ntu.edu.sg/flexben)，我们可以选择购买哪些项目，多退少补，剩余的医保钱学校会在学年末(7月)退到工资卡里，请见下图选择示例。如果不做选择，学校会默认我们选择了最基本的医保。之后我们会收到AVIVA卡，用于看病。在选择FlexBen时候，还可以为家属选择部分医保。详情请查阅[FlexBen@NTU](https://flexben.ntu.edu.sg/flexben) -> `click the yellow figure`。
 
 使用Mac登录FlexBen@NTU好像有问题，可以用Windows，Linux或者手机登录，选择医疗保险。
 
 FlexBen选择示例:
-![FlexBen@NTU](/datas/note/Singapore/singapore-start/FlexBen.png "FlexBen选择示例")
+![FlexBen@NTU](FlexBen.png)
 
 看病时，带上自己的校园卡、Aviva卡和身份证。诊所(clinic)和医院(hospital)的信息可以查询[Health Care](http://www.ntu.edu.sg/CampusLife/Pages/HealthCare.aspx)、微信小程序`新加坡诊所`。这里以到[Fullerton Healthcare@NTU](http://www.ntu.edu.sg/has/Serv/Pages/MedicalClinic.aspx)为例，阐述基本的流程。Fullerton Healthcare@NTU位于[University Health Services Building](http://maps.ntu.edu.sg/maps#q:university%20health%20service%20building)。
 
