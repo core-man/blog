@@ -1,5 +1,5 @@
 ---
-title: "新加坡生活信息"
+title: "留新个人生活信息汇总"
 date: 2020-05-22
 lastmod: 2020-05-22
 author: core-man
@@ -10,32 +10,27 @@ slug: singapore-info-collection
 ---
 
 
-## 信件和包裹接受地址
+## 手机相关
+### APP
 
-- 办公室地址：Nanyang Technological University SPMS-MAS-04-07, 21 Nanyang Link, Singapore 637371
-- 信件和包裹收发室： Heads of Division office (SPMS-PAP-02-01, SPMS二楼电梯口隔壁)
-
-
-## APP
-
-1. 交通
+- 交通
     - 百度地图/Google Maps
     - MyTransport: 查询公交信息。
     - Singabus:  新加坡公交查询。
     - Grab: 打车、外卖等等。打车时选择`GrabHitch`预约很便宜，NTU-机场大约只要16S$，司机可以拼单。
     - Go-Jek：印尼的一家共享出行服务商，是Grab在新加坡的主要竞争对手。
     - TL SimplyGo：利用储蓄卡或信用卡乘坐公共交通。
-2. 通讯
+- 通讯
     - 新加坡比较知名的三加运营商分别是：Singtel、StarHub和M1。各运营商都有自己的App，可以直接在应用商店里搜索下载。电话卡可以在樟宜机场、邮局、7-11便利店和代理商处实名制购买，需要出示护照等身份证明。
-3. 娱乐
+- 娱乐
     - iGV: [Golden Village](https://www.gv.com.sg/#)是新加坡连锁电影院，在Jurong Point商场里有一家。
-4. 美食
+- 美食
     - Grab
     - foodpanda
     - deliveroo
     - [fairprice](https://www.fairprice.com.sg): Online Grocery Shopping & Delivery in Singapore
     - FOURSQUARE
-5. 经济
+- 经济
     - 手机支付
         - DBS Paylah：DBS银行的移动支付。
         - OCBC PayAnyone：OCBC银行的移动支付。
@@ -45,16 +40,16 @@ slug: singapore-info-collection
     - 其他
         - SingCARD: EZ-Link/NETS FlashPay读卡器，可以记录统计校园卡的消费情况。
         - FlashPay: NETS FlashPay充值器，单次操作最多充值50S$，且有0.25S$手续费。地铁站的自助充值机是免费的。
-7. 综合
+- 综合
     - Nestia: 租房、电影、手机充值、公交等
-8. 其他
+- 其他
     - SGWorkPass: 身份证信息查询
     - Wunderlist：代办事项
 
-参考：[新加坡必备APP，你都下载了吗?](https://mp.weixin.qq.com/s/6Vns2MW-DneRqqIAKFztJA)
+- 参考：[新加坡必备APP，你都下载了吗?](https://mp.weixin.qq.com/s/6Vns2MW-DneRqqIAKFztJA)
 
 
-## 微信公众号
+### 微信公众号
 - 新加坡便民：比较好的新加坡生活助手，比如租房、二手、公交、手机充值、集运、搬家、诊所等。
 - 新加坡眼: 很多新加坡生活信息
 - 新加坡万事通：很多新加坡生活相关信息
@@ -65,7 +60,7 @@ slug: singapore-info-collection
 - 软件安装管家: 几乎所有需要的Window软件都可以下到
 - Mac软件管家：软件安装管家的Mac系统分号，几乎所有需要的Mac软件都可以下到
 
-## 微信小程序
+### 微信小程序
 - 小坡岛新加坡租房
 - 新加坡南洋理工
 - NTU校车
@@ -75,15 +70,22 @@ slug: singapore-info-collection
 - 飞常准
 
 
-## NTU门禁密码
+## NTU相关
+
+### 信件和包裹接受地址
+
+- 办公室地址：Nanyang Technological University SPMS-MAS-04-07, 21 Nanyang Link, Singapore 637371
+- 信件和包裹收发室： Heads of Division office (SPMS-PAP-02-01, SPMS二楼电梯口隔壁)
+
+
+### 门禁密码
+
 - 生日: DDMMYY，比如`200390`代表1990年3月20日。
 
 
-## NTU学生保险
-NTU根据本校的医疗保险计划为所有全日制本科生、研究生及非毕业班学生提供基础医疗和个人意外保险服务。
+### 学生保险
 
-我校的医疗保险计划主要有四种：
-
+NTU根据本校的医疗保险计划为所有全日制本科生、研究生及非毕业班学生提供基础医疗和个人意外保险服务。医疗保险计划主要有四种：
 - Group Hospitalisation& Surgical Insurance （GHSI）住院及外科保险
 - Group Personal Accident Insurance (GPAI) 人身意外保险
 - Medical Scheme 医疗计划
@@ -94,29 +96,33 @@ NTU根据本校的医疗保险计划为所有全日制本科生、研究生及�
 详情请参考[一文让你全面了解NTU学生保险](https://mp.weixin.qq.com/s/WwuVIAfZNM97ngWhXCRnGg)
 
 
-## NTU学生福利
+### 学生福利
+
 详情请参考[NTU的学生账户竟有这么多福利](https://mp.weixin.qq.com/s/z9dmFWV7XWQ2jicqUCYzcw)
 
 
-## NTU文体娱乐活动
-NTU最大、设施最齐全的健身房为North Hill Gym，位于北山宿舍群(60 Nanyang Crescent Level 3, Block 19A Binjai Hall)，每天早7点-晚10点开放(除每周一早10点-午12点打扫外)。
+### 文体娱乐活动
 
+NTU最大、设施最齐全的健身房为North Hill Gym，位于北山宿舍群(60 Nanyang Crescent Level 3, Block 19A Binjai Hall)，每天早7点-晚10点开放(除每周一早10点-午12点打扫外)。
 - [Sports & Recreation](https://www.ntu.edu.sg/has/SnR/Pages/index.aspx)
 - [Sports Facility Membership Registration](https://wis.ntu.edu.sg/webexe88/owa/srcmr_main.home)
 - [Sport Facility Booking](https://wis.ntu.edu.sg/webexe88/owa/srce_smain_s.Main)
 - StaffLink & GSLink
 
-## NTU小贴纸
+### 小贴纸
+
 - [Chinese Library](http://maps.ntu.edu.sg/maps#q:Chinese%20Library)是个上自习的好地方
 
 
-## 新加坡文体娱乐活动
+## 新加坡生活娱乐
+
+### 文体娱乐活动
 - [Singapore Sports Hub](https://www.sportshub.com.sg)
 - [Singapore dance theatre](http://www.singaporedancetheatre.com)
 - [SISTIC](https://www.sistic.com.sg)
 
 
-## 新加坡旅游
+### 旅游
 - Singapore Flyer
 - Singapore Zoo & River Safari
 - Night Safari
@@ -126,7 +132,7 @@ NTU最大、设施最齐全的健身房为North Hill Gym，位于北山宿舍群
 以上有些可以通过学校的`Campus Recreation And Wellness (校园娱乐健康福利)`获取免费`Corporate Passes`，比如`Singapore Flyer`，`Singapore Zoo & River Safari`等。请参考[Campus Recreation And Wellness](https://intranet2.ntu.edu.sg/CReW/Pages/CorporatePassesBooking.aspx)。
 
 
-## 新加坡美食
+### 美食
 
 - [舌尖上的NTU](https://mp.weixin.qq.com/s/euMQlN9zJfBCE1CHLs2S0g)
 - [川羊记](https://www.google.com/search?q=%E5%B7%9D%E7%BE%8A%E8%AE%B0+%E6%96%B0%E5%8A%A0%E5%9D%A1&npsic=0&rflfq=1&rlha=0&rllag=1318563,103860689,1582&tbm=lcl&ved=2ahUKEwiGuqC5rLTjAhV4_3MBHa63BtIQtgN6BAgJEAQ&tbs=lrf:!2m1!1e3!3sIAE,lf:1,lf_ui:3&rldoc=1#rlfi=hd:;si:;mv:!1m2!1d1.411920534633238!2d104.00831823417968!2m2!1d1.2252024939508515!2d103.71306066582031!4m2!1d1.3185632650046677!2d103.86068945!5i12)
@@ -135,7 +141,7 @@ NTU最大、设施最齐全的健身房为North Hill Gym，位于北山宿舍群
 - 鼎泰丰
 
 
-## 新加坡生活小贴纸
+### 生活小贴纸
 
 - 吸湿剂，比如 [Thirsty Hippo](https://www.fairprice.com.sg/product/thirsty-hippo-moisture-absorber-3-pack-11698555)
 - 杀虫剂，比如 [Combat Paste Bait Insecticide - Ant Killer](https://www.fairprice.com.sg/product/combat-ant-mini-11245433)、[Combat Paste Bait Insecticide - Roach Killer](https://www.fairprice.com.sg/product/combat-roach-killer-10814577)
@@ -143,7 +149,7 @@ NTU最大、设施最齐全的健身房为North Hill Gym，位于北山宿舍群
 - Prime超市单次消费满10新币，就可以办理会员卡，登记一下自己的住址、手机号等就可以了。
 
 
-## 货币兑换
+### 货币兑换
 如果想把新币汇回国，可以去货币兑换汇款公司，带着身份证、取款receipt和取好的新币。钱到国内账号后，直接是人民币。我怀疑他们在中国也有合作者，那边直接进行人民币转账，这边收的新币还在新加坡市场。有的公司可以直接通过银行卡转账，无需取现金了，可以使用银行卡的NETS的功能。
 
 - [汉生汇款](http://www.hanshanmoney.com/zh-cn/ratecn): 一般汇率较高，但是在市区，比较远。
@@ -182,20 +188,21 @@ NTU最大、设施最齐全的健身房为North Hill Gym，位于北山宿舍群
 [生命是什么](https://book.douban.com/subject/1317485)|埃尔温·薛定谔|-|-
 [上帝掷骰子吗](https://book.douban.com/subject/1467022)|曹天元|-|-
 
+## 影视
 
-## 影视网站
+### 影视网站
 
 - [海外影视](https://www.haiwaiyy.com)
 - [iFun](https://www.ifun.tv)
 - [豆瓣电影](https://movie.douban.com)
 
 
-## 海外电视网络直播
+### 海外电视网络直播
 
 - [飞流直播](https://chaochaolive.icntv.xyz)
 
 
-## 电影
+### 电影
 
 剧情|导演|播放平台|备注
 ---|---|---|---
@@ -211,7 +218,7 @@ NTU最大、设施最齐全的健身房为North Hill Gym，位于北山宿舍群
 [和莎莫的500天](https://movie.douban.com/subject/3072086)|马克·韦布|[海外影院](https://www.haiwaiyy.com/vod-detail-id-7726.html)|备胎必看
 
 
-## 电视剧
+### 电视剧
 
 剧情|导演|播放平台|备注
 ---|---|---|---
@@ -220,7 +227,8 @@ NTU最大、设施最齐全的健身房为North Hill Gym，位于北山宿舍群
 [毛骗 终结篇](https://movie.douban.com/subject/26603847)|李洪绸 / 邢冬冬 / 汪小壹|[海外影院](https://www.haiwaiyy.com/vod-detail-id-23271.html)|-
 
 
-## 动漫
+### 动漫
+
 日漫|备注
 ---|---
 [命运石之门 STEINS;GATE](https://movie.douban.com/subject/4925398)|-

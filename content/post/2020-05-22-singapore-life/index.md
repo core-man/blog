@@ -1,5 +1,5 @@
 ---
-title: "新加坡个人日常生活"
+title: "留新个人日常生活"
 date: 2020-05-22
 lastmod: 2020-05-22
 author: core-man
@@ -17,8 +17,9 @@ slug: singapore-life
 - 新加坡便民：比较好的新加坡生活助手
 - 南洋理工小助手：NTU相关信息
 
-
 ## 租房
+
+### 简介
 
 新加坡房屋大概有4类：
 
@@ -39,7 +40,7 @@ slug: singapore-life
 
 一般出租的都是组屋和公寓，房间分为主卧(Master Room)和普通房(Common Romm)。主卧一般有独立卫生间，普通房通常要和别人共用卫生间。新加坡存在大量的中国二房东赚取房间差价，租屋主和二房东的房间各有利弊，需要好好权衡，注意二房东在新加坡是违法的哦。可以尝试跟房东还价，试试看呗~
 
-租房的时候一定要跟房东讲清楚各种事宜，如果能签合同是最保险的，这里有一份[合同模板](/datas/note/Singapore/stampduty/room-rental-agreement.docx)可以参考一下。如果需要合法文件证明你和房东之间的租赁关系，可以花钱办理`Certificate of Stamp Duty`，详情请参考[Stamp duty for proterty](../stampduty/index.md)。
+租房的时候一定要跟房东讲清楚各种事宜，如果能签合同是最保险的，这里有一份[合同模板](../singapore-economy/room-rental-agreement.docx)可以参考一下。如果需要合法文件证明你和房东之间的租赁关系，可以花钱办理`Certificate of Stamp Duty`，详情请参考[印花税](../singapore-economy/)。
 
 以下注意事项可以参考:
 
@@ -51,11 +52,9 @@ slug: singapore-life
 NTU学生宿舍可以参考微信公众号`南洋理工小助手`
 
 
-### 几个渠道租房
+### 租房渠道
 
--  微信小程序
-    - 小坡岛新加坡租房
-
+-  微信小程序: `小坡岛新加坡租房`
 - 网站
     - [NTU Housing](https://www.ntu.edu.sg/has/housing/Pages/Housing.aspx)：适用于NTU的faculty和学生
     - [Off-Campus Housing](https://www.ntu.edu.sg/has/Off-Campus/Pages/index.aspx): 适用于NTU的学生
@@ -65,9 +64,10 @@ NTU学生宿舍可以参考微信公众号`南洋理工小助手`
     - [狮城网](https://bbs.sgcn.com/forum.php?gid=1257)：多为华人房东。
     - [华新网](http://bbs.huasing.net/sForum/bbs.php?B=119,1)：多为华人房东。
     - [新加坡租房](https://www.sgroom.com)：不清楚。
-
 - 中介
     - 找中介的话一定要找有执照的，本地大中介公司ERA, PropNex, Huttons, OrangeTee等。网上都可以查到Agent相关信息，确保自身利益。
+- 短期租房
+    - [85 soho](https://85soho.com): Student Hostel & Co-Living Space Apartment。
 
 
 ### MIGG成员租房信息统计
@@ -92,25 +92,21 @@ NTU学生宿舍可以参考微信公众号`南洋理工小助手`
     - 房子简介：组屋；三间卧室；房东一家四口住主卧，另两间普通房出租；与另一位租客共用卫生间；厨房不可用；洗衣机一周可用两次。
     - 信息来源：微信小程序`小坡岛新加坡租房`
 
-[MIGG成员住址.kmz](MIGG-addr.kmz)，注意Pioneer地铁站是校车停靠站。
-
-![MIGG成员住址](MIGG-address.jpg)
-
-### 短期租房
-推荐 [85 soho](https://85soho.com): Student Hostel & Co-Living Space Apartment。
-
-
-**注意**：NTU云南园隔条马路对面的HDB的编号基本是以9开头的，据说登革热发病率较高，准确性有待考证。如果能找到更合适的，暂时尽量不在这个区域找房源呗。
+- [MIGG成员住址.kmz](MIGG-addr.kmz)，注意Pioneer地铁站是校车停靠站。
+    ![MIGG成员住址](MIGG-address.jpg)
+    > **注意**：NTU云南园隔条马路对面的HDB的编号基本是以9开头的，据说登革热发病率较高，准确性有待考证。如果能找到更合适的，暂时尽量不在这个区域找房源呗。
 
 
 ## 手机卡
-在新加坡生活居住，本地手机卡必不可少。可以购买[Singtel](https://www.singtel.com)的预付卡Prepaid Card，详情请查询[Singtel Prepaid Plans](https://www.singtel.com/personal/products-services/mobile/prepaid-plans)，NTU的Canteen 2附近的7-Eleven可以购买，15新币的**hi! SIM Cards**预付卡看来不错。以后可以下载Singtel的对应App: **hi!App**，购买喜欢的套餐以及手机充值，也可以利用微信公众号**新加坡便民**进行充值。当然也可以购买Postpaid Card，请参考[Singtel Postpaid Plan](https://www.singtel.com/personal/products-services/mobile/postpaid-plans)，可以去Jurong Point Shopping Centre的[Singtel Exclusive Retailer](https://goo.gl/maps/z6wp6MbxbUHXw52KA)办理，对应的手机APP是MySingtel。如果先办理了Prepaid卡，也可以到Singtel营业厅或者他们在JP等地方的RoadShow转成Postpaid卡，后者的好处是流量多，但是有合约，一年一年签。我在新加坡用了一年的Prepaid卡，后来转成了Postpaid卡，一个月20新币费用，包含20G流量，150min本地通话，500条SMS。
+
+ 在新加坡生活居住，本地手机卡必不可少。可以购买[Singtel](https://www.singtel.com)的预付卡Prepaid Card，详情请查询[Singtel Prepaid Plans](https://www.singtel.com/personal/products-services/mobile/prepaid-plans)，NTU的Canteen 2附近的7-Eleven可以购买，15新币的`hi! SIM Cards`预付卡看来不错。以后可以下载Singtel的对应App: `hi!App`，购买喜欢的套餐以及手机充值，也可以利用微信公众号`新加坡便民`进行充值。当然也可以购买Postpaid Card，请参考[Singtel Postpaid Plan](https://www.singtel.com/personal/products-services/mobile/postpaid-plans)，可以去Jurong Point Shopping Centre (JP) 的[Singtel Exclusive Retailer](https://goo.gl/maps/z6wp6MbxbUHXw52KA)办理，对应的手机APP是MySingtel。如果先办理了Prepaid卡，也可以到Singtel营业厅或者他们在JP等地方的RoadShow转成Postpaid卡，后者的好处是流量多，但是有合约，一年一年签。我在新加坡用了一年的Prepaid卡，后来转成了Postpaid卡，一个月20新币费用，包含20G流量，150min本地通话，500条SMS。
 
 ![Singtel Prepaid SIM](singtel-precard.png)
 
 
 ## 公共交通
-乘坐公共交通工具，比坐bus和MRT，有很多种付款方式。一般坐bus的时候，前门上车刷卡，后门下车刷卡。上车时默认收取全程车费，所以下车时切忌刷卡，保证自己不被多收钱。
+
+乘坐公共交通工具，比坐bus和MRT，有很多种付款方式。一般坐bus的时候，前门上车刷卡，后门下车刷卡。上车时默认收取全程车费，所以下车时切忌刷卡，保证自己不被多收钱。新加坡公交不报站，需要自己到站前按铃提醒司机。车费支付方式：
 
 - 校园卡
     - 我们的校园卡具有很多支付功能，如NETS@FlashPay，公共交通支付等，所以我们可以用校园卡乘车。校园卡也可以在支持NETS@FlashPay的商店付款，基本上学校内的食堂和超市都是支持NETS@FlashPay的。

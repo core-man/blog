@@ -1,8 +1,8 @@
 ---
-title: "新加坡娱乐"
+title: "留新娱乐活动"
 date: 2020-05-22
 lastmod: 2020-05-22
-author: core-man
+author: Jane
 draft: false
 tags: ["新加坡"]
 categories: ["新加坡"]
@@ -72,5 +72,5 @@ slug: singapore-recreation
 
 ## 编辑历史
 
-- 2020-02-02： 初稿by Jane
+- 2020-02-02： 初稿
 

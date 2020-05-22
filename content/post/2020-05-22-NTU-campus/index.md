@@ -1,5 +1,5 @@
 ---
-title: "NTU 校园生活"
+title: "留新校园生活 (NTU)"
 date: 2020-05-22
 lastmod: 2020-05-22
 author: core-man
