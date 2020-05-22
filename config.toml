@@ -49,12 +49,12 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
-  name = "标签"
+  name = "链接"
   weight = 30
   identifier = "links"
   url = "https://core-man.github.io/link/"
 [[menu.main]]
-  name = "标签"
+  name = "项目"
   weight = 35
   identifier = "projects"
   url = "https://core-man.github.io/"
