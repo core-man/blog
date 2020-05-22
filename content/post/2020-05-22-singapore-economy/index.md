@@ -14,7 +14,7 @@ slug: singapore-economy
 
 ### 银行账户和储蓄卡
 
-学校会要求提供一个银行账号用于财务结算，如果第一月没有办理银行账户，工资会以支票的形式发放。学校里有OCBC(Oversea-Chinese Banking Corporation)和DBS的取款机，分别在North Spine和South Spine。OCBC在North Spine有个银行柜台，DBS的柜台在[JP](https://goo.gl/maps/iCzbzntbhcazS9K4A) (Jurong Point Shopping Centre)。不过办理银行账户，需要新加坡身份证、住址证明等材料。住址证明就是写有你具体住址的官网文件，比如水电费单、手机账单等。学校一般不会帮大家开住址证明，而大家刚到新加坡，也没有自己的房子，没有水、电费单。如果没有办理手机业务，也没有手机账单，如果购买了Postpaid Card会有账单。一个确定可行的方式就是租房住址证明，可以问房东帮忙办理(貌似要在网站上登记一下，交点钱。不过貌似只适用于组屋)，或找楼管开学生宿舍证明。如果以上方式都不可行的话，还可以通过交租房印花税(Stamp Duty)获得，具体见下文。在入职的时候，NTU人力资源部的工作人员会问你更新住址，给你打印一份印有MoM的证明，请参考[留新之前的准备: 入职报到](../2020-05-22-singapore-preparation/index.md)。带着要求的文件到银行柜台开户就可以了，同时会有一张储蓄卡。
+学校会要求提供一个银行账号用于财务结算，如果第一月没有办理银行账户，工资会以支票的形式发放。学校里有OCBC(Oversea-Chinese Banking Corporation)和DBS的取款机，分别在North Spine和South Spine。OCBC在North Spine有个银行柜台，DBS的柜台在[JP](https://goo.gl/maps/iCzbzntbhcazS9K4A) (Jurong Point Shopping Centre)。不过办理银行账户，需要新加坡身份证、住址证明等材料。住址证明就是写有你具体住址的官网文件，比如水电费单、手机账单等。学校一般不会帮大家开住址证明，而大家刚到新加坡，也没有自己的房子，没有水、电费单。如果没有办理手机业务，也没有手机账单，如果购买了Postpaid Card会有账单。一个确定可行的方式就是租房住址证明，可以问房东帮忙办理(貌似要在网站上登记一下，交点钱。不过貌似只适用于组屋)，或找楼管开学生宿舍证明。如果以上方式都不可行的话，还可以通过交租房印花税(Stamp Duty)获得，具体见下文。在入职的时候，NTU人力资源部的工作人员会问你更新住址，给你打印一份印有MoM的证明，请参考[留新之前的准备: 入职报到](../singapore-preparation/)。带着要求的文件到银行柜台开户就可以了，同时会有一张储蓄卡。
 
 ### 信用卡
 
