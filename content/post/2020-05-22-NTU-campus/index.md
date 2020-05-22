@@ -45,29 +45,25 @@ NTU校区大致是个平行西边形，东面是住宅区，教学区在西面�
 
 - [Internal Shuttle Bus Service Map](https://baseride.com/maps/public/ntu)
 
-#### Regular Bus Routes
+- Regular Bus Routes
+    - [Campus Loop-Blue (CL-B)](http://www.ntu.edu.sg/has/Transportation/Pages/CL-B.aspx)
+    - [Campus Loop-Red (CL-R)](http://www.ntu.edu.sg/has/Transportation/Pages/CL-R.aspx)
+    - [Campus Loop-Yellow (CL-Y)](http://www.ntu.edu.sg/has/Transportation/Pages/CL-Y.aspx)
+    - [Campus Rider (CR)](http://www.ntu.edu.sg/has/Transportation/Pages/CR.aspx)
+    - [Campus Weekend Rider (CWR)](http://www.ntu.edu.sg/has/Transportation/Pages/CWR.aspx)
 
-- [Campus Loop-Blue (CL-B)](http://www.ntu.edu.sg/has/Transportation/Pages/CL-B.aspx)
-- [Campus Loop-Red (CL-R)](http://www.ntu.edu.sg/has/Transportation/Pages/CL-R.aspx)
-- [Campus Loop-Yellow (CL-Y)](http://www.ntu.edu.sg/has/Transportation/Pages/CL-Y.aspx)
-- [Campus Rider (CR)](http://www.ntu.edu.sg/has/Transportation/Pages/CR.aspx)
-- [Campus Weekend Rider (CWR)](http://www.ntu.edu.sg/has/Transportation/Pages/CWR.aspx)
+- [Express Bus Services](http://www.ntu.edu.sg/has/Transportation/Pages/GettingAroundNTU.aspx)
+    - Red Loop Express 1
+    - Red Loop Express 2
+    - Blue Loop Express 1
+    - CAMPUS RIDER
 
-#### [Express Bus Services](http://www.ntu.edu.sg/has/Transportation/Pages/GettingAroundNTU.aspx)
+- [Lunch Express Shuttle Bus Service](http://www.ntu.edu.sg/has/Transportation/Pages/Lunch-Express-Shuttle.aspx)
+    - Red Loop Lunch Express
+    - Blue Loop Lunch Express
 
-- Red Loop Express 1
-- Red Loop Express 2
-- Blue Loop Express 1
-- CAMPUS RIDER
-
-#### [Lunch Express Shuttle Bus Service](http://www.ntu.edu.sg/has/Transportation/Pages/Lunch-Express-Shuttle.aspx)
-
-- Red Loop Lunch Express
-- Blue Loop Lunch Express
-
-#### [NTU-LKC Shuttle Buses](http://www.ntu.edu.sg/has/Transportation/Pages/NTU-LKC-ShuttleBuses.aspx)
-
-- Free Shuttle Bus Service between NTU Yunnan and Novena Campuses
+- [NTU-LKC Shuttle Buses](http://www.ntu.edu.sg/has/Transportation/Pages/NTU-LKC-ShuttleBuses.aspx)
+    - Free Shuttle Bus Service between NTU Yunnan and Novena Campuses
 
 
 ### 公交
