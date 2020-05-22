@@ -1,7 +1,14 @@
 ---
-title: 新加坡生活一站式启动 一 7. 生活娱乐
-date: 2019-07-12
+title: "新加坡娱乐"
+date: 2020-05-22
+lastmod: 2020-05-22
+author: core-man
+draft: false
+tags: ["新加坡"]
+categories: ["新加坡"]
+slug: singapore-recreation
 ---
+
 
 ## BBQ
 
@@ -62,14 +69,8 @@ date: 2019-07-12
 
 
 
---------------------
-目录：[新加坡生活一站式启动: 目录]({{< ref "/note/Singapore/singapore-start/content.md">}})
 
-上一篇：[新加坡生活一站式启动: 6. 留新回国事宜]({{< ref "/note/Singapore/singapore-start/Singapore-leave.md">}})
-
-
-
-### 编辑历史
+## 编辑历史
 
 - 2020-02-02： 初稿by Jane
 

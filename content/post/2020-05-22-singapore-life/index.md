@@ -1,7 +1,14 @@
 ---
-title: 新加坡生活一站式启动 一 2. 个人日常生活
-date: 2019-07-12
+title: "新加坡个人日常生活"
+date: 2020-05-22
+lastmod: 2020-05-22
+author: core-man
+draft: false
+tags: ["新加坡"]
+categories: ["新加坡"]
+slug: singapore-life
 ---
+
 
 可以关注一下微信公众号以及小程序，了解在新加坡生活的需要有用信息。
 
@@ -11,7 +18,7 @@ date: 2019-07-12
 - 南洋理工小助手：NTU相关信息
 
 
-## 1. 租房
+## 租房
 
 新加坡房屋大概有4类：
 
@@ -96,15 +103,13 @@ NTU学生宿舍可以参考微信公众号`南洋理工小助手`
 **注意**：NTU云南园隔条马路对面的HDB的编号基本是以9开头的，据说登革热发病率较高，准确性有待考证。如果能找到更合适的，暂时尽量不在这个区域找房源呗。
 
 
---------------
-## 2. 手机卡
+## 手机卡
 在新加坡生活居住，本地手机卡必不可少。可以购买[Singtel](https://www.singtel.com)的预付卡Prepaid Card，详情请查询[Singtel Prepaid Plans](https://www.singtel.com/personal/products-services/mobile/prepaid-plans)，NTU的Canteen 2附近的7-Eleven可以购买，15新币的**hi! SIM Cards**预付卡看来不错。以后可以下载Singtel的对应App: **hi!App**，购买喜欢的套餐以及手机充值，也可以利用微信公众号**新加坡便民**进行充值。当然也可以购买Postpaid Card，请参考[Singtel Postpaid Plan](https://www.singtel.com/personal/products-services/mobile/postpaid-plans)，可以去Jurong Point Shopping Centre的[Singtel Exclusive Retailer](https://goo.gl/maps/z6wp6MbxbUHXw52KA)办理，对应的手机APP是MySingtel。如果先办理了Prepaid卡，也可以到Singtel营业厅或者他们在JP等地方的RoadShow转成Postpaid卡，后者的好处是流量多，但是有合约，一年一年签。我在新加坡用了一年的Prepaid卡，后来转成了Postpaid卡，一个月20新币费用，包含20G流量，150min本地通话，500条SMS。
 
 ![Singtel Prepaid SIM](/datas/note/Singapore/singapore-start/singtel-precard.png)
 
 
------------
-## 3. 公共交通
+## 公共交通
 乘坐公共交通工具，比坐bus和MRT，有很多种付款方式。一般坐bus的时候，前门上车刷卡，后门下车刷卡。上车时默认收取全程车费，所以下车时切忌刷卡，保证自己不被多收钱。
 
 - 校园卡
@@ -123,14 +128,7 @@ NTU学生宿舍可以参考微信公众号`南洋理工小助手`
     - 其他方式：欢迎告知
 
 
---------------------
-目录：[新加坡生活一站式启动: 目录]({{< ref "/note/Singapore/singapore-start/content.md">}})
 
-上一篇：[新加坡生活一站式启动: NTU校园生活]({{< ref "/note/Singapore/singapore-start/NTU-campus-life.md">}})
-
-下一篇：[新加坡生活一站式启动: 个人经济管理]({{< ref "/note/Singapore/singapore-start/Singapore-economy.md">}})
-
-
-### 编辑历史
+## 编辑历史
 
 - 2019-07-12： 初稿

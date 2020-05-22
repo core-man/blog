@@ -1,7 +1,14 @@
 ---
-title: 新加坡生活一站式启动 一 4. 新加坡生活信息汇总 (持续更新中...欢迎投稿)
-date: 2019-07-12
+title: "新加坡生活信息"
+date: 2020-05-22
+lastmod: 2020-05-22
+author: core-man
+draft: false
+tags: ["新加坡"]
+categories: ["新加坡"]
+slug: singapore-info-collection
 ---
+
 
 ## 信件和包裹接受地址
 
@@ -233,14 +240,7 @@ NTU最大、设施最齐全的健身房为North Hill Gym，位于北山宿舍群
 [谷歌小恐龙](http://wayou.github.io/t-rex-runner)|[谷歌小恐龙其他玩法](https://github.com/wayou/t-rex-runner)
 
 
---------------------
-目录：[新加坡生活一站式启动: 目录]({{< ref "/note/Singapore/singapore-start/content.md">}})
 
-上一篇：[新加坡生活一站式启动: 个人经济管理]({{< ref "/note/Singapore/singapore-start/Singapore-economy.md">}})
-
-下一篇：[新加坡生活一站式启动: 留新之前的准备]({{< ref "/note/Singapore/singapore-start/Singapore-preparation.md">}})
-
-
-### 编辑历史
+## 编辑历史
 
 - 2019-07-12： 初稿

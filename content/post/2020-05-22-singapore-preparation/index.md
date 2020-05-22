@@ -1,9 +1,16 @@
 ---
-title: 新加坡生活一站式启动 一 5. 留新之前的准备 (持续更新中...欢迎投稿)
-date: 2019-07-12
+title: "留新准备"
+date: 2020-05-22
+lastmod: 2020-05-22
+author: core-man
+draft: false
+tags: ["新加坡"]
+categories: ["新加坡"]
+slug: singapore-preparation
 ---
 
-## 1. Paper Work
+
+## Paper Work
 
 - **1.1** 面试成功后，Boss先发口头offer，然后会让学校启动paper work，这个过程可能要一点时间完成。
 
@@ -71,26 +78,19 @@ date: 2019-07-12
 - 按照预约的时间，带好材料去 MoM 录指纹等。
 
 
-## 6. 入职后续
+## 入职后续
 
 - 入职以后还会陆续收到学校的相关邮件提醒，按到要求完成即可。比如，参加一些下线下和线上培训，线上培训需要做一些试题，通过才行。
 
 
-## 7. 补充
+## 补充
 
 - 以上相关流程是我在2018年博士后申请时总结的经验，目前可能有更新。访问学者/学生、博士、RA等可能有所区别，欢迎更新和补充。
 - 访问学生/学者可以参考《[新加坡访问学习总结—李慧(访问学生)]({{< ref "/note/MIGG/NTU-study-Lihui/index.md" >}})》一文的第五部分。
 
 
---------------------
-目录：[新加坡生活一站式启动: 目录]({{< ref "/note/Singapore/singapore-start/content.md">}})
 
-上一篇：[新加坡生活一站式启动: 新加坡生活信息汇总]({{< ref "/note/Singapore/singapore-start/Singapore-info-collection.md">}})
-
-下一篇：[新加坡生活一站式启动: 留新回国事宜]({{< ref "/note/Singapore/singapore-start/Singapore-leave.md">}})
-
-
-
-### 编辑历史
+## 编辑历史
 
 - 2019-07-12： 初稿
+
