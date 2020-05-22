@@ -35,19 +35,30 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   url = "/"
 [[menu.main]]
   name = "归档"
-  weight = 20
+  weight = 15
   identifier = "archives"
   url = "/post/"
 [[menu.main]]
+  name = "分类"
+  weight = 20
+  identifier = "categories"
+  url = "/categories/"
+[[menu.main]]
   name = "标签"
-  weight = 30
+  weight = 25
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
-  name = "分类"
-  weight = 40
-  identifier = "categories"
-  url = "/categories/"
+  name = "标签"
+  weight = 30
+  identifier = "links"
+  url = "https://core-man.github.io/link/"
+[[menu.main]]
+  name = "标签"
+  weight = 35
+  identifier = "projects"
+  url = "https://core-man.github.io/"
+
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
