@@ -6,7 +6,7 @@ author: core-man
 draft: false
 tags: ["经济管理"]
 categories: ["新加坡"]
-slug: singapore_economy
+slug: singapore-economy
 ---
 
 
