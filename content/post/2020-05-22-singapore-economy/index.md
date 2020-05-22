@@ -14,14 +14,14 @@ slug: singapore-economy
 
 ### 银行账户和储蓄卡
 
-学校会要求提供一个银行账号用于财务结算，如果第一月没有办理银行账户，工资会以支票的形式发放。学校里有OCBC(Oversea-Chinese Banking Corporation)和DBS的取款机，分别在North Spine和South Spine。OCBC在North Spine有个银行柜台，DBS的柜台在[JP(Jurong Point Shopping Centre)](https://goo.gl/maps/iCzbzntbhcazS9K4A)。不过办理银行账户，需要新加坡身份证，住址证明等材料。住址证明就是写有你具体住址的官网文件，比如水电费单，手机账单等。学校一般不会帮大家开住址证明，而大家刚到新加坡，也没有自己的房子，没有水电费单。如果没有办理手机业务，也没有手机账单，如果购买了Postpaid Card可能会有账单（有待考察）。一个确定可行的方式就是租房住址证明，可以问房东帮忙办理(貌似要在网站上登记一下，交点钱。不过貌似只适用于组屋。)，或者找楼管开学生宿舍证明。如果以上方式都不可行的话，还可以通过交租房的印花税(Stamp Duty)拿到，请参考[Stamp duty for proterty]({{< ref "/note/Singapore/stampduty/index.md" >}})。最新消息：貌似在入职的时候，NTU人力资源部的工作人员会问你更新住址，给你打印一份印有MoM的证明，请参考[留新之前的准备: 入职报到]({{< ref "/note/Singapore/singapore-start/Singapore-preparation.md" >}})。带着要求的文件到银行柜台开户就可以了，同时会有一张储蓄卡。
+学校会要求提供一个银行账号用于财务结算，如果第一月没有办理银行账户，工资会以支票的形式发放。学校里有OCBC(Oversea-Chinese Banking Corporation)和DBS的取款机，分别在North Spine和South Spine。OCBC在North Spine有个银行柜台，DBS的柜台在[JP(Jurong Point Shopping Centre)](https://goo.gl/maps/iCzbzntbhcazS9K4A)。不过办理银行账户，需要新加坡身份证，住址证明等材料。住址证明就是写有你具体住址的官网文件，比如水电费单，手机账单等。学校一般不会帮大家开住址证明，而大家刚到新加坡，也没有自己的房子，没有水电费单。如果没有办理手机业务，也没有手机账单，如果购买了Postpaid Card可能会有账单（有待考察）。一个确定可行的方式就是租房住址证明，可以问房东帮忙办理(貌似要在网站上登记一下，交点钱。不过貌似只适用于组屋。)，或者找楼管开学生宿舍证明。如果以上方式都不可行的话，还可以通过交租房的印花税(Stamp Duty)拿到，请参考[Stamp duty for proterty](../2020-05-20-stampduty/index.md)。最新消息：貌似在入职的时候，NTU人力资源部的工作人员会问你更新住址，给你打印一份印有MoM的证明，请参考[留新之前的准备: 入职报到](2020-05-22-singapore-preparation/index.md)。带着要求的文件到银行柜台开户就可以了，同时会有一张储蓄卡。
 
 ### 信用卡
 
 如果有需要，还可以申请各大银行的信用卡，比如OCBC，DBS，UOB等。信用卡可以坐公共交通，食堂刷卡吃饭，出去消费等，据说UOB的One Card不错。
 
 申请UOB的信用卡以后，需要开通的网银的话，请参考一下方式：
-    ![UOB Personal Internet Bank](/datas/note/Singapore/singapore-start/UOB-personal-internet-bank.jpg)
+    ![UOB Personal Internet Bank](UOB-personal-internet-bank.jpg)
 
 
 ### 个人新加坡支付方式汇总
@@ -78,7 +78,7 @@ FlexBen选择示例:
 
     - 选择`General Consultation`，预约就医时间。
     - 就医时，请携带好注册使用的证件以及LiveFuller里的预约确认页。
-    ![Fuller-1](/datas/note/Singapore/singapore-start/Fuller-1.png)
+    ![Fuller-1](Fuller-1.png)
 
 
 
