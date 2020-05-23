@@ -24,13 +24,13 @@ slug: internaltionl-conference
 
 前往[AGU Fall Meeting网站](http://fallmeeting.agu.org/)提交摘要，提交流程参考[提交指南](http://fallmeeting.agu.org/2018/abstract-submissions/submissions/)。几点注意事项：
 
-    * 引号从 Word 里直接复制到网页上显示的是错的，注意自己删掉重新输入一遍；
-    * 正文粘进去之后自己检查一遍，注意上下标等格式；
-    * 要将老板以及其他合作者都加到作者列表中；
-    * 付款$35后一定要记得提交摘要和保存`收据`；
-    * 提交摘要后记得生成邀请函以供申请签证和报销使用，生成邀请函的时候不要选择老板，避免发邮件打扰他；
-    * AGU会给邮箱发送邀请函，或者直接在生成邀请函后下载亦可，注意保存；
-    * 已提交的摘要在截止日期前可以在[会议摘要提交主页](https://agu.confex.com/agu/fm18/preliminaryview.cgi/programs.html)上修改；
+* 引号从 Word 里直接复制到网页上显示的是错的，注意自己删掉重新输入一遍；
+* 正文粘进去之后自己检查一遍，注意上下标等格式；
+* 要将老板以及其他合作者都加到作者列表中；
+* 付款$35后一定要记得提交摘要和保存`收据`；
+* 提交摘要后记得生成邀请函以供申请签证和报销使用，生成邀请函的时候不要选择老板，避免发邮件打扰他；
+* AGU会给邮箱发送邀请函，或者直接在生成邀请函后下载亦可，注意保存；
+* 已提交的摘要在截止日期前可以在[会议摘要提交主页](https://agu.confex.com/agu/fm18/preliminaryview.cgi/programs.html)上修改；
 
 3.  预订酒店
 
@@ -49,14 +49,14 @@ slug: internaltionl-conference
 	- 填写DS-160表格提供签证信息[参考网页](https://www.immihelp.com/qianzheng/ds-160-meiguo-qianzheng-biaoge-zhidao.html)
 	- 支付签证所需费用[参考网页](http://www.ustraveldocs.com/sg_mn/sg-niv-paymentinfo.asp)
 	- 注册/登陆[个人主页](https://cgifederal.secure.force.com/?language=Chinese%20(Simplified)&country=Singapore)并完善信息，准备支付费用及预约签证时间。保存好`收据`。
-	- [签证准备材料](/datas/note/Work/international-meeting/VisaFiles.zip)
+	- 准备签证材料
 
 6.  已有签证人员需要更新签证信息 [evus](https://www.evus.gov/)
 
 7.  出差申请
 
-    - 请参考[Flight ticket & Business travel](../../../ntu.resources/2018-10-17-flight-and-BTS/index.md) & [Overseas business travel policy](../../../ntu.resources/2019-06-25-overseas-travel-policy/index.md)，了解更多信息。
-    - 请参考[2019 AGU fall meeting](../../../ntu.resources/2018-10-17-flight-and-BTS/travel-request.pdf)的申请例子。
+    - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources) & [Overseas business travel policy](https://github.com/core-man/ntu.resources)，了解更多信息。
+    - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources)里的2019AGU申请例子。
     - 注意事项
         - [iNTU](https://intu.ntu.edu.sg/_layouts/iNTU/Main.aspx?Page=Home)-> StaffLink -> HR Services -> Business Travel System (BTS)
         - 上传摘要和邀请信作为证明材料
@@ -77,7 +77,7 @@ slug: internaltionl-conference
 
 9.  购买机票
 
-    - 请参考[Flight ticket & Business travel](../../../ntu.resources/2018-10-17-flight-and-BTS/index.md)。
+    - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources)。
     - 注意事项
         - 购买机票的同时要购买航空保险
         - 保存好`行程单`和`收据`
@@ -94,13 +94,13 @@ slug: internaltionl-conference
         - `邀请信`、`行程单`、`登机牌`、`BTS申报页面`、`纸质保单`
         - 收据/发票: `机票`、`AGU会员费`、`AGU摘要费`、`AGU注册费`、`交通 (Taxi, BART)`、`住宿`、`签证`、`保险`
         - `银行对账单支付记录`
-    - 请参考[Flight ticket & Business travel](../../../ntu.resources/2018-10-17-flight-and-BTS/index.md) & [Overseas business travel policy](../../../ntu.resources/2019-06-25-overseas-travel-policy/index.md)。
+    - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources) & [Overseas business travel policy](https://github.com/core-man/ntu.resources)。
 
 
 ## 海外出差政策
 
-- 请参考[Flight ticket & Business travel](../../../ntu.resources/2018-10-17-flight-and-BTS/index.md)
-- 请参考[Overseas business travel policy](../../../ntu.resources/2019-06-25-overseas-travel-policy/index.md)
+- 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources)
+- 请参考[Overseas business travel policy](https://github.com/core-man/ntu.resources)
 
 
 ## 乘机注意事项
