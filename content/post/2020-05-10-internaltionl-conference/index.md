@@ -88,13 +88,13 @@ slug: internaltionl-conference
 
     - 报销需要`纸质保单`和`发票`
 
-11.  回国报销
+11. 回国报销
 
     - 准备好相关文件
         - `邀请信`、`行程单`、`登机牌`、`BTS申报页面`、`纸质保单`
         - 收据/发票: `机票`、`AGU会员费`、`AGU摘要费`、`AGU注册费`、`交通 (Taxi, BART)`、`住宿`、`签证`、`保险`
         - `银行对账单支付记录`
-    - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources) & [Overseas business travel policy](https://github.com/core-man/ntu.resources)。
+    - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources) & [Overseas business travel policy](https://github.com/core-man/ntu.resources)
 
 
 ## 海外出差政策
@@ -116,7 +116,7 @@ slug: internaltionl-conference
 - 在美国或者中国坐飞机回新加坡，会检查visa。由于visa上没有有效日期，所有务必提前在下载好了`SGWorkPass`，以便现场查询。
 - 一些常用App:
    - 航旅纵横：用于查询航班实时信息，在大机场转机尤其需要
-   - Google地图：百度地图等在国外不可用；
+   - Google地图：百度地图等在国外不可用
    - Google翻译
 - 兑换美元现金
 - 酒店住宿每天每人一美元小费
