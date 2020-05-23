@@ -117,8 +117,7 @@ author: core-man
         - [输入符号、重音、特殊字符以及怪异的标点](https://www.howtotype.net/) (Mac & Windows)
             - [输入怪异的标点](https://www.howtotype.net/category/punctuation)
         - 输入负/减号(Minus): `−` (Unicode: U+2212)
-            - [Mac中输入负/减号](https://apple.stackexchange.com/questions/39448/how-do-you-type-a-true-minus-sign-not-a-hyphen-on-a-mac)：`Ctrl` + `Command` + `Space` (Finder -->> Edit -->> Emoji & Symbols) -->> Math Symbols -->> Minus Sign -->> Drag the sign into Word
-                - 此方法还可以输入其他符号: hyphen, en dash, em desh, plus-minus sign (正负号), degree (度)等。
+            - [Mac中输入负/减号](https://apple.stackexchange.com/questions/39448/how-do-you-type-a-true-minus-sign-not-a-hyphen-on-a-mac)：`Ctrl` + `Command` + `Space` (Finder -->> Edit -->> Emoji & Symbols) -->> Math Symbols -->> Minus Sign -->> Drag the sign into Word；此方法还可以输入其他符号: hyphen、en dash、em desh、plus-minus sign (正负号), degree (度)等。
             - [Windows中输入负/减号](https://en.wikipedia.org/wiki/Wikipedia:How_to_make_dashes)
                 - `Alt` + 小键盘`8722`
                 - [MS Word](http://blog.sciencenet.cn/blog-437026-733739.html)
@@ -126,7 +125,7 @@ author: core-man
                     - 手动插入：插入(Insert) -->> 符号 (Symbol) -->> symbol -->> `−`；在对话框中输入`2212`可以直接搜索出负/减号，以下符号都可以用此方式找到。
         - 输入连字符(hyphen): `-` (Unicode: U+2010; ASCII code: 45)
             - Mac & Windows: Keyboard `-`
-            - 注意hyphen (Unicode: U+2010) 和 hyphen-minus (Unicode: U+002D)长得几乎一样，不知道键盘的这个符号到底是哪个，不知道ASCII code 45是否也代表hyphen-minus。在通常情况下我们直接使用这个符号就可以了。
+            - 注意hyphen (Unicode: U+2010) 和 hyphen-minus (Unicode: U+002D)长得几乎一样，不清楚键盘的这个符号到底是哪个，不清楚ASCII code 45是否也代表hyphen-minus。在通常情况下我们直接使用这个符号就可以了。
         - 输入短破折号(连接号; En dash): `–` (Unicode: U+2013; ASCII code: 150)
             - [Mac中输入短破折号](https://www.howtotype.net/symbol/en-dash/)：`Option` + `-`
             - [Windows中输入短破折号](https://www.howtotype.net/symbol/en-dash/)
@@ -159,13 +158,11 @@ author: core-man
                 - MS Word: 插入(Insert) -->> 符号 (Symbol) -->> (latin text) -->> `°`
             - 与度相似的其他符号
                 - 阳性序数记号(Masculine Ordinal Indicator): `º` (Unicode: U+00BA; ASCII code: 186)
-                    - Mac
-                        - `Option` + `0`
-                        - `Ctrl` + `Command` + `Space` (Finder -->> Edit -->> Emoji & Symbols) -->> Punctuation -->> Masculine Ordinal Indicator -->> Drag the sign into Word
+                    - `Option` + `0` (Mac)
+                    - `Ctrl` + `Command` + `Space` (Finder -->> Edit -->> Emoji & Symbols) -->> Punctuation -->> Masculine Ordinal Indicator -->> Drag the sign into Word (Mac)
                 - Ring Above: ˚ (Unicode: U+02DA)
-                    - Mac
-                        - `Option` + `K`
-                        - `Ctrl` + `Command` + `Space` (Finder -->> Edit -->> Emoji & Symbols) -->> Punctuation -->> Ring Above -->> Drag the sign into Word
+                    - `Option` + `K` (Mac)
+                    - `Ctrl` + `Command` + `Space` (Finder -->> Edit -->> Emoji & Symbols) -->> Punctuation -->> Ring Above -->> Drag the sign into Word (Mac)
 
 
 ### 几位老师的建议
