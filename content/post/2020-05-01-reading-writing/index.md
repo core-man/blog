@@ -1,7 +1,12 @@
 ---
-title: 学术阅读和写作的经验
+title: "学术阅读和写作的经验"
 date: 2020-05-01
+lastmod: 2020-05-01
 author: core-man
+draft: false
+tags: ["阅读", "写作"]
+categories: ["阅读写作"]
+slug: reading-writing
 ---
 
 ## 学术阅读
