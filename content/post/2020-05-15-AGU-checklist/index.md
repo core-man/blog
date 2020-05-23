@@ -77,11 +77,9 @@ slug: AGU-checklist
 1. 开会期间，索要各种receipts： `registration`($255)、`abstract`($35)、`membership`($20)
 2. 飞机登机牌各自保管（不能丢），回来后报销要用
 3. 酒店信息，比如
-    ```
-    酒店名称：Marriott Marquis Washington DC
-    地址：    901 Massachusetts Avenue, Washington DC 20001 US
-    电话：    00 1 202-824-9200
-    ```
+> 酒店名称：Marriott Marquis Washington DC
+> 地址：    901 Massachusetts Avenue, Washington DC 20001 US
+> 电话：    00 1 202-824-9200
 
 ## 补充
 
