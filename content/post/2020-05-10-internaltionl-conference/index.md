@@ -24,15 +24,15 @@ slug: internaltionl-conference
 
     前往[AGU Fall Meeting网站](http://fallmeeting.agu.org/)提交摘要，提交流程参考[提交指南](http://fallmeeting.agu.org/2018/abstract-submissions/submissions/)。几点注意事项：
 
-* 引号从 Word 里直接复制到网页上显示的是错的，注意自己删掉重新输入一遍；
-* 正文粘进去之后自己检查一遍，注意上下标等格式；
-* 要将老板以及其他合作者都加到作者列表中；
-* 付款$35后一定要记得提交摘要和保存`收据`；
-* 提交摘要后记得生成邀请函以供申请签证和报销使用，生成邀请函的时候不要选择老板，避免发邮件打扰他；
-* AGU会给邮箱发送邀请函，或者直接在生成邀请函后下载亦可，注意保存；
-* 已提交的摘要在截止日期前可以在[会议摘要提交主页](https://agu.confex.com/agu/fm18/preliminaryview.cgi/programs.html)上修改；
+    * 引号从 Word 里直接复制到网页上显示的是错的，注意自己删掉重新输入一遍；
+    * 正文粘进去之后自己检查一遍，注意上下标等格式；
+    * 要将老板以及其他合作者都加到作者列表中；
+    * 付款$35后一定要记得提交摘要和保存`收据`；
+    * 提交摘要后记得生成邀请函以供申请签证和报销使用，生成邀请函的时候不要选择老板，避免发邮件打扰他；
+    * AGU会给邮箱发送`邀请函`，或者直接在生成邀请函后下载亦可，注意保存；
+    * 已提交的摘要在截止日期前可以在[会议摘要提交主页](https://agu.confex.com/agu/fm18/preliminaryview.cgi/programs.html)上修改；
 
-3.  预订酒店
+3. 预订酒店
 
     - AGU官网上可[预订酒店](http://fallmeeting.agu.org/2018/housing/)，价格便宜，数量有限，先到先得
     - AGU网站在开通酒店预订功能后几天才会发邮件通知，此时很多酒店已经被预订完了，所以`8月中旬到8月底`要每天刷新预订页面，检查是否可以开始预订
@@ -40,9 +40,9 @@ slug: internaltionl-conference
     - 预订酒店需要visa或mastercard信用卡担保
     - 每人只能预约一间房
 
-4.  办理护照
+4. 办理护照
 
-5.  [办理签证](http://bbs.qyer.com/thread-878259-1.html)
+5. [办理签证](http://bbs.qyer.com/thread-878259-1.html)
 
     - 拍签证照片（注意拿发票与照片电子版)
 	- 熟悉[签证申请流程](http://www.ustraveldocs.com/sg_mn/sg-niv-visaapply.asp)
@@ -51,9 +51,9 @@ slug: internaltionl-conference
 	- 注册/登陆[个人主页](https://cgifederal.secure.force.com/?language=Chinese%20(Simplified)&country=Singapore)并完善信息，准备支付费用及预约签证时间。保存好`收据`。
 	- 准备签证材料
 
-6.  已有签证人员需要更新签证信息 [evus](https://www.evus.gov/)
+6. 已有签证人员需要更新签证信息 [evus](https://www.evus.gov/)
 
-7.  出差申请
+7. 出差申请
 
     - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources) & [Overseas business travel policy](https://github.com/core-man/ntu.resources)，了解更多信息。
     - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources)里的2019AGU申请例子。
@@ -69,32 +69,32 @@ slug: internaltionl-conference
         记得要在Business Travel System的**Travel Details**的**Remarks**中陈诉休假事宜。
     - 如有有疑问可以联系SPMS的[Lilian Chua Suat Bee](https://spms.ntu.edu.sg/aboutus/Our-People/Pages/Chairs-Office.aspx) ([ESBCHUA@ntu.edu.sg](mailto:ESBCHUA@ntu.edu.sg))，EOS的[SU SU Hlaing Myint](https://earthobservatory.sg/people/su-su-hlaing-myint) ([HMSUSU@ntu.edu.sg](mailto@HMSUSU@ntu.edu.sg))
 
-8.  注册会议
+8. 注册会议
 
     - 10月2日左右会收到 “AGU Fall Meeting Abstract Status Notification” 的邮件，记得点确认同意present
     - 注册会议费用约为$255，保存`收据`
     - 注册之后会收到邮件，其中有一个条形码是到现场领取胸牌时需要的
 
-9.  购买机票
+9. 购买机票
 
-- 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources)。
-- 注意事项
-    - 购买机票的同时要购买航空保险
-    - 保存好`行程单`和`收据`
-    - 如果确定会议摘要一定会通过，也可在注册会议前购买机票。提前买机票的话，会便宜点 (好像AGU很少拒掉摘要)。
-- 如有有任何疑问可以联系SPMS的[Lilian Chua Suat Bee](https://spms.ntu.edu.sg/aboutus/Our-People/Pages/Chairs-Office.aspx) ([ESBCHUA@ntu.edu.sg](mailto:ESBCHUA@ntu.edu.sg))，EOS的[SU SU Hlaing Myint](https://earthobservatory.sg/people/su-su-hlaing-myint) ([HMSUSU@ntu.edu.sg](mailto@HMSUSU@ntu.edu.sg))
+    - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources)。
+    - 注意事项
+        - 购买机票的同时要购买航空保险
+        - 保存好`行程单`和`收据`
+        - 如果确定会议摘要一定会通过，也可在注册会议前购买机票。提前买机票的话，会便宜点 (好像AGU很少拒掉摘要)。
+    - 如有有任何疑问可以联系SPMS的[Lilian Chua Suat Bee](https://spms.ntu.edu.sg/aboutus/Our-People/Pages/Chairs-Office.aspx) ([ESBCHUA@ntu.edu.sg](mailto:ESBCHUA@ntu.edu.sg))，EOS的[SU SU Hlaing Myint](https://earthobservatory.sg/people/su-su-hlaing-myint) ([HMSUSU@ntu.edu.sg](mailto@HMSUSU@ntu.edu.sg))
 
-10.  购买境外保险
+10. 购买境外保险
 
-- 报销需要`纸质保单`和`发票`
+    - 报销需要`纸质保单`和`发票`
 
 11.  回国报销
 
-- 准备好相关文件
-    - `邀请信`、`行程单`、`登机牌`、`BTS申报页面`、`纸质保单`
-    - 收据/发票: `机票`、`AGU会员费`、`AGU摘要费`、`AGU注册费`、`交通 (Taxi, BART)`、`住宿`、`签证`、`保险`
-    - `银行对账单支付记录`
-- 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources) & [Overseas business travel policy](https://github.com/core-man/ntu.resources)。
+    - 准备好相关文件
+        - `邀请信`、`行程单`、`登机牌`、`BTS申报页面`、`纸质保单`
+        - 收据/发票: `机票`、`AGU会员费`、`AGU摘要费`、`AGU注册费`、`交通 (Taxi, BART)`、`住宿`、`签证`、`保险`
+        - `银行对账单支付记录`
+    - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources) & [Overseas business travel policy](https://github.com/core-man/ntu.resources)。
 
 
 ## 海外出差政策
