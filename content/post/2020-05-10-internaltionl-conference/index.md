@@ -121,7 +121,7 @@ slug: internaltionl-conference
 - 兑换美元现金
 - 酒店住宿每天每人一美元小费
 - 开通国际长途和国际漫游，也可租用移动Wifi
-- 请参考[AGU 临行清单](../AGU-checklist/)
+- 请参考[AGU 临行清单](../agu-checklist/)
 
 
 ## 编辑历史
