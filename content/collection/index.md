@@ -6,7 +6,8 @@ menu: "main"
 weight: 45
 ---
 
-本博客中系列性博文:
+经常更新的博文或系列性博文:
 
 1. [留学新加坡](../post/oversea-in-singapore/)
+2. [学术阅读和写作的经验](../post/reading-writing/)
 
