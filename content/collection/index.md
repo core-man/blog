@@ -10,6 +10,6 @@ weight: 45
 
 1. [留学新加坡](../post/oversea-in-singapore/)
 2. [学术阅读和写作的经验](../post/reading-writing/)
-3. [地震学初步入门材料清单]../post/intro-material-seismology/)
+3. [地震学初步入门材料清单](../post/intro-material-seismology/)
 
 
