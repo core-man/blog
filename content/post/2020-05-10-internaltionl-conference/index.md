@@ -77,24 +77,24 @@ slug: internaltionl-conference
 
 9.  购买机票
 
-    - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources)。
-    - 注意事项
-        - 购买机票的同时要购买航空保险
-        - 保存好`行程单`和`收据`
-        - 如果确定会议摘要一定会通过，也可在注册会议前购买机票。提前买机票的话，会便宜点 (好像AGU很少拒掉摘要)。
-    - 如有有任何疑问可以联系SPMS的[Lilian Chua Suat Bee](https://spms.ntu.edu.sg/aboutus/Our-People/Pages/Chairs-Office.aspx) ([ESBCHUA@ntu.edu.sg](mailto:ESBCHUA@ntu.edu.sg))，EOS的[SU SU Hlaing Myint](https://earthobservatory.sg/people/su-su-hlaing-myint) ([HMSUSU@ntu.edu.sg](mailto@HMSUSU@ntu.edu.sg))
+- 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources)。
+- 注意事项
+    - 购买机票的同时要购买航空保险
+    - 保存好`行程单`和`收据`
+    - 如果确定会议摘要一定会通过，也可在注册会议前购买机票。提前买机票的话，会便宜点 (好像AGU很少拒掉摘要)。
+- 如有有任何疑问可以联系SPMS的[Lilian Chua Suat Bee](https://spms.ntu.edu.sg/aboutus/Our-People/Pages/Chairs-Office.aspx) ([ESBCHUA@ntu.edu.sg](mailto:ESBCHUA@ntu.edu.sg))，EOS的[SU SU Hlaing Myint](https://earthobservatory.sg/people/su-su-hlaing-myint) ([HMSUSU@ntu.edu.sg](mailto@HMSUSU@ntu.edu.sg))
 
 10.  购买境外保险
 
-    - 报销需要`纸质保单`和`发票`
+- 报销需要`纸质保单`和`发票`
 
 11.  回国报销
 
-    - 准备好相关文件
-        - `邀请信`、`行程单`、`登机牌`、`BTS申报页面`、`纸质保单`
-        - 收据/发票: `机票`、`AGU会员费`、`AGU摘要费`、`AGU注册费`、`交通 (Taxi, BART)`、`住宿`、`签证`、`保险`
-        - `银行对账单支付记录`
-    - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources) & [Overseas business travel policy](https://github.com/core-man/ntu.resources)。
+- 准备好相关文件
+    - `邀请信`、`行程单`、`登机牌`、`BTS申报页面`、`纸质保单`
+    - 收据/发票: `机票`、`AGU会员费`、`AGU摘要费`、`AGU注册费`、`交通 (Taxi, BART)`、`住宿`、`签证`、`保险`
+    - `银行对账单支付记录`
+- 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources) & [Overseas business travel policy](https://github.com/core-man/ntu.resources)。
 
 
 ## 海外出差政策
