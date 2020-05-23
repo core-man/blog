@@ -1,5 +1,5 @@
 
-core-man的博客
+core-man 的博客
 
 ## 地震学基础
 
@@ -14,6 +14,12 @@ core-man的博客
 ### 计算机入门
 
 - [文件备份](content/post/2020-03-15-backup/index.md)
+
+
+
+## 学术相关
+
+- [学术阅读和写作的经验](content/post/2020-05-01-reading-writing/index.md)
 
 
 
