@@ -20,6 +20,8 @@ core-man 的博客
 ## 学术相关
 
 - [学术阅读和写作的经验](content/post/2020-05-01-reading-writing/index.md)
+- [参加国际会议 (以AGU为例)](content/post/2020-05-10-internaltionl-conference/index.md)
+- [AGU 临行清单](content/post/2020-05-15-AGU-checklist/index.md)
 
 
 
