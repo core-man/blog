@@ -98,8 +98,6 @@ author: core-man
         - [ASCII码对照表](http://ascii.911cha.com/)
         - [EASCII码对照表](http://ascii.911cha.com/eascii.html)
     - [符号大全](http://www.fhdq.net)
-
-- 书写特殊符号
     - 英文负/减号(Minus)、连字符(Hyphen)、短破折号(连接号; En dash)、长破折号(Em dash)的区别
         - 外形差异
             - `−` Minus
@@ -112,6 +110,8 @@ author: core-man
             - [The en dash, em dash and hyphen](https://www.punctuationmatters.com/hyphen-dash-n-dash-and-m-dash)
         - 笔记
             - 一般可以混用负/减号和短破折号；长破折号一般不常用；连字符可以直接键盘输入。
+
+- 书写特殊符号
     - 符号快捷键
         - [Mac](https://www.webnots.com/option-or-alt-key-shortcuts-to-insert-symbols-in-mac-os-x)
         - [Windows](https://www.webnots.com/alt-key-windows-shortcuts/)
