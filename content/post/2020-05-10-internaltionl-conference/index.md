@@ -22,7 +22,7 @@ slug: internaltionl-conference
 
 2. 提交会议摘要，拿到会议邀请函
 
-前往[AGU Fall Meeting网站](http://fallmeeting.agu.org/)提交摘要，提交流程参考[提交指南](http://fallmeeting.agu.org/2018/abstract-submissions/submissions/)。几点注意事项：
+    前往[AGU Fall Meeting网站](http://fallmeeting.agu.org/)提交摘要，提交流程参考[提交指南](http://fallmeeting.agu.org/2018/abstract-submissions/submissions/)。几点注意事项：
 
 * 引号从 Word 里直接复制到网页上显示的是错的，注意自己删掉重新输入一遍；
 * 正文粘进去之后自己检查一遍，注意上下标等格式；
