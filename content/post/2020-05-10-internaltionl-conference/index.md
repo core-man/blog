@@ -55,8 +55,8 @@ slug: internaltionl-conference
 
 7. 出差申请
 
-    - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources) & [Overseas business travel policy](https://github.com/core-man/ntu.resources)，了解更多信息。
-    - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources)里的2019AGU申请例子。
+    - 请参考[Flight ticket & Business travel](https://github.com/MIGG-NTU/resources.ntu) & [Overseas business travel policy](https://github.com/MIGG-NTU/resources.ntu)，了解更多信息。
+    - 请参考[Flight ticket & Business travel](https://github.com/MIGG-NTU/resources.ntu)里的2019AGU申请例子。
     - 注意事项
         - [iNTU](https://intu.ntu.edu.sg/_layouts/iNTU/Main.aspx?Page=Home)-> StaffLink -> HR Services -> Business Travel System (BTS)
         - 上传摘要和邀请信作为证明材料
@@ -77,7 +77,7 @@ slug: internaltionl-conference
 
 9. 购买机票
 
-    - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources)。
+    - 请参考[Flight ticket & Business travel](https://github.com/MIGG-NTU/resources.ntu)。
     - 注意事项
         - 购买机票的同时要购买航空保险
         - 保存好`行程单`和`收据`
@@ -94,13 +94,13 @@ slug: internaltionl-conference
         - `邀请信`、`行程单`、`登机牌`、`BTS申报页面`、`纸质保单`
         - 收据/发票: `机票`、`AGU会员费`、`AGU摘要费`、`AGU注册费`、`交通 (Taxi, BART)`、`住宿`、`签证`、`保险`
         - `银行对账单支付记录`
-    - 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources) & [Overseas business travel policy](https://github.com/core-man/ntu.resources)
+    - 请参考[Flight ticket & Business travel](https://github.com/MIGG-NTU/resources.ntu) & [Overseas business travel policy](https://github.com/MIGG-NTU/resources.ntu)
 
 
 ## 海外出差政策
 
-- 请参考[Flight ticket & Business travel](https://github.com/core-man/ntu.resources)
-- 请参考[Overseas business travel policy](https://github.com/core-man/ntu.resources)
+- 请参考[Flight ticket & Business travel](https://github.com/MIGG-NTU/resources.ntu)
+- 请参考[Overseas business travel policy](https://github.com/MIGG-NTU/resources.ntu)
 
 
 ## 乘机注意事项
