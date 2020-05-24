@@ -35,7 +35,6 @@ core-man 的博客
     - [留新个人生活信息汇总](content/post/2020-05-22-singapore-info-collection/index.md)
     - [留新个人日常生活](content/post/2020-05-22-singapore-life/index.md)
     - [留新娱乐活动](content/post/2020-05-22-singapore-recreation/index.md)
-    - [留学新加坡](content/post/2020-05-23-oversea-in-singapore/index.md)
 
 
 
