@@ -130,7 +130,6 @@ slug: intro-material-seismology
 
 
 
-
 ## Seismological Basis
 
 ### Seismology
@@ -152,8 +151,10 @@ slug: intro-material-seismology
 ### Seismic data
 
 - Seismic data downloading
-    - [SOD](http://www.seis.sc.edu/sod): [Chinese introduction](https://blog.seisman.info/sod-notes) | [core-man's SOD recipes](https://github.com/core-man/seismic-data/tree/master/SOD) | [SeisMan's SOD recipes](https://github.com/seisman/SODrecipes)
-    - [Hinet](https://github.com/seisman/HinetPy): Download continuous waveform data from Hi-net and F-net | [Hinet note](https://blog.seisman.info/hinet/)
+    - [SOD](http://www.seis.sc.edu/sod): [Chinese tutorial](https://blog.seisman.info/sod-notes) | [core-man's SOD recipes](https://github.com/core-man/seismic-data/tree/master/SOD) | [SeisMan's SOD recipes](https://github.com/seisman/SODrecipes)
+    - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
+        - [Retrieving Data from Data Centers](http://docs.obspy.org/tutorial/code_snippets/retrieving_data_from_datacenters.html): e.g., `FDSN Web Services` & `IRIS Web Services`
+        - Some scripts: [EIDA's examples](https://www.orfeus-eu.org/data/eida/webservices/examples/workflow/) | [ObsPy docs](https://github.com/obspy/docs)
 - Seismic data processing
     - [SAC](https://seisman.github.io/SAC_Docs_zh)
     - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
