@@ -4,23 +4,16 @@ use warnings;
 use File::Basename;
 ## backup your data
 
-# 用户名
-my $me   = "tomoboy";
+my $me   = "core-man";                      # user
+my $HOME = "/home/$me";                     # home directory
 
-# HOME目录
-my $HOME = "/home/$me";
-
-# 远程备份目录
-my $BACK = "/run/media/$me/4T-YAO/BACKUP";
+my $BACK = "/run/media/$me/4T-disk/BACKUP"; # backup directory
 mkdir "$BACK" if (!-e $BACK);
 
-# 指定需要备份的目录
-my @dir = glob "$HOME/*";   # 不包括隐藏目录
-push @dir, "$HOME/Desktop/tomo-myanmar";
-push @dir, "$HOME/Desktop/web-tomolab";
+my @dir  = glob "$HOME/*";                  # directories to be backuped
 
 
-
+# begin to backup
 my ($start, $end, $now);
 
 open(LOG, ">>$BACK/backup.log");
@@ -31,12 +24,10 @@ foreach (@dir) {
     my ($dname) = fileparse($_, "");
 
     # don't bakcup those directories
-    next if ($dname eq "bin"     || $dname eq "data" ||
-             $dname eq "Dropbox" || $dname eq "Junk");
-
-    print STDERR "$dname\n";
+    next if ($dname eq "data" || $dname eq "Dropbox");
 
     $now = `date +%F-%H:%M:%S`; chomp($now);
+    print STDERR "backup $_ at $now\n";
     print LOG "backup $_ at $now\n";
 
     # rsync(远程同步)，更多参考https://www.howtoing.com/rsync-local-remote-file-synchronization-commands
