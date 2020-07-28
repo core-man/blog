@@ -124,6 +124,7 @@ slug: intro-material-seismology
 
 - [Vim](https://www.vim.org) (Recommended)
 - [Visual Studio Code](https://code.visualstudio.com) (Recommended): [Doc](https://code.visualstudio.com/docs)
+- [PyCharm](https://www.jetbrains.com/pycharm/): [Learning center](https://www.jetbrains.com/pycharm/learning-center/)
 - [Sublime text](https://www.sublimetext.com): [Doc](https://www.sublimetext.com/support)
 - [Atom](https://atom.io): [Doc](https://atom.io/docs)
 - [Typora](https://typora.io/#): A useful markdown editor | [Typora极简教程](https://www.jianshu.com/p/a6a6a22e9393)
