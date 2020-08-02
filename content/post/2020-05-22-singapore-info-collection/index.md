@@ -153,7 +153,7 @@ NTU最大、设施最齐全的健身房为North Hill Gym，位于北山宿舍群
 如果想把新币汇回国，可以去货币兑换汇款公司，带着身份证、取款receipt和取好的新币。钱到国内账号后，直接是人民币。我怀疑他们在中国也有合作者，那边直接进行人民币转账，这边收的新币还在新加坡市场。有的公司可以直接通过银行卡转账，无需取现金了，可以使用银行卡的NETS的功能。
 
 - [汉生汇款](http://www.hanshanmoney.com/zh-cn/ratecn): 一般汇率较高，但是在市区，比较远。
-- JP (Jurong Point Shopping Centre)的几家货币兑换公司：可以跟汉生比较一下，如果汇率差不多，可以就近汇钱回国。比如[Allbest Exchange (全好汇款)](https://www.google.com/maps/place/Allbest+Exchange/@1.3401476,103.7037292,17z/data=!3m1!5s0x31da0feccd9a4093:0xd320a963d0ae2e88!4m12!1m6!3m5!1s0x31da0fecc42faecb:0xd0e620fbf7a98485!2sAllbest+Exchange!8m2!3d1.3401476!4d103.7059179!3m4!1s0x31da0fecc42faecb:0xd0e620fbf7a98485!8m2!3d1.3401476!4d103.7059179)，不过这家有时候钱多的时候，需要你提供报税单。
+- JP (Jurong Point Shopping Centre)的货币兑换公司：[Allbest Exchange (全好汇款)](https://www.google.com/maps/place/Allbest+Exchange/@1.3401476,103.7037292,17z/data=!3m1!5s0x31da0feccd9a4093:0xd320a963d0ae2e88!4m12!1m6!3m5!1s0x31da0fecc42faecb:0xd0e620fbf7a98485!2sAllbest+Exchange!8m2!3d1.3401476!4d103.7059179!3m4!1s0x31da0fecc42faecb:0xd0e620fbf7a98485!8m2!3d1.3401476!4d103.7059179)，[Raffles Money Change](https://www.google.com/maps/place/Raffles+Money+Change/@1.3396576,103.7046632,17z/data=!3m2!4b1!5s0x31da0feccd9a4093:0xd320a963d0ae2e88!4m5!3m4!1s0x31da0fecc42faecb:0xc1262fdbeac01b24!8m2!3d1.3396576!4d103.7068572)。有时钱多的时候，需要你提供取款receipt和报税单。可以跟汉生比较一下，如果汇率差不多，可以就近汇钱回国。
 
 
 
