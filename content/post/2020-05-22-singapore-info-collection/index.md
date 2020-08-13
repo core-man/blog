@@ -117,6 +117,7 @@ NTU最大、设施最齐全的健身房为North Hill Gym，位于北山宿舍群
 ## 新加坡生活娱乐
 
 ### 文体娱乐活动
+- [iSHOP.CHANGI](https://ishopchangi.com/en/home)
 - [Singapore Sports Hub](https://www.sportshub.com.sg)
 - [Singapore dance theatre](http://www.singaporedancetheatre.com)
 - [SISTIC](https://www.sistic.com.sg)
