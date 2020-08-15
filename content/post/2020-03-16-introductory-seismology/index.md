@@ -153,9 +153,18 @@ slug: intro-material-seismology
 
 - Seismic data downloading
     - [SOD](http://www.seis.sc.edu/sod): [Chinese tutorial](https://blog.seisman.info/sod-notes) | [core-man's SOD recipes](https://github.com/core-man/seismic-data/tree/master/SOD) | [SeisMan's SOD recipes](https://github.com/seisman/SODrecipes)
-    - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
-        - [Retrieving Data from Data Centers](http://docs.obspy.org/tutorial/code_snippets/retrieving_data_from_datacenters.html): e.g., `FDSN Web Services` & `IRIS Web Services`
-        - Some scripts: [EIDA's examples](https://www.orfeus-eu.org/data/eida/webservices/examples/workflow/) | [ObsPy docs](https://github.com/obspy/docs)
+    - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python | [DOC](https://docs.obspy.org/contents.html)
+        - [Tutorial](https://docs.obspy.org/tutorial/index.html)
+        - [Library Reference](https://docs.obspy.org/packages/index.html)
+            - General Packages
+                - [Core classes](https://docs.obspy.org/packages/obspy.core.html#module-obspy.core): common methods and classes for ObsPy, including the [Stream](https://docs.obspy.org/packages/autogen/obspy.core.stream.Stream.html#obspy.core.stream.Stream), [Trace](https://docs.obspy.org/packages/autogen/obspy.core.trace.Trace.html#obspy.core.trace.Trace), [UTCDateTime](https://docs.obspy.org/packages/autogen/obspy.core.utcdatetime.UTCDateTime.html#obspy.core.utcdatetime.UTCDateTime), [Stats](https://docs.obspy.org/packages/autogen/obspy.core.trace.Stats.html#obspy.core.trace.Stats) classes and methods for [reading](https://docs.obspy.org/packages/autogen/obspy.core.stream.read.html#obspy.core.stream.read) seismogram files
+                - [Signal processing routines](https://docs.obspy.org/packages/obspy.signal.html#module-obspy.signa)
+                - [Ray theoretical travel times and paths](https://docs.obspy.org/packages/obspy.taup.html#module-obspy.taup)
+            - Scripts
+            - Database or Web Service Access Clients
+            - Waveform Import/Export Plug-ins
+            - Event Data Import/Export Plug-ins
+            - Inventory Data Import/Export Plug-ins
 - Seismic data processing
     - [SAC](https://seisman.github.io/SAC_Docs_zh)
     - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
