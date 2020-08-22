@@ -131,6 +131,17 @@ slug: intro-material-seismology
 - [Typora](https://typora.io/#): A useful markdown editor | [Typora极简教程](https://www.jianshu.com/p/a6a6a22e9393)
 
 
+### Collections
+
+
+- [Earth Data Science](https://www.earthdatascience.org/): Learn to use earth science and other data in R & Python
+    - Lessons by Topic: check the left sidebar
+    - [Courses & Textbooks](https://www.earthdatascience.org/courses/)
+        - [Introduction to Earth Data Science](https://www.earthdatascience.org/courses/intro-to-earth-data-science/)
+        - [Use Data for Earth and Environmental Science in Open Source Python](https://www.earthdatascience.org/courses/use-data-open-source-python/)
+    - [Tutorials](https://www.earthdatascience.org/tutorials/)
+    - [Workshops](https://www.earthdatascience.org/workshops/)
+
 
 ## Seismological Basis
 
