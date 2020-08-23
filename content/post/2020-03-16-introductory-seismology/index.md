@@ -68,6 +68,10 @@ slug: intro-material-seismology
         - [Learning Python with examples](https://beginnersbook.com/2018/03/python-tutorial-learn-programming/) | [简明python教程](https://bop.mol.uno) & [English version](https://python.swaroopch.com) | [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html) (菜鸟教程) | [Python 教程](https://www.liaoxuefeng.com/wiki/1016959663602400) (廖雪峰) | Earth Data Science: [Tutorials](https://www.earthdatascience.org/tutorials/), [Courses & Textbooks](https://www.earthdatascience.org/courses/), [Workshops](https://www.earthdatascience.org/workshops/)
         - Videos: [Mike Dane's tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW)
         - [Python3 Cheat Sheet](https://perso.limsi.fr/pointal/python:memento)
+        - Python Library
+            - [SciPy](https://www.scipy.org/): [Getting started](https://www.scipy.org/getting-started.html) | [Lecture Notes](http://scipy-lectures.org/) | [DOC](https://www.scipy.org/docs.html) | [Cookbook](https://scipy-cookbook.readthedocs.io/)
+                - [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
+            - [ObsPy](https://github.com/obspy/obspy): [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/) | [Library Reference](https://docs.obspy.org/packages/index.html)
     - MATLAB
         - [MathWorks Products](https://ww2.mathworks.cn/products.html?s_tid=gn_ps): [MATLAB概述](https://ww2.mathworks.cn/products/matlab.html) | [MATLAB快速入门](https://ww2.mathworks.cn/products/matlab/getting-started.html)
         - [MATLAB支持](https://ww2.mathworks.cn/support.html?s_tid=gn_supp)
