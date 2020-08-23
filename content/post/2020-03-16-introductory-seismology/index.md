@@ -64,14 +64,12 @@ slug: intro-material-seismology
         - [GNU C++ Library](https://gcc.gnu.org/onlinedocs/libstdc++)
 - Scripting languages
     - Python
-        - [Python Doc](https://docs.python.org/3/): [Tutorial](https://docs.python.org/3.7/tutorial) | [中文手册](https://docs.pythontab.com/python/python3.4/#)
-        - [Learning Python with examples](https://beginnersbook.com/2018/03/python-tutorial-learn-programming/) | [简明python教程](https://bop.mol.uno) & [English version](https://python.swaroopch.com) | [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html) (菜鸟教程) | [Python 教程](https://www.liaoxuefeng.com/wiki/1016959663602400) (廖雪峰)
-        - Videos: [Mike Dane's tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW)
-        - [Python3 Cheat Sheet](https://perso.limsi.fr/pointal/python:memento)
+        - [Python Doc](https://docs.python.org/3/): [Tutorial](https://docs.python.org/3.7/tutorial) | [中文手册](https://docs.pythontab.com/python/python3.4/#) | [Python3 Cheat Sheet](https://perso.limsi.fr/pointal/python:memento)
+        - [Learning Python with examples](https://beginnersbook.com/2018/03/python-tutorial-learn-programming/) | [简明python教程](https://bop.mol.uno) & [English version](https://python.swaroopch.com) | [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html) (菜鸟教程) | [Python 教程](https://www.liaoxuefeng.com/wiki/1016959663602400) (廖雪峰) | [Python tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW) (Mike Dane's video)
         - Python Library
             - [SciPy](https://www.scipy.org/): [Getting started](https://www.scipy.org/getting-started.html) | [Lecture Notes](http://scipy-lectures.org/) | [DOC](https://www.scipy.org/docs.html) | [Cookbook](https://scipy-cookbook.readthedocs.io/)
                 - [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
-            - [ObsPy](https://github.com/obspy/obspy): [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/) | [Library Reference](https://docs.obspy.org/packages/index.html)
+            - [ObsPy](https://github.com/obspy/obspy)
     - MATLAB
         - [MathWorks Products](https://ww2.mathworks.cn/products.html?s_tid=gn_ps): [MATLAB概述](https://ww2.mathworks.cn/products/matlab.html) | [MATLAB快速入门](https://ww2.mathworks.cn/products/matlab/getting-started.html)
         - [MATLAB支持](https://ww2.mathworks.cn/support.html?s_tid=gn_supp)
@@ -169,8 +167,7 @@ slug: intro-material-seismology
 
 - Seismic data downloading
     - [SOD](http://www.seis.sc.edu/sod): [Chinese tutorial](https://blog.seisman.info/sod-notes) | [core-man's SOD recipes](https://github.com/core-man/seismic-data/tree/master/SOD) | [SeisMan's SOD recipes](https://github.com/seisman/SODrecipes)
-    - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python | [DOC](https://docs.obspy.org/contents.html)
-        - [Tutorial](https://docs.obspy.org/tutorial/index.html)
+    - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python | [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/index.html)
         - [Library Reference](https://docs.obspy.org/packages/index.html)
             - General Packages
                 - [Core classes](https://docs.obspy.org/packages/obspy.core.html#module-obspy.core): common methods and classes for ObsPy, including the [Stream](https://docs.obspy.org/packages/autogen/obspy.core.stream.Stream.html#obspy.core.stream.Stream), [Trace](https://docs.obspy.org/packages/autogen/obspy.core.trace.Trace.html#obspy.core.trace.Trace), [UTCDateTime](https://docs.obspy.org/packages/autogen/obspy.core.utcdatetime.UTCDateTime.html#obspy.core.utcdatetime.UTCDateTime), [Stats](https://docs.obspy.org/packages/autogen/obspy.core.trace.Stats.html#obspy.core.trace.Stats) classes and methods for [reading](https://docs.obspy.org/packages/autogen/obspy.core.stream.read.html#obspy.core.stream.read) seismogram files
@@ -185,8 +182,8 @@ slug: intro-material-seismology
     - [SAC](https://seisman.github.io/SAC_Docs_zh)
     - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
 - Understanding seismic data
-    - [Seismic data format](https://blog.seisman.info/seismic-data-formats/)
-    - [Instrument response](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94/)
+    - [Seismic data format](https://blog.seisman.info/seismic-data-formats) | [Data Formats](https://ds.iris.edu/ds/nodes/dmc/data/formats/) | [Modern File Formats for Seismology](http://seismic-data.org/)
+    - [Instrument response](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94) | [仪器响应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/)
 
 ### Plotting
 
