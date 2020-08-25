@@ -66,9 +66,6 @@ slug: intro-material-seismology
     - Python
         - [Python Doc](https://docs.python.org/3/): [Tutorial](https://docs.python.org/3.7/tutorial) | [中文手册](https://docs.pythontab.com/python/python3.4/#) | [Python3 Cheat Sheet](https://perso.limsi.fr/pointal/python:memento)
         - [Learning Python with examples](https://beginnersbook.com/2018/03/python-tutorial-learn-programming/) | [Python tutorial](https://www.w3schools.com/python/default.asp) (w3schools) | [简明python教程](https://bop.mol.uno) & [English version](https://python.swaroopch.com) | [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html) (菜鸟教程) | [Python 教程](https://www.liaoxuefeng.com/wiki/1016959663602400) (廖雪峰) | [Python tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW) (Mike Dane's video)
-        - Python Library
-            - [SciPy](https://www.scipy.org/): [Getting started](https://www.scipy.org/getting-started.html) | [Lecture Notes](http://scipy-lectures.org/) | [DOC](https://www.scipy.org/docs.html) | [Cookbook](https://scipy-cookbook.readthedocs.io/)
-            - [ObsPy](https://github.com/obspy/obspy)
     - MATLAB
         - [MathWorks Products](https://ww2.mathworks.cn/products.html?s_tid=gn_ps): [MATLAB概述](https://ww2.mathworks.cn/products/matlab.html) | [MATLAB快速入门](https://ww2.mathworks.cn/products/matlab/getting-started.html)
         - [MATLAB支持](https://ww2.mathworks.cn/support.html?s_tid=gn_supp)
