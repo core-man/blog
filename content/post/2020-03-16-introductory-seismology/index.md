@@ -99,6 +99,7 @@ slug: intro-material-seismology
 - [git](https://github.com/git/git): fast, scalable, distributed revision control system
     - git 中文教程: [git 简易指南](https://www.bootcss.com/p/git-guide/) | [git 教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) (廖雪峰) |  [Pro Git](https://git-scm.com/book/zh/v2) (中文版)
     - [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+    - [GitHub Docs](https://docs.github.com/en?query=pag)
 - Computation
     - [Introduction to Computing](https://igpppublic.ucsd.edu/~shearer/COMP233) (Peter Shearer): [Filenames, globbing, greping, and regexp](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.unix_files.pdf) | [Unix Shell Scripts](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.scripts.pdf) | [sed](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.sed.pdf) | [awk](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.awk.pdf)
 - Parallel Computing
