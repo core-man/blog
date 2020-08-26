@@ -124,7 +124,7 @@ slug: intro-material-seismology
 
 - [Vim](https://www.vim.org) (Recommended)
 - [Visual Studio Code](https://code.visualstudio.com) (Recommended): [Doc](https://code.visualstudio.com/docs)
-- [PyCharm](https://www.jetbrains.com/pycharm/): [Learning center](https://www.jetbrains.com/pycharm/learning-center/)
+- [PyCharm](https://www.jetbrains.com/pycharm/) (Recommended): [Learning center](https://www.jetbrains.com/pycharm/learning-center/)
 - [Sublime text](https://www.sublimetext.com): [Doc](https://www.sublimetext.com/support)
 - [Atom](https://atom.io): [Doc](https://atom.io/docs)
 - [Typora](https://typora.io/#): A useful markdown editor | [Typora极简教程](https://www.jianshu.com/p/a6a6a22e9393)
@@ -167,7 +167,7 @@ slug: intro-material-seismology
     - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python | [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/index.html) | [Library Reference](https://docs.obspy.org/packages/index.html)
 - Seismic data processing
     - [SAC](https://seisman.github.io/SAC_Docs_zh)
-    - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
+    - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python | [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/index.html) | [Library Reference](https://docs.obspy.org/packages/index.html)
 - Understanding seismic data
     - [Seismic data format](https://blog.seisman.info/seismic-data-formats) | [Data Formats](https://ds.iris.edu/ds/nodes/dmc/data/formats/) | [Modern File Formats for Seismology](http://seismic-data.org/)
     - [Instrument response](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94) | [仪器响应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/)
