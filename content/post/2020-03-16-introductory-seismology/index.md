@@ -80,7 +80,7 @@ slug: intro-material-seismology
         - [GNU Bash manual](https://www.gnu.org/software/bash/manual) | [Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
         - [中文手册](http://shouce.jb51.net/shell/index.html) | [Shell 教程](http://www.runoob.com/linux/linux-shell.html)
 - Markup languages
-    - Markdown: [Markdown manual](https://www.markdownguide.org) | [Markdown 语法介绍](https://help.coding.net/docs/project/basis/markdown.html#pageTitle) | [Learn MarkDown](https://gohugo.io/content-management/formats/)
+    - Markdown: [Markdown manual](https://www.markdownguide.org) | [Markdown 语法介绍](https://help.coding.net/docs/project/basis/markdown.html#pageTitle) | [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) | [Learn MarkDown](https://gohugo.io/content-management/formats/)
     - LaTeX: [A short introduction to LATEX 2e](https://www.ctan.org/tex-archive/info/lshort) ([English](https://www.ctan.org/tex-archive/info/lshort/english) & [Chinese](https://www.ctan.org/tex-archive/info/lshort/chinese)) | [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction) | [LaTeX quick reference](http://www.icl.utk.edu/~mgates3/docs/latex.pdf) (Mark Gates)
 
 
