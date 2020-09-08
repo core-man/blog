@@ -15,17 +15,17 @@ slug: intro-material-seismology
 
 #### Linux
 
-[Free Linux Distributions](http://www.ee.surrey.ac.uk/Teaching/Unix/links.html):
-- [Ubuntu](https://ubuntu.com/)
-    - [Community](https://ubuntu.com/download/desktop#community): [Tutorial](https://ubuntu.com/tutorials) | [docs](https://help.ubuntu.com/)
-    - [Desktop](https://ubuntu.com/download/desktop): [Install Ubuntu Desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop)
-- [Fedora](https://getfedora.org/)
-    - [Workstation](https://getfedora.org/en/workstation/)
-- [CentOs](https://www.centos.org/)
-    - [wiki](https://wiki.centos.org/): [CentosHelp.org](https://centoshelp.org/)
-    - [Manuals](https://docs.centos.org/en-US/docs/)
-    - [blog](https://blog.centos.org/)
-    - [CentOS 7 配置指南](https://blog.seisman.info/centos7-setup)
+    [Free Linux Distributions](http://www.ee.surrey.ac.uk/Teaching/Unix/links.html):
+    - [Ubuntu](https://ubuntu.com/)
+        - [Community](https://ubuntu.com/download/desktop#community): [Tutorial](https://ubuntu.com/tutorials) | [docs](https://help.ubuntu.com/)
+        - [Desktop](https://ubuntu.com/download/desktop): [Install Ubuntu Desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop)
+    - [Fedora](https://getfedora.org/)
+        - [Workstation](https://getfedora.org/en/workstation/)
+    - [CentOs](https://www.centos.org/)
+        - [wiki](https://wiki.centos.org/): [CentosHelp.org](https://centoshelp.org/)
+        - [Manuals](https://docs.centos.org/en-US/docs/)
+        - [blog](https://blog.centos.org/)
+        - [CentOS 7 配置指南](https://blog.seisman.info/centos7-setup)
 
 #### MacOS
 
