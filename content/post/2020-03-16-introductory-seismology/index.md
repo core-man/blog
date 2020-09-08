@@ -24,6 +24,7 @@ slug: intro-material-seismology
 - [CentOs](https://www.centos.org/)
     - [wiki](https://wiki.centos.org/): [CentosHelp.org](https://centoshelp.org/)
     - [Manuals](https://docs.centos.org/en-US/docs/)
+    - [blog](https://blog.centos.org/)
     - [CentOS 7 配置指南](https://blog.seisman.info/centos7-setup)
 
 #### MacOS
