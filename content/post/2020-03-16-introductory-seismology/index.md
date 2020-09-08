@@ -273,13 +273,17 @@ slug: intro-material-seismology
 
 #### Downloading
 
-- [SOD](http://www.seis.sc.edu/sod): [Chinese tutorial](https://blog.seisman.info/sod-notes) | [core-man's SOD recipes](https://github.com/core-man/seismic-data/tree/master/SOD) | [SeisMan's SOD recipes](https://github.com/seisman/SODrecipes)
-- [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python | [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/index.html) | [Library Reference](https://docs.obspy.org/packages/index.html)
+- [SOD](http://www.seis.sc.edu/sod)
+    - [Chinese tutorial](https://blog.seisman.info/sod-notes)
+    - [core-man's SOD recipes](https://github.com/core-man/seismic-data/tree/master/SOD) | [SeisMan's SOD recipes](https://github.com/seisman/SODrecipes)
+- [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
+    - [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/index.html) | [Library Reference](https://docs.obspy.org/packages/index.html)
 
 #### Processing
 
 - [SAC](https://seisman.github.io/SAC_Docs_zh)
-- [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python | [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/index.html) | [Library Reference](https://docs.obspy.org/packages/index.html)
+- [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
+    - [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/index.html) | [Library Reference](https://docs.obspy.org/packages/index.html)
 
 #### Seismic Data Basis
 
@@ -299,7 +303,9 @@ slug: intro-material-seismology
 
 #### Amplitude
 
-- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
+- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al.
+    - [Chinese introdution](https://blog.seisman.info/cps330)
+    - [Chinese install introduction](https://blog.seisman.info/cps330-install)
 
 #### Synthetics
 
@@ -307,8 +313,8 @@ slug: intro-material-seismology
     - [Chinese introduction](https://blog.seisman.info/fk-notes)
     - [Intall fk](https://blog.seisman.info/fk-install)
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al.
-    - [Chinese install introduction](https://blog.seisman.info/cps330-install)
     - [Chinese introdution](https://blog.seisman.info/cps330)
+    - [Chinese install introduction](https://blog.seisman.info/cps330-install)
 
 ### 3.3 Plotting
 
