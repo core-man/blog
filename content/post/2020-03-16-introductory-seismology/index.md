@@ -15,17 +15,17 @@ slug: intro-material-seismology
 
 #### Linux
 
-    [Free Linux Distributions](http://www.ee.surrey.ac.uk/Teaching/Unix/links.html):
-    - [Ubuntu](https://ubuntu.com/)
-        - [Community](https://ubuntu.com/download/desktop#community): [Tutorial](https://ubuntu.com/tutorials) | [docs](https://help.ubuntu.com/)
-        - [Desktop](https://ubuntu.com/download/desktop): [Install Ubuntu Desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop)
-    - [Fedora](https://getfedora.org/)
-        - [Workstation](https://getfedora.org/en/workstation/)
-    - [CentOs](https://www.centos.org/)
-        - [wiki](https://wiki.centos.org/): [CentosHelp.org](https://centoshelp.org/)
-        - [Manuals](https://docs.centos.org/en-US/docs/)
-        - [blog](https://blog.centos.org/)
-        - [CentOS 7 配置指南](https://blog.seisman.info/centos7-setup)
+- [Free Linux Distributions](http://www.ee.surrey.ac.uk/Teaching/Unix/links.html)
+- [Ubuntu](https://ubuntu.com/)
+    - [Community](https://ubuntu.com/download/desktop#community): [Tutorial](https://ubuntu.com/tutorials) | [docs](https://help.ubuntu.com/)
+    - [Desktop](https://ubuntu.com/download/desktop): [Install Ubuntu Desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop)
+- [Fedora](https://getfedora.org/)
+    - [Workstation](https://getfedora.org/en/workstation/)
+- [CentOs](https://www.centos.org/)
+    - [wiki](https://wiki.centos.org/): [CentosHelp.org](https://centoshelp.org/)
+    - [Manuals](https://docs.centos.org/en-US/docs/)
+    - [blog](https://blog.centos.org/)
+    - [CentOS7 配置指南](https://blog.seisman.info/centos7-setup)
 
 #### MacOS
 
@@ -58,7 +58,7 @@ slug: intro-material-seismology
 
 #### GNU
 
-[GNU](https://www.gnu.org/home.en.html): GNU's Not Unix, an operating system and an extensive collection of computer software
+- [GNU](https://www.gnu.org/home.en.html): GNU's Not Unix, an operating system and an extensive collection of computer software
 - [GNU software](https://www.gnu.org/software/software.en.html)
     - [Software manuals](https://www.gnu.org/manual/manual.html): arranged by software category
     - Software examples
@@ -226,7 +226,7 @@ slug: intro-material-seismology
 #### GPU
 
 - [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
-    - [CUDA Toolkit DOCS](https://docs.nvidia.com/cuda/)
+- [CUDA Toolkit DOCS](https://docs.nvidia.com/cuda/)
 
 
 ### 1.6 Editors
