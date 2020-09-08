@@ -13,19 +13,24 @@ slug: intro-material-seismology
 
 ### Operating system
 
-- Linux: [Free Linux Distributions](http://www.ee.surrey.ac.uk/Teaching/Unix/links.html)
-    - [Ubuntu](https://ubuntu.com/)
-        - [Community](https://ubuntu.com/download/desktop#community): [Tutorial](https://ubuntu.com/tutorials) | [docs](https://help.ubuntu.com/)
-        - [Desktop](https://ubuntu.com/download/desktop): [Install Ubuntu Desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop)
-    - [Fedora](https://getfedora.org/)
-        - [Workstation](https://getfedora.org/en/workstation/)
-    - [CentOs](https://www.centos.org/)
-        - [wiki](https://wiki.centos.org/): [CentosHelp.org](https://centoshelp.org/)
-        - [Manuals](https://docs.centos.org/en-US/docs/)
-        - [CentOS 7 配置指南](https://blog.seisman.info/centos7-setup)
-- MacOS
-    - [用 Mac 打造合适的科研环境](https://blog.seisman.info/macOS)
-    - [优雅的 Mac OS](https://mac.linesh.tw/)
+#### Linux
+
+[Free Linux Distributions](http://www.ee.surrey.ac.uk/Teaching/Unix/links.html)
+
+- [Ubuntu](https://ubuntu.com/)
+    - [Community](https://ubuntu.com/download/desktop#community): [Tutorial](https://ubuntu.com/tutorials) | [docs](https://help.ubuntu.com/)
+    - [Desktop](https://ubuntu.com/download/desktop): [Install Ubuntu Desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop)
+- [Fedora](https://getfedora.org/)
+    - [Workstation](https://getfedora.org/en/workstation/)
+- [CentOs](https://www.centos.org/)
+    - [wiki](https://wiki.centos.org/): [CentosHelp.org](https://centoshelp.org/)
+    - [Manuals](https://docs.centos.org/en-US/docs/)
+    - [CentOS 7 配置指南](https://blog.seisman.info/centos7-setup)
+
+#### MacOS
+
+- [用 Mac 打造合适的科研环境](https://blog.seisman.info/macOS)
+- [优雅的 Mac OS](https://mac.linesh.tw/)
 
 
 ### Linux
@@ -74,25 +79,35 @@ slug: intro-material-seismology
         - [C++](http://www.cplusplus.com/) | [Learning C++](https://www.learncpp.com) | [C++ programming language](https://www3.ntu.edu.sg/home/ehchua/programming/index.html#Cpp) | [Learning C++ with examples](https://beginnersbook.com/2017/08/c-plus-plus-tutorial-for-beginners/) | [C++ 教程](https://www.runoob.com/cplusplus/cpp-tutorial.html) (菜鸟教程)
         - [GNU C++ Library](https://gcc.gnu.org/onlinedocs/libstdc++)
 - Scripting languages
-    - Python
+    - [Python](https://www.python.org/)
         - [Python Doc](https://docs.python.org/3/): [Tutorial](https://docs.python.org/3.7/tutorial) | [中文手册](https://docs.pythontab.com/python/python3.4/#) | [Python3 Cheat Sheet](https://perso.limsi.fr/pointal/python:memento)
         - [Learning Python with examples](https://beginnersbook.com/2018/03/python-tutorial-learn-programming/) | [Python tutorial](https://www.w3schools.com/python/default.asp) (w3schools) | [简明python教程](https://bop.mol.uno) & [English version](https://python.swaroopch.com) | [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html) (菜鸟教程) | [Python 教程](https://www.liaoxuefeng.com/wiki/1016959663602400) (廖雪峰) | [Python tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW) (Mike Dane's video)
-    - MATLAB
-        - [MathWorks Products](https://ww2.mathworks.cn/products.html?s_tid=gn_ps): [MATLAB概述](https://ww2.mathworks.cn/products/matlab.html) | [MATLAB快速入门](https://ww2.mathworks.cn/products/matlab/getting-started.html)
+    - [Julia](https://julialang.org/)
+    - [MATLAB](https://www.mathworks.com/products/matlab.html)
+        - [MathWorks Products](https://www.mathworks.com/products.html?s_tid=gn_ps)
+        - [MATLAB快速入门](https://ww2.mathworks.cn/products/matlab/getting-started.html)
         - [MATLAB支持](https://ww2.mathworks.cn/support.html?s_tid=gn_supp)
             - [MATLAB文档](https://ww2.mathworks.cn/help/)
                 - [了解MATLAB](https://ww2.mathworks.cn/help/matlab/index.html): [MATLAB快速入门](https://ww2.mathworks.cn/help/matlab/getting-started-with-matlab.html?s_tid=CRUX_lftnav)
                 - [Signal Processing Toolbox](https://ww2.mathworks.cn/help/signal/index.html)
             - [MATLAB示例](https://ww2.mathworks.cn/help/examples.html) | [MATLAB函数](https://ww2.mathworks.cn/help/referencelist.html?type=function) | [MATLAB模块](https://ww2.mathworks.cn/help/referencelist.html?type=block) | [MATLAB应用程序](https://ww2.mathworks.cn/help/referencelist.html?type=app) | [MATLAB视频](https://ww2.mathworks.cn/support/search.html?q=&fq=asset_type_name:video&page=1)
-    - Perl
+    - [Perl](https://www.perl.org/)
         - [Docs](https://www.perl.org/docs): Official Docs | Module Docs
         - [Perl tutorial for beginners](https://beginnersbook.com/2017/02/perl-tutorial-for-beginners/)  | [中文手册](http://shouce.jb51.net/perl) | [Perl语言入门](https://m.douban.com/book/subject/10597970)
     - Shell
         - [GNU Bash manual](https://www.gnu.org/software/bash/manual) | [Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
         - [中文手册](http://shouce.jb51.net/shell/index.html) | [Shell 教程](http://www.runoob.com/linux/linux-shell.html)
 - Markup languages
-    - Markdown: [Markdown manual](https://www.markdownguide.org) | [Markdown 语法介绍](https://help.coding.net/docs/project/basis/markdown.html#pageTitle) | [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) | [Learn MarkDown](https://gohugo.io/content-management/formats/)
-    - LaTeX: [A short introduction to LATEX 2e](https://www.ctan.org/tex-archive/info/lshort) ([English](https://www.ctan.org/tex-archive/info/lshort/english) & [Chinese](https://www.ctan.org/tex-archive/info/lshort/chinese)) | [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction) | [LaTeX quick reference](http://www.icl.utk.edu/~mgates3/docs/latex.pdf) (Mark Gates)
+    - [Markdown](https://en.wikipedia.org/wiki/Markdown)
+        - [Markdown manual](https://www.markdownguide.org)
+        - [Learn MarkDown](https://gohugo.io/content-management/formats/)
+        - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+        - [Markdown 语法介绍](https://help.coding.net/docs/project/basis/markdown.html#pageTitle)
+    - [LaTeX](https://www.latex-project.org/)
+        - [A short introduction to LATEX 2e](https://www.ctan.org/tex-archive/info/lshort): [English](https://www.ctan.org/tex-archive/info/lshort/english) | [Chinese](https://www.ctan.org/tex-archive/info/lshort/chinese)
+        - [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction)
+        - [LaTeX quick reference](http://www.icl.utk.edu/~mgates3/docs/latex.pdf) (Mark Gates)
+        - [Overleaf](https://www.overleaf.com/): The easy to use, online, collaborative LaTeX editor
 
 
 ### Programming
@@ -129,6 +144,8 @@ slug: intro-material-seismology
         - [Intel software](https://software.intel.com/en-us/all-dev-areas): [Data center](https://software.intel.com/en-us/data-center)
         - [Lawrence Livermore National Laboratory training materials](https://hpc.llnl.gov/training/tutorials)
         - [中国科大超算中心资料](http://scc.ustc.edu.cn/zlsc/)
+- [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+    - [CUDA Toolkit DOCS](https://docs.nvidia.com/cuda/)
 
 
 ### Editors
@@ -155,6 +172,9 @@ slug: intro-material-seismology
 
 ## Seismological Basis
 
+- [2020 Remote Online Sessions for Emerging Seismologists](https://www.iris.edu/hq/inclass/course/roses): a very good seismological course for Ph.D. students
+
+
 ### Seismology
 
 - [Introduction to Seismology](https://www.cambridge.org/sg/academic/subjects/earth-and-environmental-science/solid-earth-geophysics/introduction-seismology-3rd-edition?format=HB&isbn=9781316635742): A textbook for undergraduate
@@ -162,7 +182,7 @@ slug: intro-material-seismology
 - [Modern Global Seismology](https://www.elsevier.com/books/modern-global-seismology/lay/978-0-12-732870-6): A textbook for graduate
 - [Quantitative Seismology: Theory and Methods](https://www.ldeo.columbia.edu/~richards/Aki_Richards.html): A textbook for graduate (difficulty)
 
-### Geophysical inversion
+### Geophysical Inversion
 
 - [Inverse Problem Theory and Methods for Model Parameter Estimation](https://www.cambridge.org/gb/academic/subjects/statistics-probability/statistics-physical-sciences-and-engineering/inverse-problem-theory-and-methods-model-parameter-estimation?format=PB&isbn=9780898715729): A textbook for basic inversion theory
 - [Parameter Estimation and Inverse Problems](https://www.sciencedirect.com/book/9780128046517/parameter-estimation-and-inverse-problems): A textbook for basic inversion theory
