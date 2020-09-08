@@ -188,9 +188,9 @@ slug: intro-material-seismology
 
 - Compiled languages: C/C++ and Fortran
     - [OpenMP](https://www.openmp.org/): Open MultiProcessing
+        - [中国科大超算中心 OpenMP 资料](http://scc.ustc.edu.cn/zlsc/cxyy/200910/t20091014_13081.html)
         - [Lawrence Livermore National Laboratory OpenMP tutorial](https://computing.llnl.gov/tutorials/openMP)
         - Intel OpenMP Support: [Fortran](https://software.intel.com/en-us/fortran-compiler-developer-guide-and-reference-openmp-support) | [C/C++](https://software.intel.com/en-us/cpp-compiler-developer-guide-and-reference-openmp-support)
-        - [中国科大超算中心 OpenMP 资料](http://scc.ustc.edu.cn/zlsc/cxyy/200910/t20091014_13081.html)
         - Manuals
             - [OpenMP 并行编程简介](http://vra.github.io/2016/06/17/openmp-begin/)
             - [OpenMP 入门教程](https://www.cnblogs.com/ospider/p/5265975.html)
@@ -200,8 +200,8 @@ slug: intro-material-seismology
             - [Open MPI](https://www.open-mpi.org/) | [Documentation](https://www.open-mpi.org/doc/)
             - [Intel MPI](https://software.intel.com/en-us/mpi-library)
         - Manuals
-            - [Lawrence Livermore National Laboratory MPI tutorial](https://computing.llnl.gov/tutorials/mpi/)
             - [中国科大超算中心 MPI 资料](http://scc.ustc.edu.cn/zlsc/cxyy/200910/t20091014_13082.html)
+            - [Lawrence Livermore National Laboratory MPI tutorial](https://computing.llnl.gov/tutorials/mpi/)
             - [MPI quick reference](http://www.icl.utk.edu/~mgates3/docs/mpi.html) (Mark Gates)
 - Scripting languages
     - Python
