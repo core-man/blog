@@ -15,7 +15,7 @@ slug: intro-material-seismology
 
 #### Linux
 
-[Free Linux Distributions](http://www.ee.surrey.ac.uk/Teaching/Unix/links.html):
+    [Free Linux Distributions](http://www.ee.surrey.ac.uk/Teaching/Unix/links.html):
 - [Ubuntu](https://ubuntu.com/)
     - [Community](https://ubuntu.com/download/desktop#community): [Tutorial](https://ubuntu.com/tutorials) | [docs](https://help.ubuntu.com/)
     - [Desktop](https://ubuntu.com/download/desktop): [Install Ubuntu Desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop)
