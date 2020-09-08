@@ -9,14 +9,17 @@ categories: ["Linux", "编程", "地震学基础"]
 slug: intro-material-seismology
 ---
 
-## Computer
+## 1. Computer
 
-### Operating system
+### 1.1 Operating system
+
+- Linux
+- MacOS
+- Windows
 
 #### Linux
 
-[Free Linux Distributions](http://www.ee.surrey.ac.uk/Teaching/Unix/links.html)
-
+[Free Linux Distributions](http://www.ee.surrey.ac.uk/Teaching/Unix/links.html):
 - [Ubuntu](https://ubuntu.com/)
     - [Community](https://ubuntu.com/download/desktop#community): [Tutorial](https://ubuntu.com/tutorials) | [docs](https://help.ubuntu.com/)
     - [Desktop](https://ubuntu.com/download/desktop): [Install Ubuntu Desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop)
@@ -33,7 +36,7 @@ slug: intro-material-seismology
 - [优雅的 Mac OS](https://mac.linesh.tw/)
 
 
-### Linux
+### 1.2 Linux
 
 - Linux basis
     - [The Linux Command Line](http://linuxcommand.org/tlcl.php): [中文版](http://billie66.github.io/TLCL/index.html) (Github翻译项目) | [中文版](https://www.kancloud.cn/thinkphp/linux-command-line) (看云)
@@ -56,13 +59,13 @@ slug: intro-material-seismology
     - [Documentation of the GNU Project](https://www.gnu.org/doc/doc.en.html)
 
 
-### File management
+### 1.3 File management
 
 - [文件管理与备份](https://blog.seisman.info/file-organization) (SeisMan)
 - [文件备份](https://core-man.github.io/blog/post/backup/)
 
 
-### Computer languages
+### 1.4 Computer languages
 
 - Compiled languages
     - C
@@ -110,7 +113,7 @@ slug: intro-material-seismology
         - [Overleaf](https://www.overleaf.com/): The easy to use, online, collaborative LaTeX editor
 
 
-### Programming
+### 1.5 Programming
 
 - Programming basis
     - Coding
@@ -148,7 +151,7 @@ slug: intro-material-seismology
     - [CUDA Toolkit DOCS](https://docs.nvidia.com/cuda/)
 
 
-### Editors
+### 1.6 Editors
 
 - [Vim](https://www.vim.org) (Recommended)
 - [Visual Studio Code](https://code.visualstudio.com) (Recommended): [Doc](https://code.visualstudio.com/docs)
@@ -158,7 +161,7 @@ slug: intro-material-seismology
 - [Typora](https://typora.io/#): A useful markdown editor | [Typora极简教程](https://www.jianshu.com/p/a6a6a22e9393)
 
 
-### Collections
+### 1.7 Collections
 
 
 - [Earth Data Science](https://www.earthdatascience.org/): Learn to use earth science and other data in R & Python
@@ -170,28 +173,27 @@ slug: intro-material-seismology
     - [Workshops](https://www.earthdatascience.org/workshops/)
 
 
-## Seismological Basis
+## 2. Seismological Basis
 
 - [2020 Remote Online Sessions for Emerging Seismologists](https://www.iris.edu/hq/inclass/course/roses): a very good seismological course for Ph.D. students
 
-
-### Seismology
+### 2.1 Seismology
 
 - [Introduction to Seismology](https://www.cambridge.org/sg/academic/subjects/earth-and-environmental-science/solid-earth-geophysics/introduction-seismology-3rd-edition?format=HB&isbn=9781316635742): A textbook for undergraduate
 - [An Introduction to Seismology, Earthquakes and Earth Structure](https://www.wiley.com/en-us/An+Introduction+to+Seismology%2C+Earthquakes%2C+and+Earth+Structure-p-9780865420786): A textbook for undergraduate & graduate
 - [Modern Global Seismology](https://www.elsevier.com/books/modern-global-seismology/lay/978-0-12-732870-6): A textbook for graduate
 - [Quantitative Seismology: Theory and Methods](https://www.ldeo.columbia.edu/~richards/Aki_Richards.html): A textbook for graduate (difficulty)
 
-### Geophysical Inversion
+### 2.2 Geophysical Inversion
 
 - [Inverse Problem Theory and Methods for Model Parameter Estimation](https://www.cambridge.org/gb/academic/subjects/statistics-probability/statistics-physical-sciences-and-engineering/inverse-problem-theory-and-methods-model-parameter-estimation?format=PB&isbn=9780898715729): A textbook for basic inversion theory
 - [Parameter Estimation and Inverse Problems](https://www.sciencedirect.com/book/9780128046517/parameter-estimation-and-inverse-problems): A textbook for basic inversion theory
 - [Global Optimization Methods in Geophysical Inversion](https://www.cambridge.org/core/books/global-optimization-methods-in-geophysical-inversion/C2B23286E6BCC2177117431CB568101C): A textbook focusing on global optimization methods in geophysics, e.g., Monte-Carlo methods
 
 
-## Seismological Software
+## 3. Seismological Software
 
-### Seismic data
+### 3.1 Seismic data
 
 - Seismic data downloading
     - [SOD](http://www.seis.sc.edu/sod): [Chinese tutorial](https://blog.seisman.info/sod-notes) | [core-man's SOD recipes](https://github.com/core-man/seismic-data/tree/master/SOD) | [SeisMan's SOD recipes](https://github.com/seisman/SODrecipes)
@@ -203,14 +205,7 @@ slug: intro-material-seismology
     - [Seismic data format](https://blog.seisman.info/seismic-data-formats) | [Data Formats](https://ds.iris.edu/ds/nodes/dmc/data/formats/) | [Modern File Formats for Seismology](http://seismic-data.org/)
     - [Instrument response](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94) | [仪器响应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/)
 
-### Plotting
-
-- [GMT](https://www.generic-mapping-tools.org): [GMT中文社区](https://gmt-china.org) | [pssac for GMT4](https://blog.seisman.info/tags/pssac) | [pssac2 for GMT4 and GMT5](https://blog.seisman.info/tags/pssac2)
-- [PyGMT](https://www.pygmt.org/dev/index.html): A Python interface for GMT (in the early stages of design and implementation)
-- [matplotlib](https://matplotlib.org/): a comprehensive library for creating static, animated, and interactive visualizations in Python
-
-
-### Forward calculation
+### 3.2 Seismic Wave
 
 - Traveltime
     - [Taup](https://www.seis.sc.edu/taup): [Chinese introduction](https://blog.seisman.info/tags/TauP)
@@ -220,8 +215,14 @@ slug: intro-material-seismology
     - [fk](http://www.eas.slu.edu/People/LZhu/home.html): Calculate synthetic seismograms in layered isotropic models, using frequency-wavenumber method | [Chinese introduction](https://blog.seisman.info/fk-notes) | [Intall fk](https://blog.seisman.info/fk-install)
     - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 
+### 3.3 Plotting
 
-## References
+- [GMT](https://www.generic-mapping-tools.org): [GMT中文社区](https://gmt-china.org) | [pssac for GMT4](https://blog.seisman.info/tags/pssac) | [pssac2 for GMT4 and GMT5](https://blog.seisman.info/tags/pssac2)
+- [PyGMT](https://www.pygmt.org/dev/index.html): A Python interface for GMT (in the early stages of design and implementation)
+- [matplotlib](https://matplotlib.org/): a comprehensive library for creating static, animated, and interactive visualizations in Python
+
+
+## 4. References
 
 - [SeisMan's blog](http://blog.seisman.info)
 - [MSU Wei's Group Seismic Training](https://sites.google.com/msu.edu/wei-seismic-training/)
