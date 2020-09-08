@@ -55,6 +55,11 @@ slug: intro-material-seismology
 - Commands for data processing: [gawk](http://docs.huihoo.com/gnu/linux/gawk.html), [awk](https://man.linuxde.net/awk), [cut](http://linux.51yip.com/search/cut), [grep](http://linux.51yip.com/search/grep), [wc](http://linux.51yip.com/search/wc), [sort](http://linux.51yip.com/search/sort), [uniq](http://linux.51yip.com/search/uniq)
 - Commands for compressing files: [tar](http://linux.51yip.com/search/tar), [gzip](http://linux.51yip.com/search/gzip), [bzip2](http://linux.51yip.com/search/bzip2)
 - Other commonly-used commands: [cat](http://linux.51yip.com/search/cat), [touch](http://linux.51yip.com/search/touch), [head](http://linux.51yip.com/search/head), [tail](http://linux.51yip.com/search/tail), [which](http://linux.51yip.com/search/which), [locate](http://linux.51yip.com/search/locate), [paste](http://linux.51yip.com/search/paste), [printf](http://linux.51yip.com/search/printf), [sed](http://linux.51yip.com/search/sed)
+- [Introduction to Computing](https://igpppublic.ucsd.edu/~shearer/COMP233) (Peter Shearer)
+    - [Filenames, globbing, greping, and regexp](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.unix_files.pdf)
+    - [Unix Shell Scripts](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.scripts.pdf)
+    - [sed](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.sed.pdf)
+    - [awk](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.awk.pdf)
 
 #### GNU
 
@@ -168,11 +173,6 @@ slug: intro-material-seismology
     - [GCC and Make](https://www3.ntu.edu.sg/home/ehchua/programming/index.html#Cpp): Compiling, linking and building C/C++ applications
     - [《程序员的自我修养》读书笔记 -- 编译链接过程](https://blog.csdn.net/sxc1989/article/details/63687050)
     - [C语言的编译链接过程详解](https://blog.51cto.com/7905648/1297255) | [gcc 参数详解](https://www.runoob.com/w3cnote/gcc-parameter-detail.html)
-- [Introduction to Computing](https://igpppublic.ucsd.edu/~shearer/COMP233) (Peter Shearer)
-    - [Filenames, globbing, greping, and regexp](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.unix_files.pdf)
-    - [Unix Shell Scripts](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.scripts.pdf)
-    - [sed](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.sed.pdf)
-    - [awk](https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.awk.pdf)
 
 #### Version control
 
@@ -183,7 +183,6 @@ slug: intro-material-seismology
         - [Pro Git](https://git-scm.com/book/zh/v2) (中文版)
     - [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
     - [GitHub Docs](https://docs.github.com/en?query=pag)
-
 
 #### Parallel Computing
 
