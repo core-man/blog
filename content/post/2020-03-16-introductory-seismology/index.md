@@ -36,15 +36,23 @@ slug: intro-material-seismology
 
 #### Linux basis
 
-- [The Linux Command Line](http://linuxcommand.org/tlcl.php): [中文版](http://billie66.github.io/TLCL/index.html) (Github翻译项目) | [中文版](https://www.kancloud.cn/thinkphp/linux-command-line) (看云)
+- [The Linux Command Line](http://linuxcommand.org/tlcl.php)
+    - [中文版](http://billie66.github.io/TLCL/index.html) (Github翻译项目)
+    - [中文版](https://www.kancloud.cn/thinkphp/linux-command-line) (看云)
 - [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)
-- 鸟哥的 Linux 私房菜 (CentOS): [基础学习篇 第三版](http://cn.linux.vbird.org) | [基础学习篇 第四版](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/index.html)
+- 鸟哥的 Linux 私房菜 (CentOS)
+    - [基础学习篇 第三版](http://cn.linux.vbird.org)
+    - [基础学习篇 第四版](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/index.html)
 
 #### Linux command
 
-- Command search: [Commonly-used Unix commands](https://igpppublic.ucsd.edu/~shearer/COMP233/Agnew_UNIX_onepage.pdf) | [Linux 命令手册](http://linux.51yip.com) | [Linux 命令大全 1](http://man.linuxde.net) | [Linux 命令大全 2](https://www.runoob.com/linux/linux-command-manual.html)
-- Command for data processing: [gawk](http://docs.huihoo.com/gnu/linux/gawk.html) ([awk](https://man.linuxde.net/awk)), [cut](http://linux.51yip.com/search/cut), [grep](http://linux.51yip.com/search/grep), [wc](http://linux.51yip.com/search/wc), [sort](http://linux.51yip.com/search/sort), [uniq](http://linux.51yip.com/search/uniq)
-- Command for compressing files: [tar](http://linux.51yip.com/search/tar), [gzip](http://linux.51yip.com/search/gzip), [bzip2](http://linux.51yip.com/search/bzip2)
+- Command search
+    - [Commonly-used Unix commands](https://igpppublic.ucsd.edu/~shearer/COMP233/Agnew_UNIX_onepage.pdf)
+    - [Linux 命令手册](http://linux.51yip.com)
+    - [Linux 命令大全](http://man.linuxde.net)
+    - [Linux 命令大全](https://www.runoob.com/linux/linux-command-manual.html)
+- Commands for data processing: [gawk](http://docs.huihoo.com/gnu/linux/gawk.html), [awk](https://man.linuxde.net/awk), [cut](http://linux.51yip.com/search/cut), [grep](http://linux.51yip.com/search/grep), [wc](http://linux.51yip.com/search/wc), [sort](http://linux.51yip.com/search/sort), [uniq](http://linux.51yip.com/search/uniq)
+- Commands for compressing files: [tar](http://linux.51yip.com/search/tar), [gzip](http://linux.51yip.com/search/gzip), [bzip2](http://linux.51yip.com/search/bzip2)
 - Other commonly-used commands: [cat](http://linux.51yip.com/search/cat), [touch](http://linux.51yip.com/search/touch), [head](http://linux.51yip.com/search/head), [tail](http://linux.51yip.com/search/tail), [which](http://linux.51yip.com/search/which), [locate](http://linux.51yip.com/search/locate), [paste](http://linux.51yip.com/search/paste), [printf](http://linux.51yip.com/search/printf), [sed](http://linux.51yip.com/search/sed)
 
 #### GNU
