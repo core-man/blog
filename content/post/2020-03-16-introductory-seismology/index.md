@@ -19,7 +19,7 @@ slug: intro-material-seismology
         - [Desktop](https://ubuntu.com/download/desktop): [Install Ubuntu Desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop)
     - [Fedora](https://getfedora.org/)
         - [Workstation](https://getfedora.org/en/workstation/)
-    - [CentOs](https://www.centos.org/)(https://www.centos.org/)
+    - [CentOs](https://www.centos.org/)
         - [wiki](https://wiki.centos.org/): [CentosHelp.org](https://centoshelp.org/)
         - [Manuals](https://docs.centos.org/en-US/docs/)
         - [CentOS 7 配置指南](https://blog.seisman.info/centos7-setup)
