@@ -124,6 +124,7 @@ slug: intro-material-seismology
     - [Python 教程](https://www.liaoxuefeng.com/wiki/1016959663602400) (廖雪峰)
     - [Python tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW) (Mike Dane's video)
 - [Julia](https://julialang.org/)
+    - [Julia: come for the syntax, stay for the speed](https://www.nature.com/articles/d41586-019-02310-3) | [中文版](https://zhuanlan.zhihu.com/p/80800210)
 - [MATLAB](https://www.mathworks.com/products/matlab.html)
     - [MathWorks Products](https://www.mathworks.com/products.html?s_tid=gn_ps)
     - [MATLAB快速入门](https://ww2.mathworks.cn/products/matlab/getting-started.html)
