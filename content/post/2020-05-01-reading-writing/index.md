@@ -75,6 +75,7 @@ slug: reading-writing
     - Getting your paper published
         - [Part 1: Don’t Annoy the Reviewers](https://eos.org/editors-vox/getting-your-paper-published-part-1-dont-annoy-the-reviewers)
         - [Part 2: Good Grammar, Clear Figures](https://eos.org/editors-vox/getting-your-paper-published-part-2-good-grammar-clear-figures)
+    - [研究生第一篇学术论文常犯问题总结](http://blog.sciencenet.cn/blog-117889-1018759.html)
 
 - 参考书籍
     - [How to Write and Publish a Scientific Paper](https://www.academia.edu/40405876/How_to_Write_and_Publish_a_Scientific_Paper)
@@ -177,6 +178,14 @@ slug: reading-writing
     > 逻辑缜密、前后连贯、字斟句酌、惜墨如金。
 
 - Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen)的一些建议：[文章写作要点](Scientific-paper-writing-LianxingWen.pdf)
+
+
+## 投稿
+
+### AGU journals
+
+- [Publish with AGU](https://www.agu.org/Publish-with-AGU/Publish)
+    - [a simple six-step infographic](https://www.agu.org/-/media/Files/Publications/Publish_With_AGU.pdf?la=en&hash=C733A015FC59652AE12C0D308675B5F9EB5853FF) | [中文版](https://mp.weixin.qq.com/s/hNEEfaS_vm3wwxKZbD4_KQ)
 
 
 ## 其他资料
