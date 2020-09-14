@@ -76,6 +76,7 @@ slug: reading-writing
         - [Part 1: Don’t Annoy the Reviewers](https://eos.org/editors-vox/getting-your-paper-published-part-1-dont-annoy-the-reviewers)
         - [Part 2: Good Grammar, Clear Figures](https://eos.org/editors-vox/getting-your-paper-published-part-2-good-grammar-clear-figures)
     - [研究生第一篇学术论文常犯问题总结](http://blog.sciencenet.cn/blog-117889-1018759.html)
+    - [如何做好首项研究工作、写好首篇科研论文：几点个人体会](http://blog.sciencenet.cn/blog-685476-541849.html)
 
 - 参考书籍
     - [How to Write and Publish a Scientific Paper](https://www.academia.edu/40405876/How_to_Write_and_Publish_a_Scientific_Paper)
