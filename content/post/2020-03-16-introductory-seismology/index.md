@@ -300,7 +300,7 @@ slug: intro-material-seismology
 
 #### Traveltime
 
-- [Taup](https://www.seis.sc.edu/taup): [Chinese introduction](https://blog.seisman.info/tags/TauP)
+- [TauP](https://www.seis.sc.edu/taup): [Chinese introduction](https://blog.seisman.info/tags/TauP)
 
 #### Amplitude
 
