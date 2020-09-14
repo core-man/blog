@@ -263,11 +263,22 @@ slug: intro-material-seismology
 ### 2.2 Geophysical Inversion
 
 - [Inverse Problem Theory and Methods for Model Parameter Estimation](https://www.cambridge.org/gb/academic/subjects/statistics-probability/statistics-physical-sciences-and-engineering/inverse-problem-theory-and-methods-model-parameter-estimation?format=PB&isbn=9780898715729): A textbook for basic inversion theory
-- [Parameter Estimation and Inverse Problems](https://www.sciencedirect.com/book/9780128046517/parameter-estimation-and-inverse-problems): A textbook for basic inversion theory
 - [Global Optimization Methods in Geophysical Inversion](https://www.cambridge.org/core/books/global-optimization-methods-in-geophysical-inversion/C2B23286E6BCC2177117431CB568101C): A textbook focusing on global optimization methods in geophysics, e.g., Monte-Carlo methods
+- [Parameter Estimation and Inverse Problems](https://www.sciencedirect.com/book/9780128046517/parameter-estimation-and-inverse-problems): A textbook for basic inversion theory
+
+### 2.3 Seismic Data
+
+- Seismic data format
+    - [Seismic data format](https://blog.seisman.info/seismic-data-formats)
+    - [Data Formats](https://ds.iris.edu/ds/nodes/dmc/data/formats/)
+    - [Modern File Formats for Seismology](http://seismic-data.org/)
+- Instrument response
+    - [仪器响应](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94)
+    - [仪器响应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/)
+    - [Instrument Response](https://krischer.github.io/seismo_live_build/html/General%20Seismology/instrument_response_wrapper.html)
 
 
-## 3. Seismological Software
+## 3. Seismological Softwares
 
 ### 3.1 Seismic data
 
@@ -284,16 +295,6 @@ slug: intro-material-seismology
 - [SAC](https://seisman.github.io/SAC_Docs_zh)
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
     - [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/index.html) | [Library Reference](https://docs.obspy.org/packages/index.html)
-
-#### Seismic Data Basis
-
-- Seismic data format
-    - [Seismic data format](https://blog.seisman.info/seismic-data-formats)
-    - [Data Formats](https://ds.iris.edu/ds/nodes/dmc/data/formats/)
-    - [Modern File Formats for Seismology](http://seismic-data.org/)
-- Instrument response
-    - [Instrument response](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94)
-    - [仪器响应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/)
 
 ### 3.2 Seismic Wave
 
@@ -325,7 +326,13 @@ slug: intro-material-seismology
 - [matplotlib](https://matplotlib.org/): a comprehensive library for creating static, animated, and interactive visualizations in Python
 
 
-## 4. References
+## 4. Signal Processing
+
+- [Signal and Systems: an introduction to analog and digital signal processing](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/): Alan V. Oppenheim, MIT, 1987 | [youtube](https://www.youtube.com/watch?v=KJnAy6hzetw&list=PL41692B571DD0AF9B) | [网易公开课](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fsignals.html)
+- [Discrete-Time Signal Processing](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-341-discrete-time-signal-processing-fall-2005/): Alan V. Oppenheim, MIT, 2005
+
+
+## 5. References
 
 - [SeisMan's blog](http://blog.seisman.info)
 - [MSU Wei's Group Seismic Training](https://sites.google.com/msu.edu/wei-seismic-training/)
