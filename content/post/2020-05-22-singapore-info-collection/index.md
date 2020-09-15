@@ -9,8 +9,8 @@ categories: ["新加坡"]
 slug: singapore-info-collection
 ---
 
-
 ## 手机相关
+
 ### APP
 
 - 交通
@@ -50,6 +50,7 @@ slug: singapore-info-collection
 
 
 ### 微信公众号
+
 - 新加坡便民：比较好的新加坡生活助手，比如租房、二手、公交、手机充值、集运、搬家、诊所等。
 - 新加坡眼: 很多新加坡生活信息
 - 新加坡万事通：很多新加坡生活相关信息
@@ -61,6 +62,7 @@ slug: singapore-info-collection
 - Mac软件管家：软件安装管家的Mac系统分号，几乎所有需要的Mac软件都可以下到
 
 ### 微信小程序
+
 - 小坡岛新加坡租房
 - 新加坡南洋理工
 - NTU校车
@@ -124,13 +126,15 @@ NTU最大、设施最齐全的健身房为North Hill Gym，位于北山宿舍群
 
 
 ### 旅游
+
+以下有些可以通过学校的`Campus Recreation And Wellness (校园娱乐健康福利)`获取免费`Corporate Passes`，比如`Singapore Flyer`，`Singapore Zoo & River Safari`等，请参考[Campus Recreation And Wellness](https://intranet2.ntu.edu.sg/CReW/Pages/CorporatePassesBooking.aspx)。
+
 - Singapore Flyer
 - Singapore Zoo & River Safari
 - Night Safari
 - Jurong Bird Park
 - Macritchie reservoir
-
-以上有些可以通过学校的`Campus Recreation And Wellness (校园娱乐健康福利)`获取免费`Corporate Passes`，比如`Singapore Flyer`，`Singapore Zoo & River Safari`等。请参考[Campus Recreation And Wellness](https://intranet2.ntu.edu.sg/CReW/Pages/CorporatePassesBooking.aspx)。
+- [狮城最美的10条徒步线路大集合，带你用双脚丈量新加坡！](https://mp.weixin.qq.com/s/l8fFi62aj_mH2xLa9DcGbw)
 
 
 ### 美食
@@ -149,16 +153,21 @@ NTU最大、设施最齐全的健身房为North Hill Gym，位于北山宿舍群
 - 国内淘宝、京东都可以寄货到新加坡。想要在中国-新加坡之间寄东西，可以参考公众号`新加坡便民`的相关指导。
 - Prime超市单次消费满10新币，就可以办理会员卡，登记一下自己的住址、手机号等就可以了。
 
-
 ### 货币兑换
+
 如果想把新币汇回国，可以去货币兑换汇款公司，带着身份证、取款receipt和取好的新币。钱到国内账号后，直接是人民币。我怀疑他们在中国也有合作者，那边直接进行人民币转账，这边收的新币还在新加坡市场。有的公司可以直接通过银行卡转账，无需取现金了，可以使用银行卡的NETS的功能。
 
 - [汉生汇款](http://www.hanshanmoney.com/zh-cn/ratecn): 一般汇率较高，但是在市区，比较远。
 - JP (Jurong Point Shopping Centre)的货币兑换公司：[Allbest Exchange (全好汇款)](https://www.google.com/maps/place/Allbest+Exchange/@1.3401476,103.7037292,17z/data=!3m1!5s0x31da0feccd9a4093:0xd320a963d0ae2e88!4m12!1m6!3m5!1s0x31da0fecc42faecb:0xd0e620fbf7a98485!2sAllbest+Exchange!8m2!3d1.3401476!4d103.7059179!3m4!1s0x31da0fecc42faecb:0xd0e620fbf7a98485!8m2!3d1.3401476!4d103.7059179)，[Raffles Money Change](https://www.google.com/maps/place/Raffles+Money+Change/@1.3396576,103.7046632,17z/data=!3m2!4b1!5s0x31da0feccd9a4093:0xd320a963d0ae2e88!4m5!3m4!1s0x31da0fecc42faecb:0xc1262fdbeac01b24!8m2!3d1.3396576!4d103.7068572)。有时钱多的时候，需要你提供取款receipt和报税单。可以跟汉生比较一下，如果汇率差不多，可以就近汇钱回国。
 
+### 新加坡信息
+
+- [疫情期间所有重要电话和网站](https://mp.weixin.qq.com/s/0gRSNeEM6Yy0N8cgLON12Q)
+- [新加坡政府部门分布](https://mp.weixin.qq.com/s/tg9px1dKkM4aaqezUa7I9Q)
 
 
 ## 书籍
+
 科幻|作者|下载|备注
 ---|---|---|---
 [三体](https://book.douban.com/subject/2567698)|刘慈欣|-|-
