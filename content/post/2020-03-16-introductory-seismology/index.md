@@ -284,7 +284,7 @@ slug: intro-material-seismology
 
 #### Downloading
 
-- [SOD](http://www.seis.sc.edu/sod)
+- [SOD](http://www.seis.sc.edu/sod): a very powerful seismic data request tool
     - [Chinese tutorial](https://blog.seisman.info/sod-notes)
     - [core-man's SOD recipes](https://github.com/core-man/seismic-data/tree/master/SOD) | [SeisMan's SOD recipes](https://github.com/seisman/SODrecipes)
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
@@ -292,7 +292,8 @@ slug: intro-material-seismology
 
 #### Processing
 
-- [SAC](https://seisman.github.io/SAC_Docs_zh)
+- [SAC](http://ds.iris.edu/ds/nodes/dmc/forms/sac): The most commonly used seismic data processing software
+    - [Chinese manual](https://seisman.github.io/SAC_Docs_zh) (best) | [Zhigang Peng's tutorial](http://geophysics.eas.gatech.edu/classes/SAC/) | [IRIS's manual](http://ds.iris.edu/ds/nodes/dmc/manuals/sac/) | [An intro video](https://www.youtube.com/watch?v=zZeUvHkOOAM&list=PLD4D607C2FA317E6D&index=147)
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
     - [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/index.html) | [Library Reference](https://docs.obspy.org/packages/index.html)
 
