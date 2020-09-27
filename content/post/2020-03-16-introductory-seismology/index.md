@@ -44,6 +44,7 @@ slug: intro-material-seismology
 - 鸟哥的 Linux 私房菜 (CentOS)
     - [基础学习篇 第三版](http://cn.linux.vbird.org)
     - [基础学习篇 第四版](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/index.html)
+- [Linux学习笔记](https://pan.baidu.com/s/1FGoYQ6H4nWxaiGyJ5Yrljg) (华为工程师): w34q (提取码)
 
 #### Linux command
 
