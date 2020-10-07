@@ -326,6 +326,7 @@ slug: intro-material-seismology
 
 - [GMT](https://www.generic-mapping-tools.org)
     - [GMT中文社区](https://gmt-china.org)
+    - [GMT-plotting](https://github.com/michaelgrund/GMT-plotting): Collection of GMT scripts
     - [pssac for GMT4](https://blog.seisman.info/tags/pssac) | [pssac2 for GMT4 and GMT5](https://blog.seisman.info/tags/pssac2)
 - [PyGMT](https://www.pygmt.org/dev/index.html): A Python interface for GMT (in the early stages of design and implementation)
 - [matplotlib](https://matplotlib.org/): a comprehensive library for creating static, animated, and interactive visualizations in Python
