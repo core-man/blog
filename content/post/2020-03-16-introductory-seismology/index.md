@@ -290,10 +290,13 @@ slug: intro-material-seismology
     - [core-man's SOD recipes](https://github.com/core-man/seismic-data/tree/master/SOD) | [SeisMan's SOD recipes](https://github.com/seisman/SODrecipes)
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
     - [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/index.html) | [Library Reference](https://docs.obspy.org/packages/index.html)
+- [SAC](http://ds.iris.edu/ds/nodes/dmc/software/downloads/sac/): Seismic Analysis Code, the most commonly used seismic data processing software | [Request](http://ds.iris.edu/ds/nodes/dmc/forms/sac)
+    - [Data Access](http://ds.iris.edu/files/sac-manual/manual/data_access.html)
+    - [Chinese manual](https://seisman.github.io/SAC_Docs_zh) (best) | [Zhigang Peng's tutorial](http://geophysics.eas.gatech.edu/classes/SAC/) | [IRIS's manual](http://ds.iris.edu/ds/nodes/dmc/manuals/sac/) | [An intro video](https://www.youtube.com/watch?v=zZeUvHkOOAM&list=PLD4D607C2FA317E6D&index=147)
 
 #### Processing
 
-- [SAC](http://ds.iris.edu/ds/nodes/dmc/forms/sac): The most commonly used seismic data processing software
+- [SAC](http://ds.iris.edu/ds/nodes/dmc/software/downloads/sac/): Seismic Analysis Code, the most commonly used seismic data processing software | [Request](http://ds.iris.edu/ds/nodes/dmc/forms/sac)
     - [Chinese manual](https://seisman.github.io/SAC_Docs_zh) (best) | [Zhigang Peng's tutorial](http://geophysics.eas.gatech.edu/classes/SAC/) | [IRIS's manual](http://ds.iris.edu/ds/nodes/dmc/manuals/sac/) | [An intro video](https://www.youtube.com/watch?v=zZeUvHkOOAM&list=PLD4D607C2FA317E6D&index=147)
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
     - [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/index.html) | [Library Reference](https://docs.obspy.org/packages/index.html)
