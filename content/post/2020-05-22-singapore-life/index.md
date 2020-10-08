@@ -111,9 +111,10 @@ NTU学生宿舍可以参考微信公众号`南洋理工小助手`
 - 校园卡
     - 我们的校园卡具有很多支付功能，如NETS@FlashPay，公共交通支付等，所以我们可以用校园卡乘车。校园卡也可以在支持NETS@FlashPay的商店付款，基本上学校内的食堂和超市都是支持NETS@FlashPay的。
     - 充值方法
+        - 在每个地铁站里有充值器 General Ticketing Machine (GTM)，可以用现金、银行卡直接充值，无手续费。
+        - SPMS正门的二楼电梯旁边的墙壁上也有一台红色的充值机。
         - 在7-Eleven便利店充值，每次收取0.5新币的手续费。Canteen 2附近有一家7—Eleven。
         - 利用手机APP，比如FlashPay，从自己的银行卡里直接充值，不过单次操作最多充值50新币，且每次有0.25新币的手续费。
-        - 在每个地铁站里有充值器，General Ticketing Machine (GTM)。可以现金，银行卡直接充值，无手续费。
 - 储蓄卡
     -  下载APP：TL SimplyGo，绑定银行卡。如果银行卡本身具有EZ-Link或NETS@FlashPay的功能，需要到地铁站的充值机General Ticketing Machine (GTM)，转换付款模式(payment mode)为contactless payment (BANK MODE)。把卡放在读卡器上，按照指示，转变付款模式就可以了。现在，就可以直接刷银行卡坐车了。
 - 信用卡
