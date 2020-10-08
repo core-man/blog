@@ -24,6 +24,7 @@ slug: singapore-info-collection
     - 新加坡比较知名的三加运营商分别是：Singtel、StarHub和M1。各运营商都有自己的App，可以直接在应用商店里搜索下载。电话卡可以在樟宜机场、邮局、7-11便利店和代理商处实名制购买，需要出示护照等身份证明。
 - 娱乐
     - iGV: [Golden Village](https://www.gv.com.sg/#)是新加坡连锁电影院，在Jurong Point商场里有一家。
+    - 8world: 新加坡中文频道
 - 美食
     - Grab
     - foodpanda
@@ -44,6 +45,7 @@ slug: singapore-info-collection
     - Nestia: 租房、电影、手机充值、公交等
 - 其他
     - SGWorkPass: 身份证信息查询
+    - Weather@SG: 实时天气查询
     - Wunderlist：代办事项
 
 - 参考：[新加坡必备APP，你都下载了吗?](https://mp.weixin.qq.com/s/6Vns2MW-DneRqqIAKFztJA)
@@ -74,10 +76,11 @@ slug: singapore-info-collection
 
 ## NTU相关
 
-### 信件和包裹接受地址
+### 信件、包裹地址
 
 - 办公室地址：Nanyang Technological University SPMS-MAS-04-07, 21 Nanyang Link, Singapore 637371
 - 信件和包裹收发室： Heads of Division office (SPMS-PAP-02-01, SPMS二楼电梯口隔壁)
+    ![信件和包裹收发室](MAS0407-MailBox.png)
 
 
 ### 门禁密码
