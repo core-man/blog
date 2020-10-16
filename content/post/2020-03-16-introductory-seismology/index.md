@@ -152,6 +152,7 @@ slug: intro-material-seismology
     - [Learn MarkDown](https://gohugo.io/content-management/formats/)
     - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
     - [Markdown 语法介绍](https://help.coding.net/docs/project/basis/markdown.html#pageTitle)
+    - [Cmd Markdown 公式指导手册](https://ericp.cn/cmd)
 - [LaTeX](https://www.latex-project.org/)
     - [A short introduction to LATEX 2e](https://www.ctan.org/tex-archive/info/lshort): [English](https://www.ctan.org/tex-archive/info/lshort/english) | [Chinese](https://www.ctan.org/tex-archive/info/lshort/chinese)
     - [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction)
