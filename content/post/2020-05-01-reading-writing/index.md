@@ -75,6 +75,8 @@ slug: reading-writing
     - Getting your paper published
         - [Part 1: Don’t Annoy the Reviewers](https://eos.org/editors-vox/getting-your-paper-published-part-1-dont-annoy-the-reviewers)
         - [Part 2: Good Grammar, Clear Figures](https://eos.org/editors-vox/getting-your-paper-published-part-2-good-grammar-clear-figures)
+    - [On writing](https://terrytao.wordpress.com/advice-on-writing-papers/)
+    - 科技论文写作的思维误区: [一](https://mp.weixin.qq.com/s/dNTlspt10v9yOg8CZIdEiw)、[二](https://mp.weixin.qq.com/s/5ilIInFHbc64n341K9QpmA)、[三](https://mp.weixin.qq.com/s/t_FZuF6R2nDoc0LV0WMJDw)、[四](https://mp.weixin.qq.com/s/C_0LSXSAgwr16G_w7h4UpA)、[五](https://mp.weixin.qq.com/s/lffXMf6g7UGqv07DJOcHqw)
     - [研究生第一篇学术论文常犯问题总结](http://blog.sciencenet.cn/blog-117889-1018759.html)
     - [如何做好首项研究工作、写好首篇科研论文：几点个人体会](http://blog.sciencenet.cn/blog-685476-541849.html)
 
