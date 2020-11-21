@@ -58,7 +58,7 @@ slug: reading-writing
         - 简单明了
         - 需要提前设计好文献的整体结构框架和文件的命名方式
         - 同一篇文章无法同时出现在不同目录下，查询时可能会有遗漏
-- 文献管理软件：如[Papers](https://www.papersapp.com/)
+- 文献管理软件：如[Papers](https://www.papersapp.com/)、[zotero](https://www.zotero.org/)等
     - 功能多样，弥补了电脑直接存储文献的很多缺点，比如一篇文献可以具有多个分类和标签，便于查询
     - 可以跨平台同步
     - 有些软件需要收费
