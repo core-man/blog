@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>计算机 on core-man</title>
+    <link>https://core-man.github.io/blog/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/</link>
+    <description>Recent content in 计算机 on core-man</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://core-man.github.io/blog/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>文件备份</title>
+      <link>https://core-man.github.io/blog/post/backup/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/backup/</guid>
+      <description>在写程序或者处理大量数据时，不进行必要的备份是十分危险的。一旦电脑硬盘出问题，几个月的辛苦就付诸东流。要备份程序和数据，首先就需要有一块备份</description>
+    </item>
+    
+  </channel>
+</rss>

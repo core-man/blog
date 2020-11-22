@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>地震学基础 on core-man</title>
+    <link>https://core-man.github.io/blog/categories/%E5%9C%B0%E9%9C%87%E5%AD%A6%E5%9F%BA%E7%A1%80/</link>
+    <description>Recent content in 地震学基础 on core-man</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://core-man.github.io/blog/categories/%E5%9C%B0%E9%9C%87%E5%AD%A6%E5%9F%BA%E7%A1%80/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>地震学初步入门材料清单</title>
+      <link>https://core-man.github.io/blog/post/intro-material-seismology/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/intro-material-seismology/</guid>
+      <description>1. Computer 1.1 Operating system Linux Free Linux Distributions Ubuntu Community: Tutorial | docs Desktop: Install Ubuntu Desktop Fedora Workstation CentOs wiki: CentosHelp.org Manuals blog CentOS7 配置指南 MacOS 用 Mac 打造合适的科研环境 优雅的 Mac OS 1.2 Linux Linux basis The Linux Command Line 中文版 (Github翻译项目)</description>
+    </item>
+    
+  </channel>
+</rss>

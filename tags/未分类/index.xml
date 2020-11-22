@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>未分类 on core-man</title>
+    <link>https://core-man.github.io/blog/tags/%E6%9C%AA%E5%88%86%E7%B1%BB/</link>
+    <description>Recent content in 未分类 on core-man</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://core-man.github.io/blog/tags/%E6%9C%AA%E5%88%86%E7%B1%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://core-man.github.io/blog/post/hello-world/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/hello-world/</guid>
+      <description>Hello World！欢迎来到 core-man 的个人博客。 我主要从事地震学方面的研究，在博士期间的主要研究方向是地球内核 (inner core) 和地幔 (mantle)，因此给自己取了</description>
+    </item>
+    
+  </channel>
+</rss>

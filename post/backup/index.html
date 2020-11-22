@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>文件备份 - core-man</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="core-man" /><meta name="description" content="在写程序或者处理大量数据时，不进行必要的备份是十分危险的。一旦电脑硬盘出问题，几个月的辛苦就付诸东流。要备份程序和数据，首先就需要有一块备份" /><meta name="keywords" content="地震学, 反演" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.74.0 with theme even" />
+
+
+<link rel="canonical" href="https://core-man.github.io/blog/post/backup/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/blog/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/blog/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/blog/favicon-16x16.png">
+<link rel="manifest" href="/blog/manifest.json">
+<link rel="mask-icon" href="/blog/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+<link href="/blog/sass/main.min.78f8f17bab244b9ee62ad16480c9584d5fc2db06ae20681d1ca225cefd80767c.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="文件备份" />
+<meta property="og:description" content="在写程序或者处理大量数据时，不进行必要的备份是十分危险的。一旦电脑硬盘出问题，几个月的辛苦就付诸东流。要备份程序和数据，首先就需要有一块备份" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://core-man.github.io/blog/post/backup/" />
+<meta property="article:published_time" content="2020-03-15T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-03-15T00:00:00+00:00" />
+<meta itemprop="name" content="文件备份">
+<meta itemprop="description" content="在写程序或者处理大量数据时，不进行必要的备份是十分危险的。一旦电脑硬盘出问题，几个月的辛苦就付诸东流。要备份程序和数据，首先就需要有一块备份">
+<meta itemprop="datePublished" content="2020-03-15T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2020-03-15T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="4053">
+
+
+
+<meta itemprop="keywords" content="文件备份," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="文件备份"/>
+<meta name="twitter:description" content="在写程序或者处理大量数据时，不进行必要的备份是十分危险的。一旦电脑硬盘出问题，几个月的辛苦就付诸东流。要备份程序和数据，首先就需要有一块备份"/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/blog/" class="logo">core-man</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/blog/">
+        <li class="mobile-menu-item">首页</li>
+      </a><a href="/blog/post/">
+        <li class="mobile-menu-item">归档</li>
+      </a><a href="/blog/categories/">
+        <li class="mobile-menu-item">分类</li>
+      </a><a href="/blog/tags/">
+        <li class="mobile-menu-item">标签</li>
+      </a><a href="https://core-man.github.io/link/">
+        <li class="mobile-menu-item">链接</li>
+      </a><a href="https://core-man.github.io/">
+        <li class="mobile-menu-item">项目</li>
+      </a><a href="/blog/collection/">
+        <li class="mobile-menu-item">合集</li>
+      </a><a href="/blog/about/">
+        <li class="mobile-menu-item">关于</li>
+      </a>
+  </ul>
+</nav>
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/blog/" class="logo">core-man</a>
+</div>
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/blog/">首页</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/blog/post/">归档</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/blog/categories/">分类</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/blog/tags/">标签</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="https://core-man.github.io/link/">链接</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="https://core-man.github.io/">项目</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/blog/collection/">合集</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/blog/about/">关于</a>
+      </li>
+  </ul>
+</nav>
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">文件备份</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2020-03-15 </span>
+        <div class="post-category">
+            <a href="/blog/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"> 计算机 </a>
+            </div>
+        
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">文章目录</h2>
+  <div class="post-toc-content">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#文件系统">文件系统</a>
+      <ul>
+        <li><a href="#linux文件系统">Linux文件系统</a></li>
+        <li><a href="#windows文件系统">Windows文件系统</a></li>
+        <li><a href="#mac文件系统">Mac文件系统</a></li>
+      </ul>
+    </li>
+    <li><a href="#硬盘备份">硬盘备份</a>
+      <ul>
+        <li><a href="#linux">Linux</a></li>
+        <li><a href="#windows">Windows</a></li>
+        <li><a href="#mac">Mac</a></li>
+      </ul>
+    </li>
+    <li><a href="#网盘备份">网盘备份</a></li>
+    <li><a href="#驱动程序">驱动程序</a></li>
+    <li><a href="#参考">参考</a></li>
+    <li><a href="#编辑历史">编辑历史</a></li>
+  </ul>
+</nav>
+  </div>
+</div>
+    <div class="post-content">
+      <p>在写程序或者处理大量数据时，不进行必要的备份是十分危险的。一旦电脑硬盘出问题，几个月的辛苦就付诸东流。要备份程序和数据，首先就需要有一块备份硬盘，然而不同操作系统（Linux、Windowns和Mac）使用的文件系统 (filesystem) 不尽相同，导致不同文件系统的硬盘往往不能跨平台读取和存储。</p>
+<ul>
+<li>Linux的<code>ext4</code>文件系统在Windows和Mac下不可读。</li>
+<li>Windows的<code>NTFS</code>文件系统在Mac下只读不能写，<code>exFAT</code>文件系统虽在Mac下可读可写，但文件权限会出错；<code>NTFS</code>和<code>exFAT</code>在Linux下虽可读可写，但是文件权限会出错。</li>
+<li>Mac的<code>HFS+</code>文件系统在Linux和Windows下不可读。</li>
+</ul>
+<p>首先介绍各操作系统的主要文件系统，然后介绍如何在Linux，Windows和Mac下进行硬盘备份，最后简要介绍网盘备份。</p>
+<h2 id="文件系统">文件系统</h2>
+<h3 id="linux文件系统">Linux文件系统</h3>
+<p>Linux有几十个文件系统类型，可以利用以下命令查看全部文件系统的介绍：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">$ man <span class="m">5</span> fs
+<span class="c1"># 或</span>
+$ man filesystems
+</code></pre></td></tr></table>
+</div>
+</div><p>Linux主要文件系统:</p>
+<ul>
+<li><code>ext2</code>: Linux second extended file system (ext2fs)，Linux最传统的磁盘文件系统。</li>
+<li><code>ext3</code>: 增加日志功能，可回溯追踪。</li>
+<li><code>ext4</code>: <code>RHEL6</code>、<code>CentOS 6.x</code>、<code>Ubuntu</code>等大部分Linux发行版本的默认文件系统。</li>
+<li><code>xfs</code>: <code>RHEL7</code>、<code>CentOS 7.x</code>等Linux发行版本的默认文件系统。</li>
+</ul>
+<h3 id="windows文件系统">Windows文件系统</h3>
+<p>Windows主要文件系统:</p>
+<ul>
+<li><code>FAT</code>：也称<code>FAT16</code>，MS-DOS和最早期的WIN95操作系统中最常见的硬盘分区格式，能支持最大为2GB的硬盘分区，目前基本上已经不再使用了。</li>
+<li><code>FAT32</code>：Win98开始，<code>FAT32</code>得到了广泛的应用，可以支持大到2TB的分区，但是单个文件最大只能支持4GB。</li>
+<li><code>NTFS</code>: 从Windows XP系统开始逐渐成为主流的磁盘格式，目前仍是主流的磁盘格式。针对传统机械硬盘而设计的，对于新兴的Flash闪存材料不一定适用。1993年微软推出了全新的操作系统Windows New Technology (Windows NT)，后来的Windows 2000、XP、Windows 7、Windows 8、Windows 10都属于WindowsNT家族，这个家族的文件系统就叫New Technology Filesystem （<code>NTFS</code>）。</li>
+<li><code>exFAT</code>: 也被称为FAT64，近年出现的格式，主要针对移动存储设备，如闪存、U盘等。因为<code>FAT32</code>单个文件不能超过4GB，使用<code>NTFS</code>又容易损坏闪存芯片，所以开发<code>exFAT</code>格式来解决这些问题。</li>
+</ul>
+<p>Windows系统的文件格式具有一定的跨平台性</p>
+<ul>
+<li><code>FAT32</code>，<code>NTFS</code>和<code>exFAT</code>在Linux下可读、可写，但文件权限会出错。</li>
+<li><code>FAT32</code>和<code>exFAT</code>在Mac上的可读、可写，但文件权限会出错，而<code>NTFS</code>文件系统在Mac下只读不能写。</li>
+</ul>
+<h3 id="mac文件系统">Mac文件系统</h3>
+<p>Mac主要文件系统:</p>
+<ul>
+<li><code>UFS</code>: 全称Unix File System，也称Berkeley Fast File System。Mac OS X Lion版本后才取消对<code>UFS</code>的支持。</li>
+<li><code>HFS+</code>: 也称Mac OS Extended或HFS plus。苹果收购NeXT后，<code>UFS</code>在MacOS中作为默认文件系统的时间并不长。1998年1月，苹果收购NeXT一年后，发布了Mac OS 8.1，并搭载HFS Plus (<code>HFS+</code>)文件系统，用于取代<code>UFS</code>。可以用Time Machine进行有效的备份。</li>
+<li><code>APFS</code>: 2017年，伴随着Mac OS High Sierra，苹果正式发布了Apple File System。为了和<code>AFS (Apple File Service)</code>区分，采用了<code>APFS</code>作为缩写，目前与Time Machine还不兼容。</li>
+</ul>
+<p>为了与Windows相兼容，Mac还有<code>MS-DOS (FAT)</code>、<code>Windows NT Filesystem</code>和<code>ExFAT</code>等文件系统。</p>
+<h2 id="硬盘备份">硬盘备份</h2>
+<p>我买了几块4T的Seagate Backup Plus移动硬盘，大约800元/块，默认文件格式是<code>NTFS</code>或<code>exFAT</code>，可以根据自己的实际需求对硬盘进行格式化。</p>
+<p>我个人的硬盘主要用于：</p>
+<ul>
+<li>存储数据
+<ul>
+<li>为了能在Windows，Mac和Linux跨平台使用，可以选择<code>exFAT</code>。其在三个系统里均可读可写，只是在Linux和Mac中文件权限会出错，但是数据文件的权限出错对日常科研并没有影响。</li>
+<li>如果只想在Windows和Linux之间使用，也可以采用<code>NTFS</code>，其在这两个系统里也是可读可写，但文件权限会出错。</li>
+</ul>
+</li>
+<li>增量备份脚本、文件
+<ul>
+<li>对于不同的操作系统，需要选择不同的文件系统进行格式化，保证文件的权限不变。</li>
+<li>根据自身需求，每隔一段时间(每周或者每个月)进行备份，在出差前最好也对电脑做个备份。</li>
+</ul>
+</li>
+</ul>
+<p>以下的讨论都是基于第二个目的，第一个目的只需格式化操作即可。文件管理可以参考<a href="https://blog.seisman.info/file-organization">SeisMan&rsquo;s blog</a>。</p>
+<h3 id="linux">Linux</h3>
+<p>目前我使用CentOS 7，文件系统为<code>xfs</code>。为了与大部分Linux版本兼容，我采用更普遍的<code>ext4</code>作为移动硬盘的文件系统。</p>
+<p>在Linux上插入移动硬盘，查看移动硬盘挂在的目录：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">$ df -T
+Filesystem                         Type      1K-blocks       Used  Available Use% Mounted on
+/dev/mapper/cl_ivantjuawinata-root xfs       <span class="m">104802308</span>    <span class="m">8157576</span>   <span class="m">96644732</span>   8% /
+devtmpfs                           devtmpfs    <span class="m">8136724</span>          <span class="m">0</span>    <span class="m">8136724</span>   0% /dev
+tmpfs                              tmpfs       <span class="m">8160268</span>          <span class="m">0</span>    <span class="m">8160268</span>   0% /dev/shm
+tmpfs                              tmpfs       <span class="m">8160268</span>      <span class="m">26636</span>    <span class="m">8133632</span>   1% /run
+tmpfs                              tmpfs       <span class="m">8160268</span>          <span class="m">0</span>    <span class="m">8160268</span>   0% /sys/fs/cgroup
+tmpfs                              tmpfs       <span class="m">8160268</span>        <span class="m">416</span>    <span class="m">8159852</span>   1% /tmp
+/dev/sda2                          xfs          <span class="m">505580</span>     <span class="m">237656</span>     <span class="m">267924</span>  48% /boot
+/dev/sda1                          vfat         <span class="m">204580</span>       <span class="m">9960</span>     <span class="m">194620</span>   5% /boot/efi
+/dev/mapper/cl_ivantjuawinata-home xfs      <span class="m">1102878568</span>  <span class="m">879866152</span>  <span class="m">223012416</span>  80% /home
+tmpfs                              tmpfs       <span class="m">1632056</span>         <span class="m">28</span>    <span class="m">1632028</span>   1% /run/user/1000
+/dev/sdc2                          ext4     <span class="m">3845428216</span> <span class="m">1781612652</span> <span class="m">1868454900</span>  49% /run/media/core-man/4T
+</code></pre></td></tr></table>
+</div>
+</div><p>可以看到移动硬盘挂载在<code>/dev/sdc2</code>，千万不要搞错挂载目录。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1"># 卸载`/dev/sdc2`</span>
+$ sudo umount /dev/sdc2
+
+<span class="c1"># 将移动硬盘格式化成`ext4`文件系统</span>
+$ sudo mkfs.ext4 /dev/sdc2
+</code></pre></td></tr></table>
+</div>
+</div><p>最后利用<code>rsync</code>命令对重要的文件、脚本、数据等进行备份了。第一次备份会比较慢，但是第二次由于只更新电脑中改动过的文件，会比较快。可以写一个备份脚本，这里有一个perl脚本<a href="backup.pl">backup.pl</a>可以参考。</p>
+<h3 id="windows">Windows</h3>
+<p>Windows下进行备份，移动硬盘的文件系统格式可以是<code>NTFS</code>或<code>exFAT</code>。备份跟Linux很类似，使用DOS的<code>robocopy</code>命令进行同步。这里有一个<a href="backup.txt">backup.txt</a>文件可以参考，将后缀txt给成bat，就变成了bat脚本，双击bat脚本就直接运行了。需要查看txt原文件，将参数按照自己的实际情况进行修改。</p>
+<p>如果备份脚本里有中文，则文件需要另存为成ANSI编码格式，而不是UTF-8格式：</p>
+<p><img src="ANSI-1.png" alt="save as"></p>
+<p><img src="ANSI-2.png" alt="ANSI"></p>
+<h3 id="mac">Mac</h3>
+<p>我使用Mac强大的Time Machine进行备份，<code>Time Machine</code>可以回到之前任意时间点备份的文件状态。</p>
+<p>首先将移动硬盘格格式化成<code>HFS+</code>。如果有人为了能够与Windows和Linux兼容，可以只将部分空间格式化成<code>HFS+</code>，保留部分<code>NTFS</code>或者<code>exFAT</code>空间，不过有几点注意事项：</p>
+<ul>
+<li>Mac自身的<code>Disk Utility</code>不能将硬盘格式化为<code>NTFS</code>，只能格式化成<code>MS-DOS(FAT)</code>和<code>exFAT</code>。如果移动硬盘原始格式不是<code>NTFS</code>，而我们想使用<code>NTFS</code>，可以用Windows或者Linux下的工具先将其格式化成<code>NTFS</code>。</li>
+<li><code>NTFS</code>文件在Mac上只读，<code>MS-DOS(FAT)</code>和<code>exFAT</code>在Mac上可读、可写，但是文件权限会出错；<code>MS-DOS(FAT)</code>单个文件不能大于4GB；<code>exFAT</code>作为<code>FAT32</code>的升级版，<strong>据说</strong>目前还不太稳定，如果文件系统不够稳定，就存在着分区表丢失、数据丢失等隐患，建议谨慎使用，但是目前<code>exFAT</code>又确实是跨三个平台的最好的文件格式。</li>
+</ul>
+<p>插上移动硬盘，然后打开Mac的<code>Disk Utility</code>:</p>
+<p><img src="MAC-partition-1.png" alt="Disk Utility 1"></p>
+<p>将3.8T的空间格式化 (<code>Partition</code>) 成<code>Mac OS Extended (Journaled)</code>格式：</p>
+<p><img src="MAC-partition-2.png" alt="Disk Utility 2"></p>
+<p><img src="MAC-partition-3.png" alt="Disk Utility 3"></p>
+<p>修改分区Name，选择一个自己喜欢名字。同时也可以增加其他格式的分区。</p>
+<p>接下来就可以利用<code>Time Machine</code>进行增量备份了，第一次会比较久，后面每次更新新文件：</p>
+<ul>
+<li>系统偏好设置 -&gt; Time Machine -&gt; 选择备份磁盘 -&gt; 选择分好的磁盘专区，将当期Mac电脑文件备份到移动硬盘中</li>
+</ul>
+<h2 id="网盘备份">网盘备份</h2>
+<p>现在有很多网盘服务，可以用来在不同设备之间进行同步，也可以用来备份。目前可以在Linux下使用客户端的同步网盘有<code>坚果云</code>，<code>Dropbox</code>, <code>MEGA</code>和<code>百度网盘</code>等。其他还有<code>OneDrive</code>，<code>Google Drive</code>，<code>七牛云存储</code>等网盘。</p>
+<ul>
+<li><code>坚果云</code>：国内目前最好的全平台同步网盘，不限空间，但限制每月上传流量1G，下载流量3G；有需要的可以考虑购买高级版。</li>
+<li><code>Dropbox</code>： 国外最好用的全平台同步网盘，但被墙了，熟练掌握科学上网技巧的人可以使用， 一般人还是不要用了；免费用户只有 2GB 容量，最大可扩容到 18GB 以上；付费用户容量为 1T，对于国内用户稍稍有些贵。</li>
+<li><code>MEGA</code>：免费容量50G，作为同步盘来说基本是够用了。</li>
+<li><code>百度网盘</code>：可以有2T的免费空间。</li>
+<li><code>OneDrive</code>: 微软的云服务，新版的 Word、Excel、PowerPoint 以及 Onenote 等等都可以直接保存到 OneDrive 中；初始免费容量 5G；NTU 员工有1T的空间，用来备份和同步日常文件足够了。</li>
+<li><code>Google Drive</code>： 免费容量15G。</li>
+<li><code>Google Photos</code>: 用于同步手机照片。</li>
+</ul>
+<p>我个人的使用情况：</p>
+<ul>
+<li>使用<code>坚果云</code>在Mac和Linux之间同步文件</li>
+<li>使用<code>OneDrive</code>和<code>Google Drive</code>对Mac进行网盘备份</li>
+<li>使用<code>Dropbox</code>，<code>OneDrive</code>和<code>Google Drive</code>进行文件共享</li>
+<li>使用<code>Google Photos</code>同步手机照片</li>
+<li>一些视频、照片、软件、书籍等文件放在<code>百度网盘</code>里进行备份</li>
+</ul>
+<h2 id="驱动程序">驱动程序</h2>
+<p>如果只用一块移动硬盘，但是想在Windows和Mac系统下使用，也可以直接花钱解决: <a href="https://www.paragon-software.com">https://www.paragon-software.com</a>。这也是Mac的官方推荐。</p>
+<h2 id="参考">参考</h2>
+<ul>
+<li>Linux文件系统：<a href="https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/59.html">鸟哥的Linux私房菜：基础学习篇 第四版</a>、<a href="https://zhuanlan.zhihu.com/p/44267768">深入理解ext4等Linux文件系统</a>、<a href="https://blog.csdn.net/lf8289/article/details/2146917">Linux文件系统类型简介及支持的文件系统汇总&ndash;Linux入门到精通系列</a>、<a href="https://blog.csdn.net/daduryi/article/details/81299961">daduryi博客</a></li>
+<li>Windows文件系统：<a href="https://blog.csdn.net/hansel/article/details/46482383">Hansel博客</a>、<a href="https://zhuanlan.zhihu.com/p/33506458">关于硬盘/U盘/储存卡格式</a></li>
+<li>Mac文件系统：<a href="https://support.apple.com/zh-cn/guide/disk-utility/dsku19ed921c/mac">磁盘工具使用手册</a>、<a href="https://zhuanlan.zhihu.com/p/33656976">谈谈Mac OS的文件系统</a>、<a href="https://www.howtogeek.com/331042/whats-the-difference-between-apfs-macos-extended-hfs-and-exfat">How-To Geek</a></li>
+<li>Mac磁盘管理：<a href="https://blog.csdn.net/xicikkk/article/details/46900267">星际穿越者博客</a>、<a href="https://support.apple.com/zh-cn/guide/disk-utility/welcome/mac">磁盘工具使用手册</a>（<a href="https://support.apple.com/zh-cn/guide/disk-utility/dskutl14027/mac">在Mac上使用“磁盘工具”将物理磁盘分区</a>、<a href="https://support.apple.com/zh-cn/HT208496">如何抹掉Mac磁盘</a>、<a href="https://support.apple.com/zh-cn/guide/disk-utility/dskutl1010/mac">在Mac上使用“磁盘工具”来格式化磁盘以用于Windows</a>）</li>
+<li>网盘基础：<a href="https://blog.seisman.info/my-referral-links">SeisMan&rsquo;s blog:一些产品的推广链接</a>、<a href="https://blog.seisman.info/centos7-setup-4">SeisMan&rsquo;s blog:CentOS 7 配置指南 — 日常软件篇</a>、<a href="https://blog.seisman.info/personal-preferences">SeisMan&rsquo;s blog:我所使用的软件/服务列表</a></li>
+</ul>
+<h2 id="编辑历史">编辑历史</h2>
+<ul>
+<li>2020-09-17: 增加Linux 百度网盘</li>
+<li>2020-03-02: 增加exFAT格式</li>
+<li>2019-07-06: 初稿</li>
+</ul>
+
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">文章作者</span>
+    <span class="item-content">core-man</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">上次更新</span>
+    <span class="item-content">
+        2020-03-15
+        
+    </span>
+  </p>
+  
+  
+</div>
+<footer class="post-footer">
+      <div class="post-tags">
+          <a href="/blog/tags/%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/">文件备份</a>
+          </div>
+      <nav class="post-nav">
+        <a class="prev" href="/blog/post/intro-material-seismology/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">地震学初步入门材料清单</span>
+            <span class="prev-text nav-mobile">上一篇</span>
+          </a>
+        <a class="next" href="/blog/post/hello-world/">
+            <span class="next-text nav-default">Hello World!</span>
+            <span class="next-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:coreman.seism@gmail.com" class="iconfont icon-email" title="email"></a>
+      <a href="https://github.com/core-man" class="iconfont icon-github" title="github"></a>
+  <a href="https://core-man.github.io/blog/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    由 <a class="hexo-link" href="https://gohugo.io">Hugo</a> 强力驱动
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    主题 - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    &copy; 
+    2020
+    <span class="heart">
+      <i class="iconfont icon-heart"></i>
+    </span>
+    <span class="author">core-man</span>
+  </span>
+</div>
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+
+
+
+<script type="text/javascript" src="/blog/js/main.min.d7b7ada643c9c1a983026e177f141f7363b4640d619caf01d8831a6718cd44ea.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>

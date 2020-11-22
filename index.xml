@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>core-man</title>
+    <link>https://core-man.github.io/blog/</link>
+    <description>Recent content on core-man</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 23 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://core-man.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>合集</title>
+      <link>https://core-man.github.io/blog/collection/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/collection/</guid>
+      <description>经常更新的博文或系列性博文: 留学新加坡 地震学初步入门材料清单 学术阅读和写作的经验 地学书籍</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://core-man.github.io/blog/about/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/about/</guid>
+      <description>博客内容 记录、整理和备份自己在学习、科研和生活中的一些经验。 联系方式 学术讨论请通过电子邮箱: coreman.seism@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>留学新加坡</title>
+      <link>https://core-man.github.io/blog/post/oversea-in-singapore/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/oversea-in-singapore/</guid>
+      <description>这一系列博文记录了我在新加坡学习、生活的经验，供我个人在需要的时候查阅。对于其他将要或已在新加坡学习和工作的小伙伴，也许有一点借鉴意义。 阅读</description>
+    </item>
+    
+    <item>
+      <title>留新个人日常生活</title>
+      <link>https://core-man.github.io/blog/post/singapore-life/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/singapore-life/</guid>
+      <description>可以关注一下微信公众号以及小程序，了解在新加坡生活的需要有用信息。 新加坡眼: 很多新加坡生活信息 新加坡万事通：很多新加坡生活相关信息 新加坡便民</description>
+    </item>
+    
+    <item>
+      <title>留新个人生活信息汇总</title>
+      <link>https://core-man.github.io/blog/post/singapore-info-collection/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/singapore-info-collection/</guid>
+      <description>手机相关 APP 交通 百度地图/Google Maps MyTransport: 查询公交信息。 Singabus: 新加坡公交查询。 Grab: 打车、外卖等等。打车时选择GrabHitch预约很便宜，NTU-机</description>
+    </item>
+    
+    <item>
+      <title>留新个人经济管理</title>
+      <link>https://core-man.github.io/blog/post/singapore-economy/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/singapore-economy/</guid>
+      <description>银行卡 银行账户和储蓄卡 学校会要求提供一个银行账号用于财务结算，如果第一月没有办理银行账户，工资会以支票的形式发放。学校里有OCBC(Over</description>
+    </item>
+    
+    <item>
+      <title>留新娱乐活动</title>
+      <link>https://core-man.github.io/blog/post/singapore-recreation/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/singapore-recreation/</guid>
+      <description>BBQ 场地 The floravale (花景轩) 提前预定 S$10/Pit booking fee, no refundable S$50/Pit deposit, refundable 学校场地 需预定、免费 烧烤用具 烧烤网架：JP Fair Price最佳，有两种size可选，一般不会重复使用</description>
+    </item>
+    
+    <item>
+      <title>留新校园生活 (NTU)</title>
+      <link>https://core-man.github.io/blog/post/ntu-campus/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/ntu-campus/</guid>
+      <description>NTU 校区 NTU校区大致是个平行西边形，东面是住宅区，教学区在西面。National Institute Education在西北角，NTU主要教学区则在西和西南，</description>
+    </item>
+    
+    <item>
+      <title>留新准备</title>
+      <link>https://core-man.github.io/blog/post/singapore-preparation/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/singapore-preparation/</guid>
+      <description>Paper Work 材料准备 面试成功后，Boss先发口头offer，然后会让学校启动paper work，这个过程可能要一点时间完成。 2018年3月8日，我向</description>
+    </item>
+    
+    <item>
+      <title>地学书籍</title>
+      <link>https://core-man.github.io/blog/post/geoscience-books/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/geoscience-books/</guid>
+      <description>我在中国科大读书时的geolab组内大家常用地学参考书籍。毕业后，我在大家整理的基础上，陆续加了一些额外的参考书。 Seismology No Title Author Year Link 1 Introduction to Seismology Peter M. Shearer</description>
+    </item>
+    
+    <item>
+      <title>AGU 临行清单</title>
+      <link>https://core-man.github.io/blog/post/agu-checklist/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/agu-checklist/</guid>
+      <description>本文全大多数内容是我在中国科大读书时，组里某位大神所记录的AGU临行清单。我修补部分内容，以便适用新加坡留学情况。 必备文件、证件 护照 身份证 EVUS</description>
+    </item>
+    
+    <item>
+      <title>参加国际会议 (以AGU为例)</title>
+      <link>https://core-man.github.io/blog/post/internaltionl-conference/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/internaltionl-conference/</guid>
+      <description>本文全大多数内容是我在中国科大读书时，组里某位大神所记录的以AGU为例介绍参加国际会议的流程。我修补部分内容，以便适用NTU的要求，部分步骤</description>
+    </item>
+    
+    <item>
+      <title>学术阅读和写作的经验</title>
+      <link>https://core-man.github.io/blog/post/reading-writing/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/reading-writing/</guid>
+      <description>学术阅读 学术期刊订阅 我们需要及时地阅读最新的文章，以便了解最新的科研进展，详情订阅方法请参考seisman&amp;rsquo;s blog. 本人文章订阅方式</description>
+    </item>
+    
+    <item>
+      <title>地震学初步入门材料清单</title>
+      <link>https://core-man.github.io/blog/post/intro-material-seismology/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/intro-material-seismology/</guid>
+      <description>1. Computer 1.1 Operating system Linux Free Linux Distributions Ubuntu Community: Tutorial | docs Desktop: Install Ubuntu Desktop Fedora Workstation CentOs wiki: CentosHelp.org Manuals blog CentOS7 配置指南 MacOS 用 Mac 打造合适的科研环境 优雅的 Mac OS 1.2 Linux Linux basis The Linux Command Line 中文版 (Github翻译项目)</description>
+    </item>
+    
+    <item>
+      <title>文件备份</title>
+      <link>https://core-man.github.io/blog/post/backup/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/backup/</guid>
+      <description>在写程序或者处理大量数据时，不进行必要的备份是十分危险的。一旦电脑硬盘出问题，几个月的辛苦就付诸东流。要备份程序和数据，首先就需要有一块备份</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://core-man.github.io/blog/post/hello-world/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/hello-world/</guid>
+      <description>Hello World！欢迎来到 core-man 的个人博客。 我主要从事地震学方面的研究，在博士期间的主要研究方向是地球内核 (inner core) 和地幔 (mantle)，因此给自己取了</description>
+    </item>
+    
+  </channel>
+</rss>

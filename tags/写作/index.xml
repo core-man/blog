@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>写作 on core-man</title>
+    <link>https://core-man.github.io/blog/tags/%E5%86%99%E4%BD%9C/</link>
+    <description>Recent content in 写作 on core-man</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://core-man.github.io/blog/tags/%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>学术阅读和写作的经验</title>
+      <link>https://core-man.github.io/blog/post/reading-writing/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/reading-writing/</guid>
+      <description>学术阅读 学术期刊订阅 我们需要及时地阅读最新的文章，以便了解最新的科研进展，详情订阅方法请参考seisman&amp;rsquo;s blog. 本人文章订阅方式</description>
+    </item>
+    
+  </channel>
+</rss>

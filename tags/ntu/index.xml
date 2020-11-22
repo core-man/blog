@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NTU on core-man</title>
+    <link>https://core-man.github.io/blog/tags/ntu/</link>
+    <description>Recent content in NTU on core-man</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://core-man.github.io/blog/tags/ntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>留新校园生活 (NTU)</title>
+      <link>https://core-man.github.io/blog/post/ntu-campus/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/ntu-campus/</guid>
+      <description>NTU 校区 NTU校区大致是个平行西边形，东面是住宅区，教学区在西面。National Institute Education在西北角，NTU主要教学区则在西和西南，</description>
+    </item>
+    
+  </channel>
+</rss>

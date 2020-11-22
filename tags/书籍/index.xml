@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>书籍 on core-man</title>
+    <link>https://core-man.github.io/blog/tags/%E4%B9%A6%E7%B1%8D/</link>
+    <description>Recent content in 书籍 on core-man</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://core-man.github.io/blog/tags/%E4%B9%A6%E7%B1%8D/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>地学书籍</title>
+      <link>https://core-man.github.io/blog/post/geoscience-books/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/geoscience-books/</guid>
+      <description>我在中国科大读书时的geolab组内大家常用地学参考书籍。毕业后，我在大家整理的基础上，陆续加了一些额外的参考书。 Seismology No Title Author Year Link 1 Introduction to Seismology Peter M. Shearer</description>
+    </item>
+    
+  </channel>
+</rss>

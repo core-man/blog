@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学术 on core-man</title>
+    <link>https://core-man.github.io/blog/categories/%E5%AD%A6%E6%9C%AF/</link>
+    <description>Recent content in 学术 on core-man</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://core-man.github.io/blog/categories/%E5%AD%A6%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AGU 临行清单</title>
+      <link>https://core-man.github.io/blog/post/agu-checklist/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/agu-checklist/</guid>
+      <description>本文全大多数内容是我在中国科大读书时，组里某位大神所记录的AGU临行清单。我修补部分内容，以便适用新加坡留学情况。 必备文件、证件 护照 身份证 EVUS</description>
+    </item>
+    
+    <item>
+      <title>参加国际会议 (以AGU为例)</title>
+      <link>https://core-man.github.io/blog/post/internaltionl-conference/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/blog/post/internaltionl-conference/</guid>
+      <description>本文全大多数内容是我在中国科大读书时，组里某位大神所记录的以AGU为例介绍参加国际会议的流程。我修补部分内容，以便适用NTU的要求，部分步骤</description>
+    </item>
+    
+  </channel>
+</rss>

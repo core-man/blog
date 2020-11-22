@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>地震学初步入门材料清单 - core-man</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="core-man" /><meta name="description" content="1. Computer 1.1 Operating system Linux Free Linux Distributions Ubuntu Community: Tutorial | docs Desktop: Install Ubuntu Desktop Fedora Workstation CentOs wiki: CentosHelp.org Manuals blog CentOS7 配置指南 MacOS 用 Mac 打造合适的科研环境 优雅的 Mac OS 1.2 Linux Linux basis The Linux Command Line 中文版 (Github翻译项目)" /><meta name="keywords" content="地震学, 反演" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.74.0 with theme even" />
+
+
+<link rel="canonical" href="https://core-man.github.io/blog/post/intro-material-seismology/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/blog/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/blog/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/blog/favicon-16x16.png">
+<link rel="manifest" href="/blog/manifest.json">
+<link rel="mask-icon" href="/blog/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+<link href="/blog/sass/main.min.78f8f17bab244b9ee62ad16480c9584d5fc2db06ae20681d1ca225cefd80767c.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="地震学初步入门材料清单" />
+<meta property="og:description" content="1. Computer 1.1 Operating system Linux Free Linux Distributions Ubuntu Community: Tutorial | docs Desktop: Install Ubuntu Desktop Fedora Workstation CentOs wiki: CentosHelp.org Manuals blog CentOS7 配置指南 MacOS 用 Mac 打造合适的科研环境 优雅的 Mac OS 1.2 Linux Linux basis The Linux Command Line 中文版 (Github翻译项目)" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://core-man.github.io/blog/post/intro-material-seismology/" />
+<meta property="article:published_time" content="2020-03-16T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-03-16T00:00:00+00:00" />
+<meta itemprop="name" content="地震学初步入门材料清单">
+<meta itemprop="description" content="1. Computer 1.1 Operating system Linux Free Linux Distributions Ubuntu Community: Tutorial | docs Desktop: Install Ubuntu Desktop Fedora Workstation CentOs wiki: CentosHelp.org Manuals blog CentOS7 配置指南 MacOS 用 Mac 打造合适的科研环境 优雅的 Mac OS 1.2 Linux Linux basis The Linux Command Line 中文版 (Github翻译项目)">
+<meta itemprop="datePublished" content="2020-03-16T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2020-03-16T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="1574">
+
+
+
+<meta itemprop="keywords" content="Linux,编程,地震学基础," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="地震学初步入门材料清单"/>
+<meta name="twitter:description" content="1. Computer 1.1 Operating system Linux Free Linux Distributions Ubuntu Community: Tutorial | docs Desktop: Install Ubuntu Desktop Fedora Workstation CentOs wiki: CentosHelp.org Manuals blog CentOS7 配置指南 MacOS 用 Mac 打造合适的科研环境 优雅的 Mac OS 1.2 Linux Linux basis The Linux Command Line 中文版 (Github翻译项目)"/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/blog/" class="logo">core-man</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/blog/">
+        <li class="mobile-menu-item">首页</li>
+      </a><a href="/blog/post/">
+        <li class="mobile-menu-item">归档</li>
+      </a><a href="/blog/categories/">
+        <li class="mobile-menu-item">分类</li>
+      </a><a href="/blog/tags/">
+        <li class="mobile-menu-item">标签</li>
+      </a><a href="https://core-man.github.io/link/">
+        <li class="mobile-menu-item">链接</li>
+      </a><a href="https://core-man.github.io/">
+        <li class="mobile-menu-item">项目</li>
+      </a><a href="/blog/collection/">
+        <li class="mobile-menu-item">合集</li>
+      </a><a href="/blog/about/">
+        <li class="mobile-menu-item">关于</li>
+      </a>
+  </ul>
+</nav>
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/blog/" class="logo">core-man</a>
+</div>
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/blog/">首页</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/blog/post/">归档</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/blog/categories/">分类</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/blog/tags/">标签</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="https://core-man.github.io/link/">链接</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="https://core-man.github.io/">项目</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/blog/collection/">合集</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/blog/about/">关于</a>
+      </li>
+  </ul>
+</nav>
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">地震学初步入门材料清单</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2020-03-16 </span>
+        <div class="post-category">
+            <a href="/blog/categories/linux/"> Linux </a>
+            <a href="/blog/categories/%E7%BC%96%E7%A8%8B/"> 编程 </a>
+            <a href="/blog/categories/%E5%9C%B0%E9%9C%87%E5%AD%A6%E5%9F%BA%E7%A1%80/"> 地震学基础 </a>
+            </div>
+        
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">文章目录</h2>
+  <div class="post-toc-content">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#1-computer">1. Computer</a>
+      <ul>
+        <li><a href="#11-operating-system">1.1 Operating system</a></li>
+        <li><a href="#12-linux">1.2 Linux</a></li>
+        <li><a href="#13-file-management">1.3 File management</a></li>
+        <li><a href="#14-computer-languages">1.4 Computer languages</a></li>
+        <li><a href="#15-programming">1.5 Programming</a></li>
+        <li><a href="#16-editors">1.6 Editors</a></li>
+        <li><a href="#17-collections">1.7 Collections</a></li>
+      </ul>
+    </li>
+    <li><a href="#2-seismological-basis">2. Seismological Basis</a>
+      <ul>
+        <li><a href="#21-seismology">2.1 Seismology</a></li>
+        <li><a href="#22-geophysical-inversion">2.2 Geophysical Inversion</a></li>
+        <li><a href="#23-seismic-data">2.3 Seismic Data</a></li>
+      </ul>
+    </li>
+    <li><a href="#3-seismological-softwares">3. Seismological Softwares</a>
+      <ul>
+        <li><a href="#31-seismic-data">3.1 Seismic data</a></li>
+        <li><a href="#32-seismic-wave">3.2 Seismic Wave</a></li>
+        <li><a href="#33-plotting">3.3 Plotting</a></li>
+      </ul>
+    </li>
+    <li><a href="#4-signal-processing">4. Signal Processing</a></li>
+    <li><a href="#5-references">5. References</a></li>
+    <li><a href="#revision-history">Revision history</a></li>
+  </ul>
+</nav>
+  </div>
+</div>
+    <div class="post-content">
+      <h2 id="1-computer">1. Computer</h2>
+<h3 id="11-operating-system">1.1 Operating system</h3>
+<h4 id="linux">Linux</h4>
+<ul>
+<li><a href="http://www.ee.surrey.ac.uk/Teaching/Unix/links.html">Free Linux Distributions</a></li>
+<li><a href="https://ubuntu.com/">Ubuntu</a>
+<ul>
+<li><a href="https://ubuntu.com/download/desktop#community">Community</a>: <a href="https://ubuntu.com/tutorials">Tutorial</a> | <a href="https://help.ubuntu.com/">docs</a></li>
+<li><a href="https://ubuntu.com/download/desktop">Desktop</a>: <a href="https://ubuntu.com/tutorials/install-ubuntu-desktop">Install Ubuntu Desktop</a></li>
+</ul>
+</li>
+<li><a href="https://getfedora.org/">Fedora</a>
+<ul>
+<li><a href="https://getfedora.org/en/workstation/">Workstation</a></li>
+</ul>
+</li>
+<li><a href="https://www.centos.org/">CentOs</a>
+<ul>
+<li><a href="https://wiki.centos.org/">wiki</a>: <a href="https://centoshelp.org/">CentosHelp.org</a></li>
+<li><a href="https://docs.centos.org/en-US/docs/">Manuals</a></li>
+<li><a href="https://blog.centos.org/">blog</a></li>
+<li><a href="https://blog.seisman.info/centos7-setup">CentOS7 配置指南</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="macos">MacOS</h4>
+<ul>
+<li><a href="https://blog.seisman.info/macOS">用 Mac 打造合适的科研环境</a></li>
+<li><a href="https://mac.linesh.tw/">优雅的 Mac OS</a></li>
+</ul>
+<h3 id="12-linux">1.2 Linux</h3>
+<h4 id="linux-basis">Linux basis</h4>
+<ul>
+<li><a href="http://linuxcommand.org/tlcl.php">The Linux Command Line</a>
+<ul>
+<li><a href="http://billie66.github.io/TLCL/index.html">中文版</a> (Github翻译项目)</li>
+<li><a href="https://www.kancloud.cn/thinkphp/linux-command-line">中文版</a> (看云)</li>
+</ul>
+</li>
+<li><a href="http://www.ee.surrey.ac.uk/Teaching/Unix">UNIX Tutorial for Beginners</a></li>
+<li>鸟哥的 Linux 私房菜 (CentOS)
+<ul>
+<li><a href="http://cn.linux.vbird.org">基础学习篇 第三版</a></li>
+<li><a href="https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/index.html">基础学习篇 第四版</a></li>
+</ul>
+</li>
+<li><a href="https://pan.baidu.com/s/1Eo7xFt8UUbXL21OREXUPGA">Linux学习笔记</a>: by 华为工程师 (提取码 7v19)</li>
+</ul>
+<h4 id="linux-command">Linux command</h4>
+<ul>
+<li>Command search
+<ul>
+<li><a href="https://igpppublic.ucsd.edu/~shearer/COMP233/Agnew_UNIX_onepage.pdf">Commonly-used Unix commands</a></li>
+<li><a href="http://linux.51yip.com">Linux 命令手册</a></li>
+<li><a href="http://man.linuxde.net">Linux 命令大全</a></li>
+<li><a href="https://www.runoob.com/linux/linux-command-manual.html">Linux 命令大全</a></li>
+</ul>
+</li>
+<li>Commands for data processing: <a href="http://docs.huihoo.com/gnu/linux/gawk.html">gawk</a>, <a href="https://man.linuxde.net/awk">awk</a>, <a href="http://linux.51yip.com/search/cut">cut</a>, <a href="http://linux.51yip.com/search/grep">grep</a>, <a href="http://linux.51yip.com/search/wc">wc</a>, <a href="http://linux.51yip.com/search/sort">sort</a>, <a href="http://linux.51yip.com/search/uniq">uniq</a></li>
+<li>Commands for compressing files: <a href="http://linux.51yip.com/search/tar">tar</a>, <a href="http://linux.51yip.com/search/gzip">gzip</a>, <a href="http://linux.51yip.com/search/bzip2">bzip2</a></li>
+<li>Other commonly-used commands: <a href="http://linux.51yip.com/search/cat">cat</a>, <a href="http://linux.51yip.com/search/touch">touch</a>, <a href="http://linux.51yip.com/search/head">head</a>, <a href="http://linux.51yip.com/search/tail">tail</a>, <a href="http://linux.51yip.com/search/which">which</a>, <a href="http://linux.51yip.com/search/locate">locate</a>, <a href="http://linux.51yip.com/search/paste">paste</a>, <a href="http://linux.51yip.com/search/printf">printf</a>, <a href="http://linux.51yip.com/search/sed">sed</a></li>
+<li><a href="https://igpppublic.ucsd.edu/~shearer/COMP233">Introduction to Computing</a> (Peter Shearer)
+<ul>
+<li><a href="https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.unix_files.pdf">Filenames, globbing, greping, and regexp</a></li>
+<li><a href="https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.scripts.pdf">Unix Shell Scripts</a></li>
+<li><a href="https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.sed.pdf">sed</a></li>
+<li><a href="https://igpppublic.ucsd.edu/~shearer/COMP233/sio233.notes.awk.pdf">awk</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="gnu">GNU</h4>
+<ul>
+<li><a href="https://www.gnu.org/home.en.html">GNU</a>: GNU&rsquo;s Not Unix, an operating system and an extensive collection of computer software</li>
+<li><a href="https://www.gnu.org/software/software.en.html">GNU software</a>
+<ul>
+<li><a href="https://www.gnu.org/manual/manual.html">Software manuals</a>: arranged by software category</li>
+<li>Software examples
+<ul>
+<li><a href="https://www.gnu.org/software/gcc/">GCC</a>: The GNU Compiler Collection, supporting C, C++ &amp; Fortran etc.
+<ul>
+<li><a href="https://gcc.gnu.org/onlinedocs/">GCC manual</a>: GCC manual &amp; GNU Fortran manual etc.</li>
+<li><a href="https://gcc.gnu.org/wiki">GCC wiki</a></li>
+</ul>
+</li>
+<li><a href="https://www.gnu.org/software/bash/">GNU Bash</a>: Bash is an acronym for Bourne-again shell | <a href="https://www.gnu.org/software/bash/manual">GNU Bash manual</a></li>
+<li><a href="https://www.gnu.org/software/wget/">GNU wget</a>: <a href="https://www.gnu.org/software/wget/manual/">GNU wget manual</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://www.gnu.org/doc/doc.en.html">Documentation of the GNU Project</a></li>
+</ul>
+<h3 id="13-file-management">1.3 File management</h3>
+<ul>
+<li><a href="https://blog.seisman.info/file-organization">文件管理与备份</a> (SeisMan)</li>
+<li><a href="https://core-man.github.io/blog/post/backup/">文件备份</a></li>
+</ul>
+<h3 id="14-computer-languages">1.4 Computer languages</h3>
+<h4 id="compiled-languages">Compiled languages</h4>
+<ul>
+<li>C
+<ul>
+<li>GNU C
+<ul>
+<li><a href="https://www.gnu.org/software/gnu-c-manual/">GNU C reference manual</a>:  It is strictly a C programming language reference, not a tutorial. Its aim is to cover every linguistic construct in GNU C.</li>
+<li><a href="http://www.crasseux.com/books/">GNU C programming tutorial</a></li>
+<li><a href="https://www.gnu.org/software/libc/">GNU C Library</a>: glibc | <a href="https://www.gnu.org/software/libc/documentation.html">glibc documentation</a></li>
+</ul>
+</li>
+<li>English tutorials
+<ul>
+<li><a href="https://www3.ntu.edu.sg/home/ehchua/programming/index.html#Cpp">C programming lanaguage</a></li>
+<li><a href="https://beginnersbook.com/2014/01/c-tutorial-for-beginners-with-examples/">Learning C with examples</a> &amp; <a href="https://beginnersbook.com/2015/02/simple-c-programs/">C examples</a></li>
+</ul>
+</li>
+<li>中文教程
+<ul>
+<li><a href="https://segmentfault.com/a/1190000015699060">C 语言入门这一篇就够了-学习笔记</a></li>
+<li><a href="https://www.runoob.com/cprogramming/c-tutorial.html">C 语言教程</a> (菜鸟教程)</li>
+<li><a href="https://book.douban.com/subject/4864940/">C 程序设计</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/23677249">C 语言学习资源整理</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Fortran
+<ul>
+<li><a href="https://www.fortrantutorial.com">Learn to code in 7 lessons with FORTRAN 90/95</a></li>
+<li><a href="http://www.icl.utk.edu/~mgates3/docs/fortran.html">Fortran 90/95 reference</a> (Mark Gates)</li>
+<li><a href="https://book.douban.com/subject/3908324/">Fortran 95/2003程序设计</a></li>
+<li><a href="http://micro.ustc.edu.cn/Fortran/">中国科大 Fortran 资源</a></li>
+<li><a href="https://gcc.gnu.org/onlinedocs/gfortran/">GNU Fortran compiler manual</a>: intrinsic procedure manual</li>
+<li><a href="https://software.intel.com/en-us/fortran-compiler-developer-guide-and-reference">Intel Fortran compiler manual</a>: <a href="https://software.intel.com/en-us/fortran-compiler-developer-guide-and-reference-language-reference">Fortran reference</a></li>
+</ul>
+</li>
+<li>C++
+<ul>
+<li><a href="http://www.cplusplus.com/">C++</a></li>
+<li><a href="https://www.learncpp.com">Learning C++</a></li>
+<li><a href="https://www3.ntu.edu.sg/home/ehchua/programming/index.html#Cpp">C++ programming language</a></li>
+<li><a href="https://beginnersbook.com/2017/08/c-plus-plus-tutorial-for-beginners/">Learning C++ with examples</a></li>
+<li><a href="https://www.runoob.com/cplusplus/cpp-tutorial.html">C++ 教程</a> (菜鸟教程)</li>
+<li><a href="https://gcc.gnu.org/onlinedocs/libstdc++">GNU C++ Library</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="scripting-languages">Scripting languages</h4>
+<ul>
+<li><a href="https://www.python.org/">Python</a>
+<ul>
+<li><a href="https://docs.python.org/3/">Python Doc</a>: <a href="https://docs.python.org/3.7/tutorial">Tutorial</a> | <a href="https://docs.pythontab.com/python/python3.4/#">中文手册</a> | <a href="https://perso.limsi.fr/pointal/python:memento">Python3 Cheat Sheet</a></li>
+<li><a href="https://beginnersbook.com/2018/03/python-tutorial-learn-programming/">Learning Python with examples</a></li>
+<li><a href="https://www.w3schools.com/python/default.asp">Python tutorial</a> (w3schools)</li>
+<li><a href="https://bop.mol.uno">简明python教程</a> &amp; <a href="https://python.swaroopch.com">English version</a></li>
+<li><a href="https://www.runoob.com/python3/python3-tutorial.html">Python 3 教程</a> (菜鸟教程)</li>
+<li><a href="https://www.liaoxuefeng.com/wiki/1016959663602400">Python 教程</a> (廖雪峰)</li>
+<li><a href="https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW">Python tutorial</a> (Mike Dane&rsquo;s video)</li>
+</ul>
+</li>
+<li><a href="https://julialang.org/">Julia</a>
+<ul>
+<li><a href="https://www.nature.com/articles/d41586-019-02310-3">Julia: come for the syntax, stay for the speed</a> | <a href="https://zhuanlan.zhihu.com/p/80800210">中文版</a></li>
+</ul>
+</li>
+<li><a href="https://www.mathworks.com/products/matlab.html">MATLAB</a>
+<ul>
+<li><a href="https://www.mathworks.com/products.html?s_tid=gn_ps">MathWorks Products</a></li>
+<li><a href="https://ww2.mathworks.cn/products/matlab/getting-started.html">MATLAB快速入门</a></li>
+<li><a href="https://ww2.mathworks.cn/support.html?s_tid=gn_supp">MATLAB支持</a>
+<ul>
+<li><a href="https://ww2.mathworks.cn/help/">MATLAB文档</a>
+<ul>
+<li><a href="https://ww2.mathworks.cn/help/matlab/index.html">了解MATLAB</a>: <a href="https://ww2.mathworks.cn/help/matlab/getting-started-with-matlab.html?s_tid=CRUX_lftnav">MATLAB快速入门</a></li>
+<li><a href="https://ww2.mathworks.cn/help/signal/index.html">Signal Processing Toolbox</a></li>
+</ul>
+</li>
+<li><a href="https://ww2.mathworks.cn/help/examples.html">MATLAB示例</a> | <a href="https://ww2.mathworks.cn/help/referencelist.html?type=function">MATLAB函数</a> | <a href="https://ww2.mathworks.cn/help/referencelist.html?type=block">MATLAB模块</a> | <a href="https://ww2.mathworks.cn/help/referencelist.html?type=app">MATLAB应用程序</a> | <a href="https://ww2.mathworks.cn/support/search.html?q=&amp;fq=asset_type_name:video&amp;page=1">MATLAB视频</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://www.perl.org/">Perl</a>
+<ul>
+<li><a href="https://www.perl.org/docs">Docs</a>: Official Docs | Module Docs</li>
+<li><a href="https://beginnersbook.com/2017/02/perl-tutorial-for-beginners/">Perl tutorial for beginners</a></li>
+<li><a href="http://shouce.jb51.net/perl">中文手册</a></li>
+<li><a href="https://m.douban.com/book/subject/10597970">Perl语言入门</a></li>
+</ul>
+</li>
+<li>Shell
+<ul>
+<li><a href="https://www.gnu.org/software/bash/manual">GNU Bash manual</a></li>
+<li><a href="http://linuxcommand.org/lc3_learning_the_shell.php">Learning the Shell</a></li>
+<li><a href="http://shouce.jb51.net/shell/index.html">中文手册</a></li>
+<li><a href="http://www.runoob.com/linux/linux-shell.html">Shell 教程</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="markup-languages">Markup languages</h4>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a>
+<ul>
+<li><a href="https://www.markdownguide.org">Markdown manual</a></li>
+<li><a href="https://gohugo.io/content-management/formats/">Learn MarkDown</a></li>
+<li><a href="https://guides.github.com/features/mastering-markdown/">Mastering Markdown</a></li>
+<li><a href="https://help.coding.net/docs/project/basis/markdown.html#pageTitle">Markdown 语法介绍</a></li>
+<li><a href="https://ericp.cn/cmd">Cmd Markdown 公式指导手册</a></li>
+</ul>
+</li>
+<li><a href="https://www.latex-project.org/">LaTeX</a>
+<ul>
+<li><a href="https://www.ctan.org/tex-archive/info/lshort">A short introduction to LATEX 2e</a>: <a href="https://www.ctan.org/tex-archive/info/lshort/english">English</a> | <a href="https://www.ctan.org/tex-archive/info/lshort/chinese">Chinese</a></li>
+<li><a href="https://liam.page/2014/09/08/latex-introduction">一份其实很短的 LaTeX 入门文档</a></li>
+<li><a href="http://www.icl.utk.edu/~mgates3/docs/latex.pdf">LaTeX quick reference</a> (Mark Gates)</li>
+<li><a href="https://www.overleaf.com/">Overleaf</a>: The easy to use, online, collaborative LaTeX editor</li>
+</ul>
+</li>
+</ul>
+<h3 id="15-programming">1.5 Programming</h3>
+<h4 id="programming-basis">Programming basis</h4>
+<ul>
+<li>Programming
+<ul>
+<li><a href="https://www.gnu.org/prep/standards/">GNU coding standards</a>
+<ul>
+<li><a href="https://gcc.gnu.org/codingconventions.html">GCC coding conventions</a> (C/C++)</li>
+<li><a href="https://gcc.gnu.org/wiki/CppConventions">GCC C++ coding conventions</a></li>
+</ul>
+</li>
+<li><a href="https://www.ntu.edu.sg/home/ehchua/programming/">Programming notes</a> by <a href="http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EHCHUA">Chua Hock Chuan</a></li>
+<li><a href="https://github.com/seisman/better-programming">编程修养</a> (陈皓)</li>
+</ul>
+</li>
+<li>Compiling &amp; linking
+<ul>
+<li><a href="https://seisman.github.io/how-to-write-makefile/">跟我一起写Makefile</a> (陈皓) | <a href="https://blog.seisman.info/how-to-write-makefile">Chinese introduction</a></li>
+<li><a href="https://www.gnu.org/software/make/manual/">GNU make manual</a> | <a href="http://hacker-yhj.github.io/resources/gun_make.pdf">Chinese version 3.8</a></li>
+<li><a href="https://www3.ntu.edu.sg/home/ehchua/programming/index.html#Cpp">GCC and Make</a>: Compiling, linking and building C/C++ applications</li>
+<li><a href="https://blog.csdn.net/sxc1989/article/details/63687050">《程序员的自我修养》读书笔记 &ndash; 编译链接过程</a></li>
+<li><a href="https://blog.51cto.com/7905648/1297255">C语言的编译链接过程详解</a> | <a href="https://www.runoob.com/w3cnote/gcc-parameter-detail.html">gcc 参数详解</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="version-control">Version control</h4>
+<ul>
+<li><a href="https://github.com/git/git">git</a>: fast, scalable, distributed revision control system
+<ul>
+<li>中文教程
+<ul>
+<li><a href="https://www.bootcss.com/p/git-guide/">git 简易指南</a></li>
+<li><a href="https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">git 教程</a> (廖雪峰)</li>
+<li><a href="https://git-scm.com/book/zh/v2">Pro Git</a> (中文版)</li>
+</ul>
+</li>
+<li><a href="https://www.git-tower.com/blog/git-cheat-sheet/">Git Cheat Sheet</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="parallel-computing">Parallel Computing</h4>
+<ul>
+<li>Compiled languages: C/C++ and Fortran
+<ul>
+<li><a href="https://www.openmp.org/">OpenMP</a>: Open MultiProcessing
+<ul>
+<li><a href="http://scc.ustc.edu.cn/zlsc/cxyy/200910/t20091014_13081.html">中国科大超算中心 OpenMP 资料</a></li>
+<li><a href="https://computing.llnl.gov/tutorials/openMP">Lawrence Livermore National Laboratory OpenMP tutorial</a></li>
+<li>Intel OpenMP Support: <a href="https://software.intel.com/en-us/fortran-compiler-developer-guide-and-reference-openmp-support">Fortran</a> | <a href="https://software.intel.com/en-us/cpp-compiler-developer-guide-and-reference-openmp-support">C/C++</a></li>
+<li>Manuals
+<ul>
+<li><a href="http://vra.github.io/2016/06/17/openmp-begin/">OpenMP 并行编程简介</a></li>
+<li><a href="https://www.cnblogs.com/ospider/p/5265975.html">OpenMP 入门教程</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://www.mpi-forum.org/">MPI</a>: Message Passing Interface
+<ul>
+<li>Implementations of MPI standard
+<ul>
+<li><a href="http://www.mpich.org/">MPICH</a> | <a href="http://www.mpich.org/documentation/guides/">Documentation</a></li>
+<li><a href="https://www.open-mpi.org/">Open MPI</a> | <a href="https://www.open-mpi.org/doc/">Documentation</a></li>
+<li><a href="https://software.intel.com/en-us/mpi-library">Intel MPI</a></li>
+</ul>
+</li>
+<li>Manuals
+<ul>
+<li><a href="http://scc.ustc.edu.cn/zlsc/cxyy/200910/t20091014_13082.html">中国科大超算中心 MPI 资料</a></li>
+<li><a href="https://computing.llnl.gov/tutorials/mpi/">Lawrence Livermore National Laboratory MPI tutorial</a></li>
+<li><a href="http://www.icl.utk.edu/~mgates3/docs/mpi.html">MPI quick reference</a> (Mark Gates)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Scripting languages
+<ul>
+<li>Python
+<ul>
+<li><a href="https://wiki.python.org/moin/ParallelProcessing">Python parallel computing</a></li>
+<li><a href="https://docs.python.org/3/library/concurrency.html">Concurrent Execution</a>: <a href="https://docs.python.org/3/library/multiprocessing.html">multiprocessing</a></li>
+<li><a href="https://www.machinelearningplus.com/python/parallel-processing-python/">Parallel processing in Python &ndash; A practical guide with examples</a></li>
+<li><a href="http://blog.atomicer.cn/2016/09/30/Python%E4%B8%AD%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%92%8C%E5%A4%9A%E8%BF%9B%E7%A8%8B%E7%9A%84%E5%AF%B9%E6%AF%94/">Python中单线程、多线程与多进程的效率对比实验</a></li>
+<li><a href="https://blog.csdn.net/brucewong0516/article/details/85776194">详解 multiprocessing 多进程</a></li>
+</ul>
+</li>
+<li><a href="https://ww2.mathworks.cn/solutions/parallel-computing.html">MATLAB parallel computing</a>
+<ul>
+<li><a href="https://ww2.mathworks.cn/help/matlab-parallel-server/index.html">Parallel Server manual</a></li>
+<li><a href="https://ww2.mathworks.cn/help/parallel-computing/index.html">Parallel computing toolbox manual</a></li>
+</ul>
+</li>
+<li>Perl
+<ul>
+<li><a href="https://www.digglife.net/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/">Perl 的多线程应用</a></li>
+<li><a href="https://perldoc.perl.org/threads.html">threads</a> (perldoc) | <a href="https://metacpan.org/pod/threads">threads</a> (cpan)</li>
+<li><a href="https://metacpan.org/pod/Parallel::ForkManager">Parallel::ForkManager</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Learning resources
+<ul>
+<li><a href="https://software.intel.com/en-us/all-dev-areas">Intel software</a>: <a href="https://software.intel.com/en-us/data-center">Data center</a></li>
+<li><a href="https://hpc.llnl.gov/training/tutorials">Lawrence Livermore National Laboratory training materials</a></li>
+<li><a href="http://scc.ustc.edu.cn/zlsc/">中国科大超算中心资料</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="gpu">GPU</h4>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Graphics_processing_unit">GPU</a></li>
+<li><a href="https://docs.nvidia.com/cuda/">CUDA Toolkit DOCS</a></li>
+</ul>
+<h3 id="16-editors">1.6 Editors</h3>
+<ul>
+<li><a href="https://www.vim.org">Vim</a> (Recommended)</li>
+<li><a href="https://code.visualstudio.com">Visual Studio Code</a> (Recommended): <a href="https://code.visualstudio.com/docs">Doc</a></li>
+<li><a href="https://www.jetbrains.com/pycharm/">PyCharm</a> (Recommended): <a href="https://www.jetbrains.com/pycharm/learning-center/">Learning center</a></li>
+<li><a href="https://www.sublimetext.com">Sublime text</a>: <a href="https://www.sublimetext.com/support">Doc</a></li>
+<li><a href="https://atom.io">Atom</a>: <a href="https://atom.io/docs">Doc</a></li>
+<li><a href="https://typora.io/#">Typora</a>: A useful markdown editor | <a href="https://www.jianshu.com/p/a6a6a22e9393">Typora极简教程</a></li>
+</ul>
+<h3 id="17-collections">1.7 Collections</h3>
+<ul>
+<li><a href="https://www.earthdatascience.org/">Earth Data Science</a>: Learn to use earth science and other data in R &amp; Python
+<ul>
+<li>Lessons by Topic: check the left sidebar</li>
+<li><a href="https://www.earthdatascience.org/courses/">Courses &amp; Textbooks</a>
+<ul>
+<li><a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/">Introduction to Earth Data Science</a></li>
+<li><a href="https://www.earthdatascience.org/courses/use-data-open-source-python/">Use Data for Earth and Environmental Science in Open Source Python</a></li>
+</ul>
+</li>
+<li><a href="https://www.earthdatascience.org/tutorials/">Tutorials</a></li>
+<li><a href="https://www.earthdatascience.org/workshops/">Workshops</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="2-seismological-basis">2. Seismological Basis</h2>
+<ul>
+<li><a href="https://www.iris.edu/hq/inclass/course/roses">2020 Remote Online Sessions for Emerging Seismologists</a>: a very good seismological course for Ph.D. students</li>
+</ul>
+<h3 id="21-seismology">2.1 Seismology</h3>
+<ul>
+<li><a href="https://www.cambridge.org/sg/academic/subjects/earth-and-environmental-science/solid-earth-geophysics/introduction-seismology-3rd-edition?format=HB&amp;isbn=9781316635742">Introduction to Seismology</a>: A textbook for undergraduate</li>
+<li><a href="https://www.wiley.com/en-us/An+Introduction+to+Seismology%2C+Earthquakes%2C+and+Earth+Structure-p-9780865420786">An Introduction to Seismology, Earthquakes and Earth Structure</a>: A textbook for undergraduate &amp; graduate</li>
+<li><a href="https://www.elsevier.com/books/modern-global-seismology/lay/978-0-12-732870-6">Modern Global Seismology</a>: A textbook for graduate</li>
+<li><a href="https://www.ldeo.columbia.edu/~richards/Aki_Richards.html">Quantitative Seismology: Theory and Methods</a>: A textbook for graduate (difficulty)</li>
+</ul>
+<h3 id="22-geophysical-inversion">2.2 Geophysical Inversion</h3>
+<ul>
+<li><a href="https://www.cambridge.org/gb/academic/subjects/statistics-probability/statistics-physical-sciences-and-engineering/inverse-problem-theory-and-methods-model-parameter-estimation?format=PB&amp;isbn=9780898715729">Inverse Problem Theory and Methods for Model Parameter Estimation</a>: A textbook for basic inversion theory</li>
+<li><a href="https://www.cambridge.org/core/books/global-optimization-methods-in-geophysical-inversion/C2B23286E6BCC2177117431CB568101C">Global Optimization Methods in Geophysical Inversion</a>: A textbook focusing on global optimization methods in geophysics, e.g., Monte-Carlo methods</li>
+<li><a href="https://www.sciencedirect.com/book/9780128046517/parameter-estimation-and-inverse-problems">Parameter Estimation and Inverse Problems</a>: A textbook for basic inversion theory</li>
+</ul>
+<h3 id="23-seismic-data">2.3 Seismic Data</h3>
+<ul>
+<li>Seismic data format
+<ul>
+<li><a href="https://blog.seisman.info/seismic-data-formats">Seismic data format</a></li>
+<li><a href="https://ds.iris.edu/ds/nodes/dmc/data/formats/">Data Formats</a></li>
+<li><a href="http://seismic-data.org/">Modern File Formats for Seismology</a></li>
+</ul>
+</li>
+<li>Instrument response
+<ul>
+<li><a href="https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94">仪器响应</a></li>
+<li><a href="https://seisman.github.io/SAC_Docs_zh/appendix/resp/">仪器响应</a></li>
+<li><a href="https://krischer.github.io/seismo_live_build/html/General%20Seismology/instrument_response_wrapper.html">Instrument Response</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="3-seismological-softwares">3. Seismological Softwares</h2>
+<h3 id="31-seismic-data">3.1 Seismic data</h3>
+<h4 id="downloading">Downloading</h4>
+<ul>
+<li><a href="http://www.seis.sc.edu/sod">SOD</a>: a very powerful seismic data request tool
+<ul>
+<li><a href="https://blog.seisman.info/sod-notes">Chinese tutorial</a></li>
+<li><a href="https://github.com/core-man/seismic-data/tree/master/SOD">core-man&rsquo;s SOD recipes</a> | <a href="https://github.com/seisman/SODrecipes">SeisMan&rsquo;s SOD recipes</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/obspy/obspy">ObsPy</a>: Data download, processing and visulization software written in Python
+<ul>
+<li><a href="https://docs.obspy.org/contents.html">DOC</a> | <a href="https://docs.obspy.org/tutorial/index.html">Tutorial</a> | <a href="https://docs.obspy.org/packages/index.html">Library Reference</a></li>
+</ul>
+</li>
+<li><a href="http://ds.iris.edu/ds/nodes/dmc/software/downloads/sac/">SAC</a>: Seismic Analysis Code, the most commonly used seismic data processing software | <a href="http://ds.iris.edu/ds/nodes/dmc/forms/sac">Request</a>
+<ul>
+<li><a href="http://ds.iris.edu/files/sac-manual/manual/data_access.html">Data Access</a></li>
+<li><a href="https://seisman.github.io/SAC_Docs_zh">Chinese manual</a> (best) | <a href="http://geophysics.eas.gatech.edu/classes/SAC/">Zhigang Peng&rsquo;s tutorial</a> | <a href="http://ds.iris.edu/ds/nodes/dmc/manuals/sac/">IRIS&rsquo;s manual</a> | <a href="https://www.youtube.com/watch?v=zZeUvHkOOAM&amp;list=PLD4D607C2FA317E6D&amp;index=147">An intro video</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="processing">Processing</h4>
+<ul>
+<li><a href="http://ds.iris.edu/ds/nodes/dmc/software/downloads/sac/">SAC</a>: Seismic Analysis Code, the most commonly used seismic data processing software | <a href="http://ds.iris.edu/ds/nodes/dmc/forms/sac">Request</a>
+<ul>
+<li><a href="https://github.com/core-man/SACTools">SAC Tools</a>: A collection of SAC tools written in C</li>
+<li><a href="https://seisman.github.io/SAC_Docs_zh">Chinese manual</a> (best) | <a href="http://geophysics.eas.gatech.edu/classes/SAC/">Zhigang Peng&rsquo;s tutorial</a> | <a href="http://ds.iris.edu/ds/nodes/dmc/manuals/sac/">IRIS&rsquo;s manual</a> | <a href="https://www.youtube.com/watch?v=zZeUvHkOOAM&amp;list=PLD4D607C2FA317E6D&amp;index=147">An intro video</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/obspy/obspy">ObsPy</a>: Data download, processing and visulization software written in Python
+<ul>
+<li><a href="https://docs.obspy.org/contents.html">DOC</a> | <a href="https://docs.obspy.org/tutorial/index.html">Tutorial</a> | <a href="https://docs.obspy.org/packages/index.html">Library Reference</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="32-seismic-wave">3.2 Seismic Wave</h3>
+<h4 id="traveltime">Traveltime</h4>
+<ul>
+<li><a href="https://www.seis.sc.edu/taup">TauP</a>: <a href="https://blog.seisman.info/tags/TauP">Chinese introduction</a></li>
+</ul>
+<h4 id="amplitude">Amplitude</h4>
+<ul>
+<li><a href="http://www.eas.slu.edu/eqc/eqccps.html">CPS330</a>: Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al.
+<ul>
+<li><a href="https://blog.seisman.info/cps330">Chinese introdution</a></li>
+<li><a href="https://blog.seisman.info/cps330-install">Chinese install introduction</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="synthetics">Synthetics</h4>
+<ul>
+<li><a href="http://www.eas.slu.edu/People/LZhu/home.html">fk</a>: Calculate synthetic seismograms in layered isotropic models, using frequency-wavenumber method
+<ul>
+<li><a href="https://blog.seisman.info/fk-notes">Chinese introduction</a></li>
+<li><a href="https://blog.seisman.info/fk-install">Intall fk</a></li>
+</ul>
+</li>
+<li><a href="http://www.eas.slu.edu/eqc/eqccps.html">CPS330</a>: Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al.
+<ul>
+<li><a href="https://blog.seisman.info/cps330">Chinese introdution</a></li>
+<li><a href="https://blog.seisman.info/cps330-install">Chinese install introduction</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="33-plotting">3.3 Plotting</h3>
+<ul>
+<li><a href="https://www.generic-mapping-tools.org">GMT</a>
+<ul>
+<li><a href="https://gmt-china.org">GMT中文社区</a></li>
+<li><a href="https://github.com/michaelgrund/GMT-plotting">GMT-plotting</a>: Collection of GMT scripts</li>
+<li><a href="https://blog.seisman.info/tags/pssac">pssac for GMT4</a> | <a href="https://blog.seisman.info/tags/pssac2">pssac2 for GMT4 and GMT5</a></li>
+</ul>
+</li>
+<li><a href="https://www.pygmt.org/dev/index.html">PyGMT</a>: A Python interface for GMT (in the early stages of design and implementation)</li>
+<li><a href="https://matplotlib.org/">matplotlib</a>: a comprehensive library for creating static, animated, and interactive visualizations in Python</li>
+</ul>
+<h2 id="4-signal-processing">4. Signal Processing</h2>
+<ul>
+<li><a href="https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/">Signal and Systems: an introduction to analog and digital signal processing</a>: Alan V. Oppenheim, MIT, 1987 | <a href="https://www.youtube.com/watch?v=KJnAy6hzetw&amp;list=PL41692B571DD0AF9B">youtube</a> | <a href="http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fsignals.html">网易公开课</a></li>
+<li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-341-discrete-time-signal-processing-fall-2005/">Discrete-Time Signal Processing</a>: Alan V. Oppenheim, MIT, 2005</li>
+<li><a href="https://web.xidian.edu.cn/kywang/teach.html">数字信号处理</a>: 本科生</li>
+</ul>
+<h2 id="5-references">5. References</h2>
+<ul>
+<li><a href="http://blog.seisman.info">SeisMan&rsquo;s blog</a></li>
+<li><a href="https://sites.google.com/msu.edu/wei-seismic-training/">MSU Wei&rsquo;s Group Seismic Training</a></li>
+</ul>
+<h2 id="revision-history">Revision history</h2>
+<ul>
+<li>2020-02-18: more links are added</li>
+<li>2019-07-24: initial draft referring to <a href="https://blog.seisman.info/simple-guide-to-seismology">地震学入门简易指南</a></li>
+</ul>
+
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">文章作者</span>
+    <span class="item-content">core-man</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">上次更新</span>
+    <span class="item-content">
+        2020-03-16
+        
+    </span>
+  </p>
+  
+  
+</div>
+<footer class="post-footer">
+      <div class="post-tags">
+          <a href="/blog/tags/linux/">Linux</a>
+          <a href="/blog/tags/%E7%BC%96%E7%A8%8B/">编程</a>
+          <a href="/blog/tags/%E5%9C%B0%E9%9C%87%E5%AD%A6%E5%9F%BA%E7%A1%80/">地震学基础</a>
+          </div>
+      <nav class="post-nav">
+        <a class="prev" href="/blog/post/reading-writing/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">学术阅读和写作的经验</span>
+            <span class="prev-text nav-mobile">上一篇</span>
+          </a>
+        <a class="next" href="/blog/post/backup/">
+            <span class="next-text nav-default">文件备份</span>
+            <span class="next-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:coreman.seism@gmail.com" class="iconfont icon-email" title="email"></a>
+      <a href="https://github.com/core-man" class="iconfont icon-github" title="github"></a>
+  <a href="https://core-man.github.io/blog/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    由 <a class="hexo-link" href="https://gohugo.io">Hugo</a> 强力驱动
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    主题 - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    &copy; 
+    2020
+    <span class="heart">
+      <i class="iconfont icon-heart"></i>
+    </span>
+    <span class="author">core-man</span>
+  </span>
+</div>
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+
+
+
+<script type="text/javascript" src="/blog/js/main.min.d7b7ada643c9c1a983026e177f141f7363b4640d619caf01d8831a6718cd44ea.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>
